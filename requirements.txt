@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+fastapi
+uvicorn
+pydantic
+httpx
+pandas
+python-dotenv

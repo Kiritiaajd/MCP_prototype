@@ -1,0 +1,12 @@
+# environment.yml
+name: mcp_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - fastapi
+  - uvicorn
+  - pandas
+  - python-dotenv
+  - httpx
