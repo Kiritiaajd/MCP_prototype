@@ -1,0 +1,5 @@
+[User] hii
+[Assistant] 🧠 [Response from SSE client would appear here for:]
+
+> hii
+

@@ -1,0 +1,1001 @@
+Enterprise_ID,Enterprise_Name,Sector,Annual_Revenue,Employees,Credit_Score,Loan_Amount,Loan_Purpose,Loan_Tenure,Interest_Rate,Prev_Loan_Default,Collateral_Value,Application_Date,Loan_Approved
+1192,Patel-Young,Finance,30396082,158,849,4280266,Research & Development,48,11.57,No,4185554,2025-05-20,Yes
+1397,"Dennis, Davis and Hodge",IT Services,19907101,215,774,1806826,Real Estate,12,13.94,No,4265250,2025-05-20,Yes
+1575,"Henry, Shaw and Brown",Education,33737614,201,594,2049902,Expansion,60,7.84,No,4411707,2025-05-20,No
+1756,Jackson Group,Agriculture,49641341,222,791,2986569,Equipment Purchase,48,11.34,No,3546610,2025-05-19,Yes
+1554,Sanford-Baxter,Manufacturing,25192961,126,487,1201267,Expansion,36,9.34,No,2979386,2025-05-19,No
+1123,Ryan Ltd,Retail,1076218,80,401,3935598,Debt Consolidation,60,13.86,No,3351112,2025-05-18,No
+1383,King PLC,Retail,7714301,76,417,4122261,Inventory Purchase,60,10.48,No,3950838,2025-05-17,No
+1048,"Sherman, Alvarez and Flores",Healthcare,14757649,313,793,231184,Expansion,24,14.44,No,3362750,2025-05-16,Yes
+1446,Thomas-Sutton,IT Services,21521013,325,715,2246674,Research & Development,60,11.2,No,1725259,2025-05-15,Yes
+1095,"Long, Alvarez and Brown",Finance,47962034,382,784,843088,Expansion,36,14.83,No,4848064,2025-05-15,Yes
+1232,Thomas-Washington,Manufacturing,43872208,51,731,3468270,Expansion,36,9.74,No,1827310,2025-05-15,No
+1995,Valdez-Branch,Finance,20397196,93,474,4026690,Equipment Purchase,24,10.73,No,1152020,2025-05-14,No
+1394,"Dennis, Rivera and Ochoa",Hospitality,36414014,139,718,1962205,Expansion,24,10.74,No,890268,2025-05-14,No
+1379,Salas LLC,Hospitality,33339834,499,362,780667,Inventory Purchase,48,11.23,Yes,1960155,2025-05-13,No
+1491,Gonzalez-Erickson,Manufacturing,21057988,110,515,4231146,Inventory Purchase,12,11.7,No,4912944,2025-05-13,No
+1465,Cantu-Garcia,Hospitality,25586222,276,403,3895830,Working Capital,12,7.62,No,1912015,2025-05-13,No
+1910,Carlson-Hancock,Retail,18715057,122,339,397584,Debt Consolidation,12,10.94,No,605134,2025-05-13,No
+1672,"Thornton, Robinson and Oneal",Manufacturing,32247234,226,302,1883611,Debt Consolidation,36,11.65,No,1208866,2025-05-12,No
+1891,Palmer-James,IT Services,19720027,375,453,4561213,Marketing,48,12.71,No,500415,2025-05-10,No
+1287,Clark-Ramirez,IT Services,7867218,462,590,3991151,Real Estate,36,12.41,No,2829060,2025-05-10,No
+1550,Freeman PLC,Construction,29500556,414,713,2888107,Real Estate,24,9.48,No,2252661,2025-05-08,Yes
+1843,"Thomas, Walker and Huffman",Finance,33386345,390,847,484370,Real Estate,12,12.33,No,404182,2025-05-08,Yes
+1473,"Hall, Baker and King",Hospitality,32500922,92,390,1527989,Marketing,24,11.4,No,4655677,2025-05-08,No
+1975,Pineda PLC,Healthcare,20921696,79,395,4414896,Working Capital,60,7.42,No,2841004,2025-05-07,No
+1189,White Group,Agriculture,44946719,235,706,1514718,Research & Development,60,14.73,No,4485728,2025-05-07,Yes
+1403,Harrison-Ortega,Finance,39963185,459,503,2370463,Equipment Purchase,48,9.06,No,2111892,2025-05-06,No
+1412,"Jensen, Thompson and Gregory",Education,5317048,119,454,2649565,Expansion,24,12.89,Yes,1008395,2025-05-06,No
+1538,Johnson and Sons,Hospitality,23098345,222,487,2499146,Inventory Purchase,12,8.69,No,2092361,2025-05-02,No
+1039,"Pruitt, Watson and Rowe",IT Services,43827417,471,789,2109606,Real Estate,24,13.01,Yes,3943623,2025-05-02,No
+1475,"Snyder, Blankenship and Anderson",IT Services,35045468,108,566,1300532,Marketing,36,7.82,No,1593912,2025-05-01,No
+1216,Patel-Lynch,Manufacturing,47365848,332,585,182409,Real Estate,12,8.82,No,2815013,2025-05-01,No
+1066,Wolfe PLC,Hospitality,30168464,441,831,1924964,Real Estate,48,8.75,No,3086773,2025-04-30,Yes
+1737,Washington-Jones,Agriculture,39400142,369,456,1916760,Debt Consolidation,12,9.87,No,2475358,2025-04-30,No
+1972,"Allen, Davis and Patterson",Manufacturing,17040922,201,387,4225903,Marketing,12,14.91,Yes,2292019,2025-04-30,No
+1075,Daniel and Sons,Transportation,10427504,116,357,583455,Inventory Purchase,12,9.4,No,1561710,2025-04-28,No
+1033,"Brown, Pierce and Zavala",Construction,43411316,111,670,4322102,Equipment Purchase,36,11.31,No,2467714,2025-04-27,No
+1898,Myers-Velazquez,Transportation,2805808,323,520,3323253,Real Estate,48,8.29,No,4823147,2025-04-26,No
+1188,Cummings-Harper,Hospitality,13800127,117,518,989855,Inventory Purchase,24,9.43,No,2169228,2025-04-26,No
+1305,Ellis Inc,Retail,24388869,477,793,1090121,Expansion,24,9.32,No,124723,2025-04-26,No
+1312,"Clark, Ortiz and Willis",IT Services,29172140,124,755,2056874,Inventory Purchase,12,10.13,No,2239568,2025-04-26,Yes
+1958,Scott-Monroe,Finance,23015777,254,742,4281726,Equipment Purchase,48,14.25,No,411911,2025-04-24,No
+1899,Figueroa Group,Agriculture,10709175,495,667,2465885,Equipment Purchase,48,12.6,No,135350,2025-04-23,No
+1081,"Weber, Garcia and Davis",Finance,30122426,290,396,1724777,Real Estate,36,11.67,No,4112316,2025-04-22,No
+1167,Anderson Ltd,Hospitality,21153729,302,346,2188062,Equipment Purchase,36,14.42,No,2706040,2025-04-22,No
+1466,Wilson-Valencia,Hospitality,16527000,187,513,1055205,Marketing,60,12.37,No,2500503,2025-04-20,No
+1812,Mcgee LLC,Education,16540627,75,631,1440683,Working Capital,36,9.95,No,3208562,2025-04-20,Yes
+1604,Mays and Sons,Retail,36490172,352,321,1047272,Research & Development,36,12.49,No,4258981,2025-04-20,No
+1273,Rojas-Ballard,Transportation,41539152,181,660,3238102,Research & Development,48,10.93,No,3999842,2025-04-20,Yes
+1470,"Watson, Smith and Ferrell",Education,19498826,472,816,3130555,Expansion,12,13.71,No,2055464,2025-04-20,No
+1452,"Johns, Pitts and Nelson",Retail,46238137,263,599,284514,Equipment Purchase,24,12.46,No,3221553,2025-04-20,No
+1789,Davis-Dixon,Finance,37458065,195,689,598512,Marketing,12,10.12,No,4572781,2025-04-19,Yes
+1164,Brown LLC,Healthcare,22232430,58,782,3658818,Marketing,36,14.15,No,671531,2025-04-19,No
+1208,Jenkins Inc,Retail,12878474,263,362,3184562,Marketing,36,11.31,No,2000408,2025-04-19,No
+1801,Rodriguez and Sons,Manufacturing,42654364,329,534,1408014,Marketing,36,9.71,No,4112118,2025-04-18,No
+1175,"Hawkins, Neal and Beck",Transportation,23214365,211,442,3900986,Research & Development,24,9.26,No,2332373,2025-04-17,No
+1141,"Jones, Montoya and Allen",Hospitality,43842925,371,749,979459,Equipment Purchase,36,14.87,No,4880165,2025-04-17,Yes
+1626,Perez and Sons,Construction,7440010,142,436,2397905,Equipment Purchase,36,12.77,No,3412079,2025-04-16,No
+1099,"Richards, Steele and Lawson",Education,15013403,248,509,1194409,Equipment Purchase,12,12.74,No,4291244,2025-04-15,No
+1032,Jackson Group,Retail,34872840,437,604,225355,Equipment Purchase,24,7.69,No,534427,2025-04-14,Yes
+1003,"Ellis, Jones and Johnson",Transportation,32549031,463,641,4607167,Expansion,36,11.99,No,4226852,2025-04-12,Yes
+1140,Jennings Inc,Healthcare,41576287,182,694,3607447,Real Estate,48,12.68,No,3162734,2025-04-12,Yes
+1515,Barrera-Gross,Retail,3366610,238,425,719003,Real Estate,24,8.47,No,103010,2025-04-10,No
+1509,"Mckay, Moran and Khan",Healthcare,27376033,16,586,4143763,Real Estate,24,8.01,No,2757133,2025-04-10,No
+1249,Nguyen LLC,Healthcare,40787171,205,642,953605,Marketing,24,12.74,No,4576226,2025-04-08,Yes
+1325,"Miller, Lester and Bruce",IT Services,43607220,463,730,2428476,Equipment Purchase,48,12.5,No,2182942,2025-04-08,Yes
+1130,Orr LLC,Finance,30822180,449,681,380833,Research & Development,36,8.82,No,4984164,2025-04-08,Yes
+1904,Hernandez-Sims,IT Services,39209230,28,774,3024537,Equipment Purchase,24,14.49,No,742019,2025-04-07,No
+1041,Kerr and Sons,Education,22012258,459,588,4699409,Real Estate,60,12.41,No,2139884,2025-04-06,No
+1205,"Ramirez, Duarte and Turner",Retail,16985249,87,583,953329,Working Capital,12,12.87,Yes,2671021,2025-04-05,No
+1303,Taylor-Murphy,Manufacturing,23992356,405,340,1620373,Real Estate,60,11.36,Yes,1468180,2025-04-04,No
+1921,"Murray, Schmidt and Smith",Retail,29113586,468,578,3110087,Working Capital,48,10.89,Yes,2075216,2025-04-03,No
+1331,Hardy PLC,Agriculture,30061846,170,412,170463,Marketing,12,9.64,No,2287699,2025-04-02,No
+1479,"Stone, Hill and Jacobs",Construction,18920169,199,786,3100109,Inventory Purchase,12,7.39,No,676776,2025-04-02,No
+1743,"Villarreal, Smith and Klein",Education,2443717,212,770,719696,Debt Consolidation,24,13.41,No,724502,2025-04-01,Yes
+1618,Garner LLC,IT Services,35366893,52,395,3673258,Real Estate,60,8.4,No,873837,2025-04-01,No
+1818,"Cox, Erickson and Rich",Transportation,21808635,95,453,553222,Equipment Purchase,60,13.17,No,4842030,2025-03-31,No
+1222,Dyer Ltd,Education,4751198,250,633,2027716,Inventory Purchase,48,9.97,No,3851082,2025-03-31,Yes
+1828,Weeks Inc,Transportation,44279777,427,440,2735122,Marketing,36,13.8,No,1153248,2025-03-31,No
+1422,"Riley, Miller and Yang",Manufacturing,40509310,34,421,2143321,Research & Development,48,12.8,No,431856,2025-03-30,No
+1449,Berg-Gordon,Manufacturing,12318792,169,640,4191685,Real Estate,12,9.88,No,599391,2025-03-30,No
+1247,Bullock-Miller,Manufacturing,39457098,434,307,2565912,Expansion,60,13.94,No,2076393,2025-03-30,No
+1610,Roberts and Sons,Transportation,48718021,437,765,4325389,Debt Consolidation,48,10.06,No,1894348,2025-03-29,No
+1966,Wiggins-Jennings,Healthcare,37387984,329,410,1036320,Expansion,12,10.01,No,3325654,2025-03-28,No
+1902,Austin Ltd,Manufacturing,32049883,365,793,2301340,Debt Consolidation,12,11.05,Yes,995032,2025-03-27,No
+1954,Garcia and Sons,Hospitality,38655044,207,609,746012,Debt Consolidation,48,14.0,No,3780536,2025-03-26,Yes
+1662,"Wilkins, Parker and Vang",Agriculture,48123764,472,330,4080053,Research & Development,24,14.85,No,1664340,2025-03-26,No
+1580,Palmer PLC,Manufacturing,9067987,138,620,3445026,Inventory Purchase,24,12.15,Yes,3105450,2025-03-25,No
+1516,Graham-Sandoval,Hospitality,38734735,95,576,293839,Working Capital,24,7.85,No,957272,2025-03-24,No
+1591,"Allen, Clark and Williams",Construction,18375113,286,322,2220711,Research & Development,36,12.03,No,3479985,2025-03-21,No
+1199,"Richardson, Wilson and Ball",IT Services,20023125,485,723,4623535,Real Estate,24,14.69,No,1951737,2025-03-21,No
+1793,Adams-Munoz,Retail,18994276,373,601,2030440,Working Capital,24,8.91,No,4095721,2025-03-20,Yes
+1194,Jordan-Hayes,Manufacturing,32404552,159,800,212935,Working Capital,60,7.05,No,3038088,2025-03-19,Yes
+1457,"Monroe, Boyd and Allen",IT Services,36383985,296,579,4883725,Equipment Purchase,12,8.0,No,2903502,2025-03-19,No
+1148,Bennett-Price,Education,1611213,286,455,4285224,Real Estate,24,7.17,No,4454003,2025-03-18,No
+1463,Henderson and Sons,Hospitality,25440805,139,572,2614399,Expansion,12,10.59,No,780559,2025-03-18,No
+1654,Clements Group,Retail,40304715,346,795,931257,Real Estate,36,8.31,No,1627586,2025-03-16,Yes
+1393,"Little, Jackson and Bush",Manufacturing,12374857,356,743,1621722,Equipment Purchase,12,11.23,No,2017582,2025-03-16,Yes
+1101,"Ross, Jones and Walton",IT Services,40648899,300,753,4204399,Expansion,12,13.38,No,4977611,2025-03-16,Yes
+1448,"Marshall, Gill and Simpson",Manufacturing,38735088,399,796,2309853,Expansion,24,14.78,No,2009129,2025-03-15,Yes
+1294,Cole-Leonard,Retail,37532022,115,640,2634957,Debt Consolidation,60,13.75,No,846266,2025-03-14,No
+1198,"Moran, Garcia and Gonzalez",Healthcare,34877350,428,580,4380650,Real Estate,12,8.29,No,344957,2025-03-14,No
+1410,"Castaneda, Harvey and Hamilton",Construction,1397710,279,742,1344360,Expansion,48,12.68,No,1498598,2025-03-14,Yes
+1583,Williams PLC,Manufacturing,23922481,57,832,1861369,Equipment Purchase,12,8.33,No,796470,2025-03-13,No
+1020,Mills-Wyatt,IT Services,17591661,85,447,1123920,Research & Development,48,14.88,No,3385705,2025-03-13,No
+1611,Nelson Inc,Construction,19331726,458,311,2721158,Expansion,36,12.05,No,809848,2025-03-12,No
+1145,Rojas-May,Manufacturing,30677043,384,430,3741644,Equipment Purchase,60,9.25,No,1451471,2025-03-11,No
+1878,Fisher-Shah,Construction,18819593,385,404,4042863,Debt Consolidation,60,7.79,No,2529129,2025-03-11,No
+1896,Zamora PLC,Manufacturing,26258148,85,698,3841104,Real Estate,24,8.02,No,1678661,2025-03-10,No
+1070,Mills Inc,Education,45798099,373,513,4778083,Debt Consolidation,12,11.87,No,2025556,2025-03-09,No
+1625,"Walker, Bradford and King",Manufacturing,27552476,26,456,1634227,Research & Development,36,12.07,No,1085340,2025-03-09,No
+1867,Alexander LLC,Hospitality,26227191,80,415,3027503,Expansion,24,14.83,No,4758415,2025-03-07,No
+1556,"Taylor, Walker and Lewis",Healthcare,26654796,205,344,518829,Marketing,12,9.84,No,4803214,2025-03-06,No
+1014,Calderon Inc,Retail,28580296,319,832,2670115,Debt Consolidation,48,8.81,No,447693,2025-03-06,No
+1572,Holmes Group,Hospitality,43378463,406,410,349265,Inventory Purchase,60,9.43,No,4283384,2025-03-06,No
+1713,Johnston LLC,Manufacturing,12779534,222,720,4403677,Debt Consolidation,48,7.16,No,1794919,2025-03-03,No
+1263,Miller-Sweeney,Agriculture,6703394,59,431,752416,Expansion,60,9.57,No,1045791,2025-02-28,No
+1919,Henson Group,Construction,42055392,260,480,3452214,Debt Consolidation,24,8.91,No,1700882,2025-02-27,No
+1025,Frye-Reynolds,Education,41225750,325,441,397675,Equipment Purchase,24,10.4,Yes,4968580,2025-02-26,No
+1964,"Nicholson, Rodriguez and Crosby",Finance,9121757,78,804,3955798,Marketing,24,14.55,No,166481,2025-02-26,No
+1612,"Wolfe, Brown and Gonzalez",Transportation,27996639,96,589,3251478,Inventory Purchase,24,10.44,No,1459277,2025-02-25,No
+1334,"Rivera, Goodman and Lopez",Finance,12457501,47,340,2530992,Expansion,48,9.43,No,1863065,2025-02-25,No
+1765,Singleton LLC,Hospitality,17002437,53,638,4380428,Working Capital,60,10.25,No,1726373,2025-02-25,No
+1692,"Thomas, Brewer and Mitchell",Agriculture,9025407,297,824,337068,Debt Consolidation,60,10.29,No,1172207,2025-02-25,Yes
+1504,"Warren, Jacobson and Phillips",Healthcare,2950013,125,446,2682985,Real Estate,60,11.65,No,2575525,2025-02-24,No
+1511,"Sutton, Martinez and Richardson",Retail,22981132,101,779,4617562,Debt Consolidation,24,12.41,No,3136810,2025-02-23,Yes
+1021,Stephens-Reed,Construction,7575716,208,771,3911666,Real Estate,48,8.67,No,1394091,2025-02-22,No
+1933,Mcclain Group,Agriculture,9535078,408,641,3044236,Equipment Purchase,24,11.41,No,4922587,2025-02-22,Yes
+1278,Morgan-Douglas,Retail,20482215,363,582,1171984,Debt Consolidation,48,10.29,No,2641318,2025-02-22,No
+1001,"Johnson, Hernandez and Welch",Finance,26836512,111,707,4076974,Working Capital,12,12.19,No,2523055,2025-02-21,No
+1905,Gonzalez-Ross,Construction,49383877,441,570,4884377,Equipment Purchase,36,11.11,No,3694393,2025-02-16,No
+1924,"Glass, Duncan and Hall",Education,34149417,310,808,2775032,Marketing,24,8.91,No,2881455,2025-02-16,Yes
+1976,Allen-Bryant,Transportation,30461504,99,722,334000,Marketing,36,7.91,No,3347334,2025-02-15,Yes
+1151,"Jones, Weaver and Weaver",Retail,36393865,402,716,2461216,Debt Consolidation,48,10.74,No,4208527,2025-02-14,Yes
+1284,Jennings LLC,Retail,29003805,309,392,593992,Research & Development,36,12.73,No,4762838,2025-02-14,No
+1980,Ruiz-Rivera,Construction,47048559,304,677,2705221,Inventory Purchase,36,13.29,No,1204258,2025-02-13,No
+1635,Porter PLC,Hospitality,44429245,445,770,126616,Real Estate,36,12.22,No,3057446,2025-02-13,Yes
+1752,Cook-Banks,IT Services,48081137,278,577,2112755,Equipment Purchase,12,9.68,Yes,992639,2025-02-13,No
+1503,Jenkins-Avery,Manufacturing,34957164,494,636,1949916,Expansion,36,12.01,No,3190283,2025-02-12,Yes
+1396,Grant and Sons,Manufacturing,14775236,475,778,450067,Research & Development,60,12.2,No,102635,2025-02-12,No
+1689,Henson-Gill,Retail,39464208,360,353,269934,Equipment Purchase,24,13.37,No,4985500,2025-02-12,No
+1913,Barry-Jacobs,Agriculture,21709657,155,835,4875275,Real Estate,48,13.77,No,2370886,2025-02-11,No
+1636,Mejia PLC,Transportation,45808939,408,517,4242887,Inventory Purchase,12,10.24,No,266194,2025-02-11,No
+1251,Wade Inc,Transportation,12952314,58,723,1415823,Debt Consolidation,36,7.74,No,1344416,2025-02-09,Yes
+1233,"Thornton, Woodard and Vargas",IT Services,35954715,297,567,2352641,Debt Consolidation,36,13.48,No,377370,2025-02-08,No
+1350,"Blackwell, Peters and Macias",IT Services,16170521,340,380,2248983,Marketing,60,9.67,No,3986642,2025-02-08,No
+1441,Rodriguez-Jenkins,Finance,24544744,40,604,1905518,Working Capital,48,10.42,No,428355,2025-02-06,No
+1985,"Williams, Hopkins and Aguilar",Healthcare,49120511,109,776,4531373,Research & Development,36,10.01,No,3213257,2025-02-06,Yes
+1719,"Deleon, Johnson and Campbell",Construction,17052465,385,818,1019134,Inventory Purchase,36,12.74,No,1916161,2025-02-05,Yes
+1063,Howard Group,IT Services,42041777,237,331,1757888,Debt Consolidation,12,13.96,No,227265,2025-02-05,No
+1651,Bruce PLC,Manufacturing,43862524,489,839,813340,Debt Consolidation,36,8.09,No,1971166,2025-02-04,Yes
+1159,"Campbell, Williams and Burns",Hospitality,22116451,134,475,4102981,Marketing,60,10.46,No,2391102,2025-02-04,No
+1656,"Hamilton, Olson and Porter",Construction,22402894,145,535,1979262,Working Capital,12,7.8,No,398249,2025-02-04,No
+1830,Rodriguez-Yu,Construction,34321714,386,307,848692,Equipment Purchase,12,14.62,No,4313528,2025-02-03,No
+1224,Simon-Knight,IT Services,4138145,496,340,1292503,Marketing,60,8.36,No,3979268,2025-02-03,No
+1443,Fox-Robinson,Manufacturing,28381509,29,678,3036537,Debt Consolidation,60,14.43,No,4043611,2025-02-02,Yes
+1855,"Mitchell, Prince and Craig",Agriculture,28364435,368,309,520539,Marketing,24,12.19,Yes,3671609,2025-02-02,No
+1318,Newton-Hunt,Transportation,39360857,257,402,3872827,Debt Consolidation,48,9.54,No,2942970,2025-02-02,No
+1809,Hicks-Washington,Healthcare,42478073,240,551,3979928,Equipment Purchase,48,7.36,No,4417209,2025-02-01,No
+1657,Weiss-Hicks,Finance,12950571,265,754,3743327,Debt Consolidation,36,9.17,No,4679199,2025-02-01,Yes
+1648,Farmer Inc,Education,15921595,147,400,2692806,Expansion,24,14.33,No,3899182,2025-02-01,No
+1128,Tran Inc,Construction,48872760,454,652,1670234,Expansion,12,13.24,No,3968446,2025-01-31,Yes
+1464,Miller PLC,Transportation,22765239,391,398,4763062,Equipment Purchase,60,10.67,No,571727,2025-01-30,No
+1367,Rodriguez Inc,Transportation,8152747,253,719,3550087,Working Capital,60,13.94,No,2617228,2025-01-29,Yes
+1289,Cordova-Pham,Manufacturing,46334458,486,348,2048061,Inventory Purchase,60,11.77,No,533791,2025-01-29,No
+1953,Elliott Ltd,Transportation,1800101,127,512,3603548,Marketing,24,8.59,No,1686617,2025-01-29,No
+1838,"Sutton, Mann and Davenport",Finance,29207970,220,385,3981143,Debt Consolidation,36,7.36,No,613506,2025-01-27,No
+1400,"Lucero, Anderson and Cook",Transportation,47695565,265,624,2467322,Inventory Purchase,36,7.6,Yes,3313457,2025-01-27,No
+1694,Maxwell-Richardson,Education,49055661,235,697,4249287,Inventory Purchase,60,12.04,No,2740927,2025-01-26,No
+1143,Evans and Sons,Education,41906639,388,756,1922744,Equipment Purchase,60,7.77,No,3005251,2025-01-26,Yes
+1034,"Armstrong, Williams and Herman",Retail,31375048,483,683,715937,Debt Consolidation,24,14.31,No,4768740,2025-01-25,Yes
+1488,"Wilson, Gutierrez and Marshall",Retail,22827621,112,527,3348204,Marketing,12,8.51,No,566031,2025-01-25,No
+1785,"Smith, Walker and Jackson",Transportation,44992967,238,314,3477932,Equipment Purchase,48,7.63,No,336539,2025-01-25,No
+1755,Serrano LLC,Construction,10331795,38,389,1950924,Equipment Purchase,60,12.05,No,2498966,2025-01-25,No
+1360,Schneider-Villanueva,Manufacturing,27854296,428,578,2430344,Equipment Purchase,36,8.45,No,2151847,2025-01-25,No
+1432,"Sanders, Beck and Howard",Hospitality,23470291,77,358,1073737,Research & Development,60,14.86,No,3318896,2025-01-24,No
+1638,Edwards PLC,Construction,45924507,400,322,3938187,Debt Consolidation,60,7.86,No,2535702,2025-01-24,No
+1061,Weaver Group,Healthcare,32199893,472,593,4557335,Research & Development,12,13.41,No,2892894,2025-01-23,No
+1646,Bell Ltd,Construction,14245696,17,832,3418843,Research & Development,12,12.3,No,350763,2025-01-22,No
+1633,Campbell LLC,Education,33790042,237,720,1906210,Research & Development,24,13.58,No,2953561,2025-01-22,Yes
+1698,"Riley, Bryan and Webb",Construction,45721695,282,316,805356,Debt Consolidation,24,7.13,Yes,477557,2025-01-22,No
+1650,Thomas-Mendoza,Manufacturing,49123406,120,603,877635,Inventory Purchase,24,13.36,No,1614458,2025-01-21,Yes
+1122,Keller Group,Hospitality,37992982,168,559,1014565,Debt Consolidation,36,10.76,Yes,841043,2025-01-20,No
+1217,Vazquez-Mclean,Transportation,7944121,51,564,3728104,Expansion,48,11.35,No,86382,2025-01-20,No
+1746,Moore Group,IT Services,22888358,159,403,4414366,Research & Development,48,11.69,No,4653446,2025-01-20,No
+1068,Hamilton Group,Transportation,26185640,335,682,3854542,Real Estate,24,13.05,No,1740792,2025-01-19,No
+1091,Flores-Torres,Retail,11055079,299,807,1655537,Real Estate,48,12.53,No,3081946,2025-01-17,Yes
+1342,Bowman Inc,Education,25728848,75,839,664430,Marketing,36,12.3,No,1358064,2025-01-15,Yes
+1118,Stephens Group,Finance,8449607,117,408,2868705,Real Estate,24,7.44,No,849717,2025-01-15,No
+1239,"Smith, Wallace and Lee",Education,44092987,362,575,3012511,Equipment Purchase,36,12.19,No,3732796,2025-01-14,No
+1508,"Arnold, Green and Ward",Manufacturing,26177127,492,793,1053122,Debt Consolidation,36,9.82,No,2378767,2025-01-13,Yes
+1280,"Black, Gregory and Juarez",Finance,29356738,295,679,755496,Inventory Purchase,60,11.61,No,1501469,2025-01-12,Yes
+1826,"Mclean, Miller and Johnson",Hospitality,10852415,23,546,3049311,Working Capital,60,8.61,No,2015629,2025-01-12,No
+1271,Wells Inc,Healthcare,3721864,139,461,1949395,Research & Development,60,9.83,No,1947459,2025-01-12,No
+1002,"Moreno, Sandoval and Ryan",Healthcare,11673774,28,713,3592963,Expansion,48,14.19,No,1377877,2025-01-11,No
+1415,"Roberts, Martinez and Phillips",Healthcare,5785956,247,747,3060883,Working Capital,24,9.73,No,1377878,2025-01-10,No
+1957,Gardner-Knight,Healthcare,23791342,60,331,2369798,Marketing,12,9.55,No,2409792,2025-01-10,No
+1207,"Allen, Gonzalez and English",Healthcare,49571172,450,626,2126110,Expansion,60,9.3,Yes,1856423,2025-01-09,No
+1965,Lee Ltd,Manufacturing,42971665,358,735,3059470,Working Capital,36,14.81,No,4312563,2025-01-08,Yes
+1336,Powell and Sons,Retail,4433382,151,501,4949433,Real Estate,12,9.35,No,4852850,2025-01-07,No
+1586,Gonzalez Group,Agriculture,44497663,19,612,1567172,Inventory Purchase,60,9.83,No,1199164,2025-01-07,Yes
+1311,Townsend-Sullivan,Retail,21275688,357,631,1520827,Inventory Purchase,48,9.93,No,1085211,2025-01-07,Yes
+1428,Norton-Wilkerson,Construction,39559430,491,386,4491401,Inventory Purchase,12,12.17,No,4066899,2025-01-04,No
+1797,"Jones, Robles and Soto",Construction,42664130,397,392,4940349,Marketing,36,7.16,No,2274344,2025-01-04,No
+1879,"Velez, Young and Turner",Healthcare,49436828,263,492,4408080,Inventory Purchase,48,7.73,No,905434,2025-01-03,No
+1787,"Jones, Chen and Martinez",Finance,11556086,145,576,2379023,Inventory Purchase,24,8.99,No,2103790,2025-01-03,No
+1419,"Adams, Brown and Wright",Construction,45793211,492,544,382140,Marketing,12,14.45,No,2159571,2025-01-01,No
+1007,"Beck, Jackson and Carlson",Retail,40302467,498,569,1976336,Debt Consolidation,36,14.27,Yes,4248811,2024-12-30,No
+1173,"Boyer, Wheeler and Martinez",Construction,14579173,69,815,4427802,Debt Consolidation,60,8.14,No,2915728,2024-12-30,No
+1269,Berry-Anderson,Manufacturing,23708377,351,791,1274846,Research & Development,12,7.39,No,2877433,2024-12-28,Yes
+1330,Walker-Moore,Education,10913841,297,383,826448,Working Capital,36,10.27,No,1886082,2024-12-26,No
+1454,Lewis-Hawkins,Manufacturing,9676924,69,658,1957596,Equipment Purchase,48,12.72,No,3232999,2024-12-26,Yes
+1368,"Baker, Frazier and Garrison",Construction,49344513,499,728,1593551,Debt Consolidation,36,12.66,No,799045,2024-12-25,No
+1684,Martinez Ltd,Hospitality,17520181,267,526,395599,Debt Consolidation,48,11.28,No,258150,2024-12-25,No
+1110,Wilson-Rose,Retail,15493549,86,428,1885818,Expansion,24,10.84,No,2004702,2024-12-25,No
+1551,Guerrero Ltd,Agriculture,33073692,317,657,130257,Marketing,24,10.58,No,4600056,2024-12-25,Yes
+1943,Williams Group,Transportation,13529971,334,710,2189319,Research & Development,24,12.67,No,4430268,2024-12-25,Yes
+1846,"Watson, Dunlap and Garcia",Transportation,40092598,403,554,3552629,Marketing,12,11.34,No,2548002,2024-12-24,No
+1696,"Stafford, Moreno and Thompson",Finance,27931806,19,686,951161,Debt Consolidation,60,8.15,No,2632977,2024-12-24,Yes
+1863,Jensen Ltd,Hospitality,39785284,438,703,899687,Expansion,24,12.01,No,1850830,2024-12-23,Yes
+1861,Cantu-Carroll,IT Services,35932801,197,428,2622919,Marketing,60,11.15,No,588769,2024-12-23,No
+1026,Fernandez LLC,Manufacturing,18271808,102,612,808175,Research & Development,60,11.52,No,1651207,2024-12-22,Yes
+1155,"Mitchell, Brown and Henry",Education,19803796,19,637,4569353,Inventory Purchase,60,13.27,No,2948845,2024-12-20,No
+1424,Griffith PLC,Finance,31272855,126,848,1897519,Real Estate,60,14.8,No,3815444,2024-12-20,Yes
+1460,Salas-White,Retail,30253634,427,438,2850025,Equipment Purchase,60,11.78,No,900122,2024-12-20,No
+1358,Williams-Griffin,Hospitality,41686940,320,426,1960971,Working Capital,12,10.94,Yes,192617,2024-12-20,No
+1191,Williams PLC,Healthcare,2732465,128,653,908301,Real Estate,12,9.68,No,3577089,2024-12-20,Yes
+1450,"Roach, Thomas and Mayo",Retail,26242722,358,682,307352,Debt Consolidation,36,10.82,No,477479,2024-12-20,Yes
+1568,"Murphy, Hill and Moore",Retail,48364509,431,749,100917,Real Estate,36,14.57,No,2342056,2024-12-20,Yes
+1434,Guzman LLC,Retail,39747710,453,799,4002908,Debt Consolidation,12,10.51,No,4303459,2024-12-19,Yes
+1912,James-Hodges,Transportation,44859585,490,463,992015,Inventory Purchase,24,10.92,No,4974824,2024-12-18,No
+1178,Gardner Inc,IT Services,4266402,412,526,144816,Expansion,24,14.99,No,902224,2024-12-17,No
+1324,"Saunders, Villanueva and Mills",Hospitality,48878478,93,642,4284238,Inventory Purchase,36,9.88,No,4009015,2024-12-15,Yes
+1433,Davis Group,Hospitality,42664348,182,730,1233387,Expansion,60,14.29,No,1711127,2024-12-15,Yes
+1567,Hernandez-Turner,Hospitality,9989138,422,621,965256,Debt Consolidation,12,10.62,No,3029674,2024-12-15,Yes
+1895,Hudson-Mann,Education,10714891,118,383,1260152,Equipment Purchase,12,11.75,No,3282940,2024-12-15,No
+1395,"Barr, Harrington and Allison",Hospitality,30610323,428,726,1565915,Marketing,48,7.85,No,3780864,2024-12-11,Yes
+1295,"Ayala, Duncan and Pittman",Manufacturing,25376816,455,617,263187,Debt Consolidation,48,10.68,No,2672280,2024-12-11,Yes
+1405,"Pineda, Ross and Barrera",Agriculture,47571160,262,330,4950334,Inventory Purchase,48,9.08,No,4128140,2024-12-10,No
+1391,Grant LLC,Education,27035947,172,447,3188589,Research & Development,24,8.16,No,1554819,2024-12-09,No
+1485,Moody-Brown,Transportation,1605409,106,828,2549308,Inventory Purchase,36,13.05,No,1841825,2024-12-09,Yes
+1609,Shannon-Ruiz,Agriculture,39710304,425,770,2337300,Research & Development,60,14.28,Yes,2558894,2024-12-08,No
+1022,Smith PLC,Manufacturing,3002324,152,498,3919712,Debt Consolidation,36,8.04,No,454470,2024-12-08,No
+1832,"Anderson, Hinton and White",Manufacturing,27256629,84,651,3566689,Debt Consolidation,60,8.2,No,284745,2024-12-06,No
+1758,Rivera-Doyle,Construction,10986298,445,661,1714099,Marketing,12,10.01,No,4346841,2024-12-06,Yes
+1244,Alvarado LLC,Transportation,24025010,362,781,3402198,Equipment Purchase,24,13.91,No,914899,2024-12-06,No
+1097,Jones Ltd,Education,38646529,36,537,2695834,Working Capital,48,11.02,No,4505978,2024-12-05,No
+1436,Patel-Williams,Manufacturing,48089005,297,577,2738439,Working Capital,24,9.9,No,2904135,2024-12-05,No
+1134,Mckee Inc,Agriculture,9860935,383,564,2383785,Working Capital,48,9.74,No,4174741,2024-12-03,No
+1133,Blair Ltd,Retail,17354286,461,776,1977145,Real Estate,48,14.52,No,1909722,2024-12-02,Yes
+1533,Duncan-Torres,Construction,11115078,74,324,3840030,Marketing,36,12.7,No,1638049,2024-12-01,No
+1282,Hayes and Sons,Agriculture,11047595,273,748,3305228,Equipment Purchase,60,8.93,No,4786416,2024-11-30,Yes
+1866,Kline-Bell,Agriculture,22320139,128,573,2520872,Expansion,24,13.54,No,458177,2024-11-30,No
+1834,Johnson-Crawford,Agriculture,38998210,252,726,1714694,Equipment Purchase,12,11.61,Yes,3848570,2024-11-28,No
+1213,Daniels-Edwards,Finance,37207525,272,419,3080672,Marketing,12,13.83,No,3539550,2024-11-28,No
+1941,Farrell-Joseph,IT Services,34134205,99,836,1375393,Inventory Purchase,24,13.08,No,4509118,2024-11-28,Yes
+1555,Brown-Mercado,Agriculture,25859871,291,589,2155845,Debt Consolidation,36,9.36,No,3919108,2024-11-25,No
+1708,"King, Vazquez and Williams",Retail,33942480,482,455,564310,Equipment Purchase,48,13.91,No,4505237,2024-11-24,No
+1754,Guzman and Sons,Agriculture,21843837,267,828,2906284,Expansion,24,11.26,No,1560902,2024-11-23,No
+1915,"Johnson, Green and Campbell",Education,26560098,125,303,2068067,Research & Development,48,10.23,No,173182,2024-11-23,No
+1435,Lucas LLC,Hospitality,11812658,21,408,4748455,Research & Development,36,7.32,No,4706630,2024-11-22,No
+1236,Lowery Inc,Construction,1691757,45,768,1942360,Expansion,12,11.04,No,883142,2024-11-21,No
+1262,"Gonzalez, Moore and Clark",IT Services,25755666,209,478,636644,Marketing,12,10.55,No,4334874,2024-11-21,No
+1084,Anderson Inc,Manufacturing,25210749,60,678,3955933,Research & Development,12,11.78,No,1705464,2024-11-20,No
+1558,"Huynh, White and Gutierrez",Finance,30263888,61,422,3538780,Marketing,24,9.02,No,3067253,2024-11-19,No
+1431,"Guerrero, Rogers and Villanueva",Healthcare,48052359,88,376,2053341,Expansion,24,12.2,No,4048880,2024-11-19,No
+1119,Johnson-Carroll,Finance,21820280,83,832,4424660,Expansion,12,14.77,No,2532266,2024-11-19,No
+1481,Payne LLC,Healthcare,42723416,272,816,2544975,Debt Consolidation,48,10.5,No,1811987,2024-11-17,Yes
+1815,Palmer-Munoz,Agriculture,5188891,22,573,2773705,Research & Development,36,10.2,No,683976,2024-11-14,No
+1714,Rogers-Holland,Transportation,38712981,181,433,4198535,Working Capital,12,11.69,No,1078719,2024-11-12,No
+1158,"Campbell, Pitts and Williamson",Retail,7202258,130,578,2008911,Real Estate,24,14.15,No,1811856,2024-11-12,No
+1520,"Chandler, Lara and Wells",Education,5684346,71,585,2624055,Research & Development,48,13.25,No,586364,2024-11-11,No
+1392,Reyes and Sons,Construction,33909688,75,501,4339399,Debt Consolidation,60,14.02,No,4545433,2024-11-10,No
+1135,Moore-Fernandez,IT Services,25444321,272,671,4094420,Inventory Purchase,48,14.9,No,2602192,2024-11-09,No
+1888,Price-White,Hospitality,11856760,412,498,224591,Debt Consolidation,24,8.87,No,4253726,2024-11-09,No
+1974,Miller-Garner,Agriculture,9704813,365,403,4511054,Research & Development,24,12.38,No,362051,2024-11-09,No
+1310,"Ayers, Madden and Huber",Manufacturing,15143385,288,318,4209545,Inventory Purchase,48,8.74,No,1443196,2024-11-08,No
+1218,"Greene, Chandler and Campbell",Finance,7238795,383,619,4993180,Expansion,60,12.56,No,912219,2024-11-08,No
+1810,Zuniga Inc,Hospitality,36783612,228,389,3955288,Debt Consolidation,36,11.98,No,443781,2024-11-07,No
+1098,"Sims, Smith and Boyd",Finance,14769205,166,403,159778,Real Estate,48,14.28,No,3816176,2024-11-05,No
+1255,"Olson, Knight and Stevens",Healthcare,32354977,14,826,4932091,Real Estate,48,8.95,No,493035,2024-11-04,No
+1187,"Nelson, Berry and Beard",Construction,10944790,492,550,416462,Research & Development,60,7.7,No,2751243,2024-11-03,No
+1351,"Clark, Gomez and Ortiz",Finance,26841846,332,567,3042775,Inventory Purchase,36,11.63,No,2517286,2024-11-03,No
+1541,Smith LLC,Agriculture,31038378,494,426,4932303,Inventory Purchase,60,11.0,No,3920033,2024-11-02,No
+1847,Hill PLC,Construction,30124900,33,470,619385,Expansion,12,10.68,No,2092532,2024-11-01,No
+1641,Bates PLC,Manufacturing,49943187,451,400,452365,Working Capital,24,9.16,No,2245814,2024-11-01,No
+1643,Lopez and Sons,Manufacturing,44353746,270,822,4209404,Marketing,48,14.99,No,4907162,2024-10-31,Yes
+1059,Carroll Ltd,Agriculture,13966064,313,385,1090029,Real Estate,60,14.81,Yes,996984,2024-10-31,No
+1777,Lee-Williams,Healthcare,46221400,32,458,182806,Inventory Purchase,24,8.4,No,2038022,2024-10-31,No
+1548,Horn-Cook,IT Services,40972097,404,683,3099610,Inventory Purchase,24,11.75,No,416590,2024-10-31,No
+1427,Brown PLC,Agriculture,47316696,414,334,2058691,Research & Development,48,13.57,Yes,4629097,2024-10-31,No
+1584,"Walker, Mendoza and Patterson",Agriculture,43081603,38,702,3348140,Inventory Purchase,36,14.39,No,1982893,2024-10-30,No
+1778,Nixon Group,Transportation,28346162,422,788,4125345,Debt Consolidation,48,12.18,No,4480806,2024-10-29,Yes
+1991,English-Haas,Transportation,39491224,373,544,699792,Marketing,48,10.28,No,4304284,2024-10-29,No
+1366,Fox and Sons,Manufacturing,28866537,110,406,4855997,Research & Development,36,14.42,No,1806608,2024-10-29,No
+1817,Hall-Mitchell,Transportation,15064147,429,610,3405610,Debt Consolidation,36,10.25,No,2301347,2024-10-28,Yes
+1581,Morris-Williams,Education,2656671,139,532,1647419,Equipment Purchase,36,8.58,No,1440179,2024-10-27,No
+1388,Green-Blanchard,Hospitality,48379179,82,495,3749244,Working Capital,12,13.36,Yes,4478760,2024-10-26,No
+1661,Boyd Ltd,Construction,40720592,459,399,3130486,Equipment Purchase,48,9.74,No,2582000,2024-10-25,No
+1129,"Baker, Stephens and Walker",Finance,14061358,307,495,151707,Expansion,36,10.77,No,2618921,2024-10-24,No
+1653,Rose PLC,Education,48424280,229,602,3380931,Working Capital,12,14.71,Yes,4292154,2024-10-23,No
+1109,"Wheeler, Hamilton and Wade",Agriculture,30229010,442,519,1179525,Debt Consolidation,48,13.9,No,2264669,2024-10-22,No
+1035,Garcia-Phillips,Finance,11543305,276,744,1475607,Debt Consolidation,60,10.1,No,4008905,2024-10-20,Yes
+1338,Morales-Mcintosh,Education,29348817,490,565,4818784,Expansion,48,12.82,Yes,134153,2024-10-20,No
+1918,"Fields, Koch and Mcdonald",Construction,16702852,485,770,954741,Research & Development,36,11.58,No,134106,2024-10-19,No
+1577,Cabrera Inc,Manufacturing,16886372,129,514,428821,Equipment Purchase,48,13.36,No,4265272,2024-10-17,No
+1103,Reynolds-Lee,Finance,27791175,153,685,3442103,Expansion,36,10.66,No,3870730,2024-10-17,Yes
+1076,"Shaw, Thomas and Frank",Hospitality,12686214,345,325,4136405,Expansion,48,10.79,No,1817091,2024-10-17,No
+1256,"Wilson, Green and Williams",Retail,26874486,437,325,773812,Expansion,24,14.73,No,3149072,2024-10-16,No
+1807,Irwin-Smith,Healthcare,33880340,393,791,3702571,Marketing,24,13.32,No,1284832,2024-10-16,No
+1528,Palmer Group,Construction,36284660,480,787,3332452,Marketing,48,9.51,Yes,713478,2024-10-15,No
+1497,Tran-Kelley,Finance,1403119,429,664,3732403,Debt Consolidation,12,9.61,No,1360646,2024-10-15,No
+1531,Sawyer PLC,Finance,12667877,432,364,4261603,Research & Development,36,11.64,No,2466207,2024-10-14,No
+1381,Bell-Reed,Manufacturing,30900787,471,659,2114017,Expansion,36,12.11,Yes,4237442,2024-10-14,No
+1613,Walker-Collins,Hospitality,21540338,110,653,2538064,Inventory Purchase,12,10.5,No,1642023,2024-10-14,No
+1858,Phillips-Chan,Agriculture,2960826,47,546,3597831,Working Capital,12,11.9,No,2147951,2024-10-13,No
+1854,Pearson-Hooper,Agriculture,6540070,497,472,326256,Expansion,60,8.2,No,3765663,2024-10-11,No
+1574,"Smith, Delgado and Moore",Transportation,33735803,114,589,1907402,Debt Consolidation,36,8.15,No,977281,2024-10-10,No
+1530,Gomez Ltd,Hospitality,40669950,385,841,3846328,Expansion,36,7.27,No,1352970,2024-10-10,No
+1649,Webster-Coleman,Agriculture,25363941,47,801,1651899,Inventory Purchase,36,11.02,No,3495906,2024-10-10,Yes
+1731,Clarke and Sons,Construction,34138881,158,755,2467893,Expansion,24,13.94,No,1961128,2024-10-10,Yes
+1589,Montgomery-Armstrong,Agriculture,21833173,453,636,4580967,Marketing,60,12.42,No,3509544,2024-10-10,Yes
+1371,Galvan PLC,Healthcare,47058665,58,329,4265255,Debt Consolidation,36,13.46,No,437405,2024-10-10,No
+1906,"Park, Martin and Turner",Transportation,12666027,182,720,1692173,Real Estate,24,14.6,No,1490352,2024-10-09,Yes
+1951,Petty Group,Finance,4122951,359,803,589415,Inventory Purchase,24,7.42,No,1051622,2024-10-07,Yes
+1984,"Johnson, Jones and Bradshaw",Retail,14045697,322,717,2400269,Inventory Purchase,24,9.28,No,1462210,2024-10-06,No
+1873,Anthony-Wilson,Healthcare,8196042,238,453,2116328,Marketing,12,11.37,No,784158,2024-10-06,No
+1390,Ward Group,Finance,12305231,414,492,4013397,Research & Development,36,7.83,No,4660764,2024-10-05,No
+1725,Harris-Kline,Manufacturing,30536204,128,606,3511134,Debt Consolidation,24,8.69,No,3921907,2024-10-05,Yes
+1993,"Garcia, Jones and Brown",Agriculture,11427148,66,636,2468756,Equipment Purchase,60,12.1,No,215301,2024-10-05,No
+1578,"Miller, Baker and Montes",Retail,38622748,402,326,759987,Research & Development,12,8.13,No,3430145,2024-10-04,No
+1313,Sanchez Ltd,Education,36119150,113,408,4031814,Equipment Purchase,60,14.81,Yes,3984740,2024-10-03,No
+1439,"Allen, Levine and Christensen",Healthcare,40043896,101,464,897057,Debt Consolidation,12,10.67,No,171937,2024-10-03,No
+1768,Day and Sons,Agriculture,13681730,180,755,2289063,Real Estate,48,10.35,No,498402,2024-10-02,No
+1165,"Miller, Kennedy and Moore",Manufacturing,34246730,163,547,1549466,Real Estate,36,9.69,No,703668,2024-10-01,No
+1228,"Carey, Washington and Sellers",Finance,43515252,28,554,1743707,Working Capital,24,13.25,No,1685407,2024-10-01,No
+1729,Wilson Ltd,IT Services,28050901,440,524,1417621,Real Estate,60,10.33,No,1460364,2024-09-30,No
+1496,Wells Inc,Manufacturing,7155579,317,381,2162362,Working Capital,24,13.56,No,504623,2024-09-29,No
+1212,Castaneda LLC,Healthcare,11971177,300,697,4239394,Working Capital,36,14.82,No,1456427,2024-09-29,No
+1482,Smith-Chambers,Hospitality,18104132,89,483,3371557,Expansion,48,9.74,No,1032099,2024-09-27,No
+1008,Jones-Haas,Finance,38944452,288,699,4056778,Marketing,24,13.08,Yes,722225,2024-09-27,No
+1852,Smith Ltd,Healthcare,49854843,478,648,2328531,Marketing,48,13.12,No,2819785,2024-09-26,Yes
+1890,Rodriguez-Fowler,Transportation,49830419,328,626,2698133,Research & Development,60,8.89,No,3921549,2024-09-26,Yes
+1784,Welch-Morgan,Hospitality,43537644,137,721,4731889,Debt Consolidation,60,14.14,No,3329692,2024-09-25,Yes
+1181,Andrews-Potter,Finance,21886096,490,759,3336904,Working Capital,36,7.66,No,3672546,2024-09-23,Yes
+1792,"Pineda, Rivera and Matthews",Agriculture,42681557,138,509,575278,Real Estate,48,8.7,No,2851818,2024-09-22,No
+1874,Bell LLC,Manufacturing,38407753,345,703,4532787,Equipment Purchase,24,7.72,No,2742205,2024-09-22,No
+1564,"Parker, Smith and Walker",Agriculture,38518167,242,679,1327222,Research & Development,60,14.26,No,1246688,2024-09-22,Yes
+1886,Savage-Lopez,Construction,48602635,197,702,4275318,Marketing,48,9.85,No,1691973,2024-09-21,No
+1292,"Jenkins, Silva and Smith",Retail,38639184,320,435,979854,Expansion,60,13.73,No,3498281,2024-09-21,No
+1492,Castaneda Ltd,Finance,9197295,368,706,1017472,Marketing,48,13.72,No,414716,2024-09-21,No
+1736,Valdez-Sandoval,Finance,16941617,311,788,425437,Working Capital,48,12.01,No,3753375,2024-09-21,Yes
+1346,Powell-Curry,Transportation,49356322,484,686,1015480,Expansion,36,13.01,No,4019411,2024-09-20,Yes
+1686,Jimenez Group,IT Services,3938199,278,612,697904,Real Estate,12,10.8,Yes,1908777,2024-09-19,No
+1106,"Moore, Smith and Pittman",Construction,14942402,167,582,622154,Inventory Purchase,60,14.73,No,3394443,2024-09-17,No
+1176,Garza-Jordan,Manufacturing,15529416,354,490,823858,Marketing,36,9.23,No,2890152,2024-09-15,No
+1474,"Taylor, Maxwell and Buckley",Construction,20391451,402,416,2132709,Debt Consolidation,60,8.54,No,4067641,2024-09-14,No
+1116,"Pacheco, Page and Mccoy",Construction,33722310,272,315,1381506,Marketing,48,13.61,No,2983361,2024-09-14,No
+1917,Mckenzie Ltd,Retail,45799034,260,732,2971259,Equipment Purchase,24,10.94,No,3493749,2024-09-13,Yes
+1849,Miller and Sons,Transportation,29487589,163,621,1672138,Research & Development,36,7.58,No,1624255,2024-09-12,Yes
+1386,Stevens-Jones,Hospitality,28259197,445,739,4994940,Inventory Purchase,36,8.07,No,1006740,2024-09-12,No
+1940,"Sherman, Barker and Alexander",Finance,4184790,146,841,4813199,Expansion,36,10.66,Yes,952810,2024-09-08,No
+1221,"Cole, Turner and Marquez",Manufacturing,41345400,434,502,3599701,Equipment Purchase,12,11.89,No,1324856,2024-09-07,No
+1598,Miles Group,Education,18941166,223,459,539439,Research & Development,48,14.93,No,3260101,2024-09-06,No
+1344,Turner LLC,Healthcare,11822814,350,753,4960319,Equipment Purchase,48,14.32,No,2003980,2024-09-06,No
+1042,Larson and Sons,IT Services,33399934,439,653,3532207,Real Estate,36,9.91,No,4254099,2024-09-06,Yes
+1174,Armstrong-Odonnell,Manufacturing,36259647,176,741,3499752,Debt Consolidation,48,11.64,Yes,4033063,2024-09-06,No
+1702,"Evans, Parker and Harris",Agriculture,4210016,466,470,1559410,Research & Development,60,12.89,No,415750,2024-09-04,No
+1309,Vasquez Group,Finance,25374842,246,467,583442,Debt Consolidation,24,12.63,No,842515,2024-09-04,No
+1326,Cox-Chandler,Hospitality,3035848,415,623,584273,Research & Development,60,9.5,No,2722452,2024-09-04,Yes
+1019,Boyd-Barajas,Agriculture,20053322,74,502,4770432,Inventory Purchase,36,8.18,No,3208483,2024-09-03,No
+1220,Sampson-Rivera,Transportation,48226729,176,388,3925258,Equipment Purchase,36,14.92,No,4102127,2024-09-01,No
+1028,Mitchell Inc,Retail,14799990,426,613,1967306,Research & Development,60,7.28,No,3045035,2024-09-01,Yes
+1266,Burns-Hawkins,Healthcare,10068026,390,839,1807542,Equipment Purchase,48,9.19,No,1591121,2024-09-01,Yes
+1521,Henry Inc,Healthcare,35012730,228,356,3090193,Debt Consolidation,24,12.63,No,953057,2024-08-31,No
+1272,Fernandez Group,Transportation,34458471,224,646,1089336,Research & Development,60,9.53,No,4290012,2024-08-31,Yes
+1839,Haas-Tucker,Healthcare,45561177,110,343,3246779,Inventory Purchase,24,8.14,No,565729,2024-08-29,No
+1884,Jones and Sons,Transportation,42916167,412,398,2950774,Debt Consolidation,60,7.81,No,4967790,2024-08-28,No
+1617,"Brown, Vasquez and Kemp",Hospitality,12546081,96,453,4806797,Real Estate,12,14.53,No,1589152,2024-08-27,No
+1030,Michael-Simmons,Healthcare,36981972,233,381,942840,Equipment Purchase,60,13.53,No,2906188,2024-08-27,No
+1892,Smith-Hawkins,Healthcare,24284856,220,704,3397154,Expansion,24,13.99,No,3749446,2024-08-26,Yes
+1337,Mitchell PLC,IT Services,9670178,301,749,1260294,Real Estate,36,10.57,No,427332,2024-08-26,No
+1642,"Brennan, Sandoval and Vaughn",Agriculture,30933317,270,835,2484775,Inventory Purchase,24,13.56,No,3491489,2024-08-25,Yes
+1304,"Glover, Leach and Delacruz",Construction,21515189,145,696,694557,Marketing,60,8.01,No,4746298,2024-08-24,Yes
+1321,"White, Stewart and Hurley",Agriculture,40678201,130,819,2991912,Expansion,24,13.22,No,770892,2024-08-24,No
+1889,Wu-Brown,IT Services,47350911,314,602,739104,Working Capital,60,12.11,No,892606,2024-08-23,Yes
+1308,Randolph-Nicholson,Construction,11563214,39,300,3345705,Debt Consolidation,12,10.29,No,1583017,2024-08-23,No
+1952,Jones-Jackson,Retail,27844511,263,321,3144287,Marketing,24,13.82,Yes,3296319,2024-08-22,No
+1808,Harmon Group,Education,37159646,311,571,1237613,Expansion,48,11.93,Yes,1868182,2024-08-21,No
+1024,"Moore, Moon and Bailey",Agriculture,47270061,412,791,2573199,Research & Development,12,13.15,No,841624,2024-08-21,No
+1170,Smith-Petersen,IT Services,11473867,161,423,3961774,Expansion,60,10.62,No,1355927,2024-08-20,No
+1619,Mcgee Group,Construction,30221379,394,593,1590017,Equipment Purchase,60,14.0,No,442776,2024-08-20,No
+1082,Fuentes-Contreras,Education,13485559,301,526,2971656,Research & Development,60,14.07,No,3238741,2024-08-17,No
+1894,Watkins-Webster,Construction,33446436,161,431,1308468,Inventory Purchase,12,13.93,No,598723,2024-08-16,No
+1931,Mendez Group,Transportation,19673436,56,814,4132516,Marketing,12,9.59,No,2865845,2024-08-15,Yes
+1788,"Reynolds, Allen and Mendoza",Retail,24289643,371,752,2538710,Inventory Purchase,24,14.9,No,3099307,2024-08-15,Yes
+1423,"Blanchard, Smith and Weiss",Construction,32061293,150,424,208944,Equipment Purchase,12,13.69,No,3693512,2024-08-15,No
+1885,Hickman Ltd,Hospitality,34371818,168,581,4530675,Equipment Purchase,24,11.99,No,122908,2024-08-15,No
+1566,Anderson and Sons,Hospitality,15812143,445,487,1643812,Inventory Purchase,60,14.75,No,2269583,2024-08-14,No
+1451,Santana LLC,Construction,16135763,52,832,1775502,Debt Consolidation,12,9.84,No,1410764,2024-08-14,Yes
+1437,Sanchez Ltd,Transportation,1302186,137,367,795532,Working Capital,12,13.61,No,526377,2024-08-13,No
+1671,Lee Inc,Retail,24991831,178,573,971535,Equipment Purchase,60,7.96,No,4360493,2024-08-13,No
+1169,Tate Ltd,Finance,13790902,59,500,1934907,Equipment Purchase,12,11.07,No,4961672,2024-08-13,No
+1782,Lopez PLC,Transportation,7152941,376,758,3557521,Marketing,48,12.39,No,143608,2024-08-12,No
+1037,Hill and Sons,Education,29088632,465,460,3656210,Real Estate,36,8.07,No,4133372,2024-08-12,No
+1314,"Gregory, Hull and Brooks",Hospitality,11523401,127,567,4788118,Research & Development,24,14.64,No,697122,2024-08-11,No
+1083,Farley-Owen,Transportation,32908562,212,735,4808569,Equipment Purchase,36,8.21,No,4214133,2024-08-11,Yes
+1087,Andrews PLC,Retail,23761900,286,606,4007129,Inventory Purchase,36,12.61,No,673578,2024-08-10,No
+1663,Becker-Johnson,Retail,23749774,443,827,800033,Research & Development,60,12.04,No,3444020,2024-08-08,Yes
+1776,Burton-Young,Retail,15150540,28,737,938927,Research & Development,48,14.73,Yes,1571093,2024-08-08,No
+1726,Harrison-Green,Healthcare,19827165,48,756,2526277,Real Estate,48,8.89,Yes,2828366,2024-08-07,No
+1299,Maynard Inc,Retail,37045138,409,643,1782678,Debt Consolidation,12,7.58,No,660326,2024-08-06,No
+1569,Adams-Garcia,Finance,13037574,51,773,4573447,Working Capital,12,12.41,No,208988,2024-08-06,No
+1080,"Mendoza, Lewis and Jacobs",Education,22105074,408,343,4087793,Real Estate,12,7.46,No,4634470,2024-08-05,No
+1721,White and Sons,Hospitality,9962049,492,827,3029735,Marketing,48,12.86,No,1177360,2024-08-04,No
+1763,"Spears, Rangel and Hood",Hospitality,27312911,416,806,3349479,Expansion,24,8.76,No,641058,2024-08-03,No
+1945,"Johnson, Drake and Delacruz",Retail,10963441,147,484,892330,Working Capital,48,10.35,Yes,1096094,2024-08-01,No
+1078,Ross Group,Education,20655820,126,365,2286268,Equipment Purchase,12,9.84,No,866609,2024-08-01,No
+1038,"Ali, Smith and Wood",Finance,20894388,119,477,2587111,Expansion,36,14.48,No,1159229,2024-08-01,No
+1200,"White, Bishop and Harrell",Agriculture,30228266,464,569,4700145,Research & Development,12,11.3,Yes,2397855,2024-07-30,No
+1348,"Cherry, Short and Parker",Finance,43942594,466,595,3481915,Equipment Purchase,12,9.2,No,2460912,2024-07-30,No
+1695,Fleming-Day,Manufacturing,26554414,20,437,1704243,Equipment Purchase,24,10.34,No,3086124,2024-07-29,No
+1664,Bennett Group,Construction,3442266,460,628,4001403,Marketing,12,10.33,No,1522077,2024-07-28,No
+1946,Miller-Dodson,Finance,7689142,59,681,4574843,Research & Development,60,13.21,No,3442389,2024-07-28,Yes
+1588,"Johnson, Garcia and Mcneil",Construction,24017995,323,330,1518826,Equipment Purchase,24,11.3,No,1968517,2024-07-28,No
+1359,"Clark, Hartman and Adams",Agriculture,24215061,271,522,1614101,Research & Development,12,9.48,Yes,1318962,2024-07-28,No
+1036,"Harris, Cooke and Griffin",Construction,26677235,364,724,119477,Equipment Purchase,36,13.64,No,4841506,2024-07-27,Yes
+1862,Huang PLC,Transportation,3090212,66,626,2121835,Working Capital,36,7.58,Yes,337555,2024-07-27,No
+1632,Blair-Osborne,Construction,28209162,375,497,2609907,Marketing,36,8.17,No,3856627,2024-07-26,No
+1094,Shannon Group,Hospitality,43531405,461,463,3626362,Research & Development,36,9.95,No,2810451,2024-07-25,No
+1029,Heath LLC,Finance,38132658,314,320,363625,Debt Consolidation,24,10.57,No,2359305,2024-07-25,No
+1542,Kelley and Sons,Finance,43413492,182,556,2022967,Research & Development,36,14.29,No,696004,2024-07-24,No
+1501,Nash and Sons,Education,33027216,187,628,2534138,Working Capital,12,7.21,No,2064751,2024-07-24,Yes
+1092,Young Group,Manufacturing,41066066,343,775,752755,Debt Consolidation,12,12.29,No,2429093,2024-07-24,Yes
+1659,Higgins Group,Manufacturing,13866619,418,509,1822199,Research & Development,24,10.03,No,4248880,2024-07-23,No
+1027,"Anderson, Spencer and Figueroa",Hospitality,46188926,482,464,3775002,Equipment Purchase,60,7.17,Yes,1657245,2024-07-22,No
+1565,"Ramos, Esparza and Miller",Finance,27540396,230,657,3467851,Real Estate,60,8.35,Yes,2191924,2024-07-22,No
+1669,"Cooley, Graham and Boyd",Hospitality,27821567,87,461,3920671,Expansion,24,7.56,No,2910597,2024-07-22,No
+1587,"Gardner, Daniels and Vega",Hospitality,22677072,251,580,1958997,Real Estate,48,12.25,No,1622762,2024-07-21,No
+1845,"Davidson, Ford and Harris",Retail,12360589,29,455,3474659,Equipment Purchase,24,7.11,No,3618935,2024-07-20,No
+1012,White and Sons,Transportation,47137470,138,549,3009984,Expansion,60,13.05,No,3120610,2024-07-20,No
+1717,Shelton-Hayes,Retail,44721639,183,332,1743909,Debt Consolidation,48,7.06,No,1982919,2024-07-19,No
+1800,"Morris, Ryan and Clark",Education,8778748,233,792,2887976,Debt Consolidation,48,9.73,No,4706480,2024-07-19,Yes
+1499,Wilson-Dickson,Education,17556827,431,347,2107338,Equipment Purchase,24,11.77,No,1019738,2024-07-19,No
+1513,"Smith, Evans and Dixon",Finance,16590661,23,648,214589,Working Capital,36,14.7,No,2744991,2024-07-18,Yes
+1634,Henderson LLC,IT Services,38277378,148,700,4089284,Real Estate,24,8.88,Yes,2508884,2024-07-17,No
+1144,"Williams, Mathis and Williams",Finance,29168643,150,525,2391136,Expansion,12,12.76,No,2127645,2024-07-16,No
+1248,"Robles, Hernandez and Duncan",Transportation,32970599,496,600,2122784,Real Estate,60,11.66,No,3052083,2024-07-16,Yes
+1230,Kramer Inc,Education,47361481,227,776,3900315,Marketing,24,13.35,Yes,533075,2024-07-14,No
+1242,"Cameron, Johnson and Thornton",Retail,21073266,82,623,4255479,Equipment Purchase,48,14.74,No,401637,2024-07-13,No
+1720,"Jones, Harper and Freeman",Healthcare,43590048,414,311,1955797,Inventory Purchase,24,10.54,No,313356,2024-07-13,No
+1920,Kerr-Chavez,Construction,32073264,312,547,2123615,Inventory Purchase,12,13.35,No,2509150,2024-07-10,No
+1418,"Miller, Lawrence and Delgado",Hospitality,49473002,396,424,1582795,Real Estate,60,9.23,No,2468126,2024-07-09,No
+1136,Mack Ltd,Hospitality,37249378,319,785,934874,Expansion,48,10.88,No,185797,2024-07-09,No
+1085,"Chung, Serrano and Ortiz",Transportation,9652831,280,477,4922684,Working Capital,24,12.32,No,1456819,2024-07-08,No
+1673,Sullivan and Sons,Construction,39535694,387,327,1842166,Marketing,60,14.43,No,1031598,2024-07-08,No
+1252,Jones-Gonzalez,Healthcare,2059622,325,631,3533372,Equipment Purchase,24,10.66,No,2035196,2024-07-08,No
+1706,Garcia-Curry,IT Services,49018519,343,529,2482865,Equipment Purchase,12,14.68,No,3440919,2024-07-06,No
+1786,Davis LLC,Retail,37286070,120,421,2554698,Equipment Purchase,48,9.65,Yes,1641620,2024-07-06,No
+1950,"Hicks, Green and Simpson",Retail,1647296,122,827,1945964,Expansion,36,12.94,No,3269919,2024-07-05,Yes
+1576,"Mcdonald, Wood and Howell",Finance,44607261,26,750,1235371,Marketing,24,10.38,Yes,4500696,2024-07-05,No
+1590,Salazar Ltd,Construction,24394704,241,482,1529290,Research & Development,48,12.46,No,2880095,2024-07-04,No
+1231,"Hughes, Malone and Hamilton",Healthcare,36055276,111,361,3251396,Real Estate,60,11.61,No,4009770,2024-07-03,No
+1484,Walker and Sons,Education,39060986,261,823,4703623,Working Capital,24,7.73,No,1600642,2024-07-02,No
+1851,Mullins-Nixon,IT Services,16648245,239,454,2423724,Real Estate,48,11.03,No,4533562,2024-07-02,No
+1907,Adams PLC,Education,38176570,237,666,1727059,Marketing,60,11.29,No,1959042,2024-07-02,Yes
+1766,Arnold-Lee,Education,21606265,470,566,2012493,Equipment Purchase,48,14.41,No,1329372,2024-06-30,No
+1816,"Fleming, Rios and Miller",IT Services,10014653,402,318,3697170,Expansion,60,14.58,No,3993855,2024-06-30,No
+1981,"Diaz, Bullock and King",Healthcare,46560900,428,466,4020367,Working Capital,24,11.08,Yes,2492905,2024-06-30,No
+1936,Johnson-Miles,Manufacturing,27220970,87,719,1693786,Debt Consolidation,60,14.72,No,4104066,2024-06-29,Yes
+1196,"Leon, Chung and Stephens",Transportation,49730049,302,841,1438306,Expansion,12,14.59,No,263968,2024-06-29,No
+1332,Saunders-Alexander,Finance,24468625,281,631,1233183,Research & Development,48,12.55,No,4390496,2024-06-28,Yes
+1986,Miller LLC,Healthcare,6742533,335,372,666510,Expansion,48,13.05,No,2724986,2024-06-27,No
+1343,Hendricks-Carter,Healthcare,41984077,370,383,3768508,Inventory Purchase,24,11.88,No,128947,2024-06-27,No
+1772,Payne-Dickerson,Healthcare,5755469,193,790,547244,Research & Development,36,12.33,No,2492547,2024-06-27,Yes
+1759,"Livingston, Day and Hicks",Education,1100734,292,740,1241452,Marketing,36,7.79,No,1869201,2024-06-25,Yes
+1667,"Ross, Brown and Wang",Construction,10607366,391,399,1945700,Inventory Purchase,12,13.57,Yes,3764534,2024-06-25,No
+1445,Hickman Ltd,Transportation,48105796,486,653,3699537,Expansion,36,9.49,No,3165848,2024-06-25,Yes
+1157,Cordova-Elliott,Manufacturing,42061756,387,374,2614719,Marketing,60,13.1,No,2507856,2024-06-24,No
+1519,Hull-Lewis,Retail,30342048,395,846,3027053,Debt Consolidation,12,11.95,No,4124411,2024-06-23,Yes
+1903,Bennett Ltd,Construction,21792686,201,804,2814766,Equipment Purchase,36,13.52,No,2935579,2024-06-21,Yes
+1387,Suarez-Price,Construction,48784180,23,306,2099482,Expansion,48,12.53,No,2260846,2024-06-20,No
+1585,Henderson-Blevins,Construction,18560282,106,352,2313697,Debt Consolidation,48,13.57,No,4397633,2024-06-17,No
+1086,"Castillo, Hayes and Rivers",Transportation,14691164,333,726,2426729,Research & Development,60,10.35,No,928835,2024-06-17,No
+1727,"Mills, Melton and Long",Transportation,9388512,277,459,3300450,Expansion,12,12.02,No,4827376,2024-06-16,No
+1683,Bruce and Sons,Finance,47791381,497,534,1803820,Inventory Purchase,12,9.89,No,4373492,2024-06-15,No
+1571,Dixon LLC,IT Services,45520680,51,483,503157,Working Capital,60,8.51,Yes,2077787,2024-06-15,No
+1004,Benson-Nelson,Construction,44994571,491,519,2327039,Research & Development,24,8.05,No,2737328,2024-06-15,No
+1005,Vasquez Group,Finance,37346859,91,462,396063,Inventory Purchase,36,9.48,No,1949955,2024-06-14,No
+1835,Lee Ltd,Construction,29175911,232,338,681904,Real Estate,36,12.16,No,2413319,2024-06-13,No
+1685,Lynch-Jackson,Hospitality,15467188,383,824,1657009,Marketing,12,14.97,No,2623338,2024-06-13,Yes
+1563,"Robinson, Murphy and Brown",Retail,39965695,236,461,3056151,Marketing,48,12.25,No,1010655,2024-06-13,No
+1799,"Cox, Allen and Blake",Finance,36876898,492,727,3014611,Working Capital,24,14.72,No,3094410,2024-06-12,Yes
+1790,Barnett and Sons,IT Services,23489029,153,593,3600967,Inventory Purchase,60,12.86,No,2614113,2024-06-11,No
+1639,Jones PLC,Finance,27267668,37,534,4501207,Equipment Purchase,48,7.14,No,3647326,2024-06-11,No
+1104,Adams and Sons,Finance,11353564,115,686,2273513,Expansion,24,10.8,Yes,2899310,2024-06-10,No
+1339,Solomon-Malone,Transportation,30246906,160,509,2444688,Inventory Purchase,36,12.54,No,1176018,2024-06-09,No
+1363,Wright and Sons,Agriculture,20512480,152,593,3519548,Marketing,24,9.06,No,1084780,2024-06-09,No
+1977,"Evans, Castaneda and Olson",Healthcare,15497054,269,497,2977429,Inventory Purchase,60,7.03,No,3618125,2024-06-06,No
+1362,Ramirez-Garcia,Hospitality,4828433,436,804,625005,Marketing,36,9.58,No,1080120,2024-06-05,Yes
+1406,Hernandez-Wheeler,Finance,10659072,319,687,799895,Real Estate,60,10.08,No,3646219,2024-06-04,Yes
+1013,Nguyen LLC,Transportation,25144880,353,740,792924,Expansion,24,10.79,No,3253178,2024-06-03,Yes
+1738,Moore LLC,Transportation,43664041,247,525,2191013,Real Estate,48,14.97,No,3793407,2024-05-31,No
+1819,Hodge Group,Manufacturing,39049943,243,689,2188618,Research & Development,36,10.87,No,4880083,2024-05-31,Yes
+1640,Edwards Group,Transportation,15063918,60,312,1138218,Inventory Purchase,24,14.28,No,57399,2024-05-31,No
+1276,Alvarez-Rogers,Manufacturing,8733308,218,513,2132816,Research & Development,60,9.48,No,2630309,2024-05-30,No
+1179,"Walter, Pittman and Farrell",IT Services,48044083,173,612,104138,Working Capital,24,7.44,Yes,2442735,2024-05-29,No
+1944,Wang-Hernandez,Transportation,7681935,70,505,2309821,Inventory Purchase,60,7.17,Yes,3745611,2024-05-28,No
+1125,"Jackson, Curry and Watson",Manufacturing,18547260,321,546,877567,Research & Development,60,8.54,No,1554329,2024-05-28,No
+1055,Higgins-Shaw,Transportation,20378839,162,365,381696,Expansion,60,9.44,No,4459013,2024-05-27,No
+1938,Short-Chan,Manufacturing,46587883,84,642,4798981,Debt Consolidation,48,9.07,No,2848658,2024-05-27,No
+1707,Price LLC,IT Services,23750760,133,418,897583,Marketing,60,13.81,No,1755096,2024-05-26,No
+1052,"Walker, Wolfe and Bernard",Manufacturing,7857658,126,321,684010,Debt Consolidation,60,7.51,No,3749397,2024-05-25,No
+1050,Grant-Williams,Transportation,39410879,463,816,2347805,Equipment Purchase,48,13.38,No,4422472,2024-05-24,Yes
+1637,Rogers-Soto,IT Services,1224695,220,474,1334215,Equipment Purchase,12,11.77,No,2504082,2024-05-23,No
+1328,Schultz-Mccoy,Transportation,11828463,465,784,2922236,Inventory Purchase,36,12.61,No,3455851,2024-05-23,Yes
+1831,Anderson-Miller,Education,12186361,29,777,2482962,Marketing,24,7.4,No,1079922,2024-05-23,No
+1300,Chambers-Smith,Education,42601684,21,848,267527,Inventory Purchase,48,8.59,No,1295749,2024-05-20,Yes
+1108,Adams-Stewart,Transportation,22988809,11,785,1111930,Research & Development,12,7.67,Yes,2494149,2024-05-19,No
+1893,Roman Ltd,Manufacturing,9705956,415,761,1434649,Working Capital,48,8.01,No,4273138,2024-05-17,Yes
+1545,"Zhang, Freeman and Graham",Education,20369886,474,403,565590,Expansion,36,8.86,No,3438284,2024-05-16,No
+1932,"Foster, Wiley and Petty",Retail,37693176,484,683,4742681,Marketing,60,11.35,No,3046038,2024-05-15,No
+1202,"Daugherty, Hall and Brown",Manufacturing,32251097,20,382,1469391,Expansion,24,9.06,No,2352743,2024-05-15,No
+1718,Anderson Ltd,Manufacturing,42965471,122,354,2099117,Research & Development,60,10.38,Yes,2199151,2024-05-14,No
+1999,Fisher and Sons,IT Services,43462817,222,364,1271248,Inventory Purchase,60,13.27,No,4926831,2024-05-14,No
+1680,Marquez-Nelson,Transportation,32007736,173,655,2973524,Working Capital,24,9.89,No,81541,2024-05-14,No
+1197,"Bender, Miller and Oneill",Construction,37413676,152,806,2250205,Inventory Purchase,48,7.73,No,4632692,2024-05-13,Yes
+1757,Guerrero-Higgins,Manufacturing,13382318,472,498,3450448,Real Estate,48,8.04,Yes,2799580,2024-05-13,No
+1361,Heath-Martin,Healthcare,15949772,415,707,1506150,Equipment Purchase,24,11.03,No,4976730,2024-05-12,Yes
+1274,Morgan-Savage,Finance,29104320,267,386,2550979,Research & Development,24,9.57,No,1265442,2024-05-11,No
+1540,Fletcher Group,Manufacturing,32984287,347,500,1645491,Debt Consolidation,36,13.07,Yes,1159970,2024-05-10,No
+1327,Larson-Williams,Manufacturing,22900146,475,719,2503233,Debt Consolidation,36,7.49,No,2264979,2024-05-09,Yes
+1820,Flores-Henson,Retail,33884400,99,559,4932094,Working Capital,60,14.18,No,2669893,2024-05-08,No
+1779,Rivers-Simmons,Agriculture,2992825,39,541,2929045,Working Capital,12,8.96,No,3102687,2024-05-07,No
+1498,Reed-Solomon,Finance,49892876,133,462,3321131,Expansion,60,9.8,No,91340,2024-05-07,No
+1409,Mays-Williams,Retail,26332296,104,643,3922727,Debt Consolidation,48,13.68,No,3959308,2024-05-06,Yes
+1824,Fernandez PLC,Agriculture,28950196,218,544,2693157,Inventory Purchase,60,13.6,No,1931986,2024-05-06,No
+1864,"Harris, Murillo and Holland",Retail,45185024,29,658,3949091,Working Capital,48,9.03,No,3825944,2024-05-06,Yes
+1168,Tucker LLC,Healthcare,16823554,77,753,2456632,Inventory Purchase,24,14.7,No,753645,2024-05-05,No
+1107,Palmer Ltd,Retail,29676873,155,339,3568582,Inventory Purchase,60,12.58,No,1106504,2024-05-03,No
+1674,Frederick-Oliver,Education,6290717,128,625,1135408,Equipment Purchase,12,10.97,No,4092974,2024-05-03,Yes
+1297,Scott Group,Construction,46745469,130,681,4803855,Inventory Purchase,24,8.07,No,4275872,2024-05-02,Yes
+1241,Scott-Fisher,Retail,16713642,396,744,3799509,Working Capital,24,10.56,No,1886517,2024-05-01,No
+1887,Peterson-Ramos,Finance,16686144,69,408,746275,Expansion,60,13.31,No,4615391,2024-05-01,No
+1102,Taylor-Sullivan,Manufacturing,44177856,145,567,1613083,Marketing,24,13.91,No,3954840,2024-04-30,No
+1017,Khan-Wheeler,IT Services,46084109,222,369,3200498,Marketing,12,9.61,No,2665880,2024-04-29,No
+1115,"Smith, Johnson and Cross",Manufacturing,44728950,468,823,2685171,Inventory Purchase,24,8.63,No,1237171,2024-04-29,No
+1621,Davenport-James,Healthcare,37265058,444,642,969446,Research & Development,24,9.02,No,891618,2024-04-28,Yes
+1490,Humphrey-Torres,IT Services,36280122,282,716,4916129,Research & Development,24,7.46,No,1682748,2024-04-27,No
+1264,Walker Group,Retail,20545578,76,754,3247915,Expansion,12,11.21,No,2270943,2024-04-26,Yes
+1006,"Henry, Hensley and Brown",Hospitality,12309411,406,519,1483875,Expansion,48,8.61,No,1955888,2024-04-25,No
+1349,"Smith, Johnson and Carter",IT Services,38747492,458,557,142056,Marketing,60,10.8,No,2649087,2024-04-25,No
+1425,Reyes and Sons,Hospitality,18336140,491,469,3977590,Working Capital,12,14.8,No,813361,2024-04-25,No
+1973,Freeman-Davis,Agriculture,39971207,270,493,532829,Equipment Purchase,60,9.12,No,2112044,2024-04-24,No
+1215,Lucero Group,Education,32366160,155,764,526674,Debt Consolidation,24,11.83,Yes,1895786,2024-04-24,No
+1631,Wong Inc,Retail,49548947,424,476,3498116,Marketing,12,12.01,No,272071,2024-04-22,No
+1620,Rangel and Sons,Education,19495440,118,508,3202641,Marketing,24,12.9,No,406440,2024-04-21,No
+1814,"Huber, Barton and Sanchez",Healthcare,10384451,121,656,2954119,Inventory Purchase,48,13.49,No,87180,2024-04-20,No
+1073,Patel PLC,IT Services,32029723,30,378,4208502,Debt Consolidation,48,8.83,No,1710102,2024-04-20,No
+1172,Jensen and Sons,Manufacturing,7193956,109,490,3577084,Working Capital,36,14.67,No,643975,2024-04-19,No
+1468,Green Ltd,IT Services,9423309,424,819,1066649,Working Capital,12,8.96,Yes,3010356,2024-04-18,No
+1655,"Haynes, Lee and Rogers",Manufacturing,2074961,232,526,1946357,Research & Development,48,9.4,Yes,4524220,2024-04-18,No
+1147,Perez Group,Education,8985620,127,576,3193510,Working Capital,36,7.31,No,1766548,2024-04-17,No
+1949,Morrison-Copeland,Agriculture,4646804,116,346,2886905,Research & Development,12,8.64,No,782878,2024-04-17,No
+1046,Campbell and Sons,Construction,5661029,291,476,3130855,Research & Development,36,12.61,No,1546030,2024-04-16,No
+1552,Edwards LLC,Retail,38316107,265,374,4701731,Expansion,12,10.24,No,1212886,2024-04-15,No
+1802,Jennings Inc,Finance,2946830,371,460,2347680,Debt Consolidation,24,7.06,No,288826,2024-04-14,No
+1413,Eaton LLC,Construction,34381719,345,729,1249734,Debt Consolidation,24,9.2,No,965767,2024-04-14,Yes
+1990,Smith Inc,Hospitality,3825896,325,607,1197996,Debt Consolidation,60,7.82,No,3458168,2024-04-14,Yes
+1675,Clark-Ray,Manufacturing,35072781,199,448,1561312,Working Capital,60,13.74,No,855896,2024-04-13,No
+1833,"Meyer, Ramirez and Downs",Construction,33371979,409,794,2176775,Working Capital,60,11.3,No,3633650,2024-04-11,Yes
+1668,Jackson-Simmons,Construction,6241218,333,472,2766981,Marketing,36,9.25,No,1649826,2024-04-11,No
+1597,"Sweeney, Cohen and Sanchez",IT Services,21353727,452,755,925782,Inventory Purchase,60,13.66,No,3912230,2024-04-10,Yes
+1225,Branch-Dixon,Finance,30063435,289,367,1233754,Inventory Purchase,12,10.08,No,2757260,2024-04-10,No
+1947,Romero-Taylor,Retail,27336263,268,795,1842955,Expansion,24,9.71,No,3466502,2024-04-09,Yes
+1592,Fields-Brown,Healthcare,21718453,293,843,621244,Marketing,24,9.13,Yes,1361414,2024-04-08,No
+1137,Green-Frederick,Education,38783647,394,733,989493,Debt Consolidation,36,8.43,No,2583573,2024-04-07,Yes
+1018,Collins-Moreno,Transportation,16863509,152,698,4889125,Marketing,60,10.75,No,3874484,2024-04-07,Yes
+1315,Curtis Group,Agriculture,44545615,14,744,1851797,Debt Consolidation,12,13.4,No,3832164,2024-04-06,Yes
+1162,Smith PLC,Transportation,9790529,161,571,2837946,Working Capital,12,10.11,No,3667177,2024-04-05,No
+1089,"Roberts, Hamilton and Butler",Transportation,15246173,479,567,1997883,Real Estate,24,11.04,No,3219870,2024-04-05,No
+1506,Golden-Adams,Agriculture,38877058,71,742,3749886,Working Capital,12,12.4,No,1014211,2024-04-04,No
+1969,Jones-Wells,Hospitality,23479150,58,490,1747824,Inventory Purchase,60,9.16,No,1260213,2024-04-02,No
+1329,Williamson Inc,Manufacturing,26370439,240,711,788332,Debt Consolidation,48,7.08,No,246211,2024-04-01,No
+1370,Ortiz-Novak,Finance,38872354,248,372,2536831,Real Estate,60,13.21,No,4084480,2024-03-31,No
+1210,"Foster, Anderson and Terry",Retail,35569361,267,674,536542,Research & Development,36,10.25,No,3644128,2024-03-31,Yes
+1195,Davis-Duarte,Agriculture,45599847,441,846,4151889,Debt Consolidation,48,13.49,No,1029907,2024-03-30,No
+1040,Wilson-Mcbride,Healthcare,24081896,339,626,1659757,Debt Consolidation,48,14.53,No,4436897,2024-03-29,Yes
+1353,"Williams, Maldonado and Beltran",Retail,43639398,199,534,1008380,Marketing,24,11.55,No,3661880,2024-03-29,No
+1712,Hernandez and Sons,Agriculture,9033951,477,474,868223,Inventory Purchase,36,7.07,No,2513501,2024-03-29,No
+1447,Soto PLC,Retail,2514542,456,408,2082847,Expansion,24,7.53,No,1089474,2024-03-28,No
+1616,"Benton, Gray and Ford",Transportation,37089369,209,540,4906546,Research & Development,36,14.49,No,842644,2024-03-26,No
+1166,Davis Group,Manufacturing,41473321,356,455,1461236,Research & Development,60,11.92,No,3454158,2024-03-25,No
+1961,Gomez-Wolf,Education,43439798,44,820,232659,Research & Development,24,10.94,Yes,1574205,2024-03-25,No
+1461,Hernandez-Aguilar,Finance,15315679,275,734,2189934,Debt Consolidation,48,13.96,No,4691184,2024-03-24,Yes
+1335,"Wilson, Carter and Obrien",Hospitality,35392435,235,404,4414380,Marketing,36,13.49,No,4637281,2024-03-24,No
+1734,Arias Inc,Education,9439469,135,358,839574,Inventory Purchase,36,10.9,No,3836065,2024-03-23,No
+1057,"Lawson, Schaefer and Morgan",IT Services,12292148,142,443,1290456,Marketing,12,12.14,No,1050294,2024-03-22,No
+1053,Cooper-Lopez,Healthcare,28915002,230,411,192036,Inventory Purchase,36,10.1,No,2041367,2024-03-20,No
+1237,Jackson-Harrison,Finance,1390719,241,624,1237411,Marketing,12,9.09,Yes,4523214,2024-03-19,No
+1882,"Harper, Brooks and Bradley",Agriculture,23039912,167,653,1490254,Debt Consolidation,48,8.03,No,3765799,2024-03-16,Yes
+1911,Reyes PLC,Manufacturing,10955661,192,488,1505802,Debt Consolidation,36,10.78,No,4197036,2024-03-15,No
+1096,Wheeler-Horton,Hospitality,1703662,61,371,4944747,Inventory Purchase,12,10.37,Yes,747389,2024-03-15,No
+1223,"Reid, Shaw and Owens",Education,16732903,468,521,2021672,Inventory Purchase,12,13.18,No,3396668,2024-03-14,No
+1821,Wright PLC,Hospitality,3363999,323,424,2699327,Expansion,36,14.26,No,3841860,2024-03-14,No
+1926,Fox-Thompson,Education,10685684,410,656,3118439,Real Estate,36,9.44,No,785062,2024-03-11,No
+1929,Smith Inc,Transportation,8536765,157,616,956636,Debt Consolidation,48,9.46,No,4336812,2024-03-10,Yes
+1111,"Myers, Martinez and Rios",Manufacturing,48044769,141,819,3051720,Equipment Purchase,24,7.55,No,4639079,2024-03-10,Yes
+1916,Cantrell-Garrett,Construction,35941412,122,589,1751348,Equipment Purchase,48,9.67,No,4292895,2024-03-08,No
+1836,Grimes-Porter,Agriculture,34814548,79,486,4565669,Marketing,24,7.14,No,1868222,2024-03-07,No
+1404,Mullins-Tanner,Construction,48173924,290,785,934440,Research & Development,36,8.09,No,3481543,2024-03-07,Yes
+1850,Roy-Ali,Agriculture,34942508,302,755,2117337,Inventory Purchase,12,12.48,No,3829404,2024-03-06,Yes
+1372,Garcia-Wolf,Agriculture,26625121,51,487,1806517,Expansion,36,13.14,No,4611786,2024-03-05,No
+1704,Garcia LLC,Agriculture,36943815,497,677,1902466,Equipment Purchase,12,11.05,Yes,2202259,2024-03-05,No
+1723,Bell-Lewis,Manufacturing,42839392,41,783,611162,Equipment Purchase,12,13.51,No,2052507,2024-03-04,Yes
+1825,"Cherry, Graham and Allen",Healthcare,22003105,471,749,2897909,Equipment Purchase,60,13.33,No,1039924,2024-03-04,No
+1775,"Williams, Hartman and Fisher",Manufacturing,42528843,127,515,3579000,Equipment Purchase,12,7.88,No,1810027,2024-03-02,No
+1998,Smith Group,Transportation,16099203,45,491,1802457,Marketing,12,14.01,No,4227927,2024-03-01,No
+1163,"Robertson, Hendrix and Beck",Education,19786176,217,365,3848529,Debt Consolidation,36,14.1,No,4547868,2024-03-01,No
+1927,Kelly-Oliver,IT Services,48876337,207,690,1728662,Research & Development,24,8.35,No,777468,2024-02-29,No
+1688,"Banks, Jimenez and Lamb",Agriculture,9998604,169,417,216841,Real Estate,24,10.46,No,4788748,2024-02-28,No
+1996,Anderson and Sons,Hospitality,32935646,161,408,4958939,Expansion,48,9.89,No,347180,2024-02-28,No
+1925,Jones PLC,Hospitality,30008147,170,625,4590224,Expansion,12,14.59,No,3896556,2024-02-28,Yes
+1341,"Hurst, Collins and Hernandez",Finance,17843366,246,676,3048632,Debt Consolidation,12,8.8,No,4222060,2024-02-28,Yes
+1880,"Rodriguez, Stewart and Blair",Retail,39131465,33,700,4474798,Debt Consolidation,24,9.1,No,358697,2024-02-27,No
+1376,Zimmerman-Harrington,Transportation,7733215,300,455,3301208,Research & Development,60,11.62,No,3437232,2024-02-26,No
+1774,Wallace-Morris,Transportation,27098641,200,401,4532027,Research & Development,48,11.69,No,3128882,2024-02-24,No
+1259,"Fields, King and Mills",Education,43955157,158,832,1458126,Inventory Purchase,60,9.78,Yes,4602636,2024-02-24,No
+1829,Haney LLC,Agriculture,49115625,446,661,3566032,Marketing,60,9.31,No,1684685,2024-02-24,No
+1124,"Perry, Johnson and Powell",Finance,24656190,456,805,1152425,Inventory Purchase,24,9.44,No,1243728,2024-02-22,Yes
+1837,Mcdaniel-Walter,Agriculture,7086368,321,392,3388210,Marketing,60,14.68,No,2885148,2024-02-22,No
+1322,"Smith, Burnett and Campbell",Finance,2524102,295,452,1709184,Inventory Purchase,36,13.87,Yes,4113903,2024-02-22,No
+1559,"Coleman, Williams and Luna",Education,28783527,121,657,4215345,Debt Consolidation,36,14.32,No,1008101,2024-02-22,No
+1510,Delacruz-Charles,Education,14881178,164,413,4763754,Working Capital,24,8.04,No,4869523,2024-02-21,No
+1908,Atkins-Brown,IT Services,11929084,359,579,1174477,Working Capital,60,10.15,No,1927330,2024-02-21,No
+1780,Fuller and Sons,Hospitality,4832978,304,304,1378673,Debt Consolidation,60,12.74,Yes,72551,2024-02-20,No
+1630,Simmons LLC,IT Services,38041101,323,382,4209070,Marketing,12,10.0,No,50209,2024-02-19,No
+1607,"Hill, Patrick and Collins",Hospitality,14426716,476,504,3219734,Working Capital,12,7.86,No,1765979,2024-02-18,No
+1934,Harris Group,Manufacturing,7935774,207,337,4786134,Expansion,24,9.85,No,3126511,2024-02-18,No
+1876,Thompson-Reyes,Hospitality,20432053,64,614,4401828,Working Capital,36,13.83,No,1472771,2024-02-17,No
+1546,Bray-Tucker,IT Services,5810833,492,834,1533284,Marketing,12,8.25,No,1476360,2024-02-17,Yes
+1302,Garner LLC,Transportation,11880726,409,482,1687819,Research & Development,48,11.96,No,2276941,2024-02-17,No
+1402,"Ross, Arellano and Taylor",Manufacturing,26722525,34,739,3838858,Research & Development,36,7.39,No,2841671,2024-02-17,Yes
+1560,"Oconnor, Morrow and Vazquez",Healthcare,43106078,261,827,4838202,Inventory Purchase,24,9.13,No,4940618,2024-02-13,Yes
+1201,"Martinez, Norman and Evans",Agriculture,1116739,169,453,4852989,Working Capital,24,7.11,No,1514458,2024-02-12,No
+1914,"Scott, Richardson and Hines",Transportation,35761500,328,835,2583502,Equipment Purchase,12,13.66,No,1098278,2024-02-11,No
+1127,Bennett LLC,Healthcare,45489781,435,430,1849736,Real Estate,12,9.38,Yes,585888,2024-02-10,No
+1429,Ford-Rodriguez,Healthcare,30178419,461,500,3028100,Debt Consolidation,60,12.18,Yes,3358085,2024-02-10,No
+1440,Carter-Ball,Transportation,8456985,150,788,4492541,Real Estate,60,7.44,No,1183629,2024-02-10,No
+1444,Browning and Sons,Healthcare,17727556,155,642,3723425,Inventory Purchase,60,12.13,No,1398416,2024-02-09,No
+1011,"Ferguson, Johns and Wells",Healthcare,18667911,340,527,2568665,Real Estate,24,8.47,No,2174365,2024-02-09,No
+1384,Wiggins and Sons,Hospitality,45746736,345,679,4737203,Debt Consolidation,36,9.34,No,731376,2024-02-07,No
+1652,Howard-Williams,IT Services,38571568,377,654,378495,Equipment Purchase,48,14.82,No,1716984,2024-02-07,Yes
+2000,Stevens-Peters,Education,17320131,423,773,3704886,Expansion,60,8.34,No,1717391,2024-02-06,No
+1868,Williams-Velazquez,Agriculture,26919139,13,390,450679,Working Capital,60,11.01,No,3247418,2024-02-05,No
+1795,Garza-Reese,Education,26955176,12,302,594955,Working Capital,48,10.29,No,4994614,2024-02-05,No
+1079,Walker-Robbins,Manufacturing,29746717,133,553,4545975,Marketing,48,10.2,No,3685192,2024-02-04,No
+1753,"Thomas, Lambert and Ramirez",Hospitality,2308507,475,532,4577310,Marketing,24,14.62,No,1041993,2024-02-03,No
+1154,Miller-Brown,Transportation,21449430,280,606,364237,Equipment Purchase,48,7.22,No,87361,2024-02-02,No
+1279,Thomas-Nixon,Agriculture,29160024,480,766,4418420,Debt Consolidation,24,10.56,No,4297328,2024-02-02,Yes
+1512,"Blevins, Torres and Jordan",Education,7026988,479,321,2398354,Expansion,48,13.87,No,3895979,2024-02-01,No
+1670,"Downs, Perez and Johnson",Hospitality,6481140,114,562,4187138,Real Estate,12,7.45,No,1398483,2024-02-01,No
+1627,Acosta-Clark,Healthcare,9674163,157,727,4326405,Working Capital,60,9.06,No,3524412,2024-01-31,Yes
+1150,Avila-Pittman,Education,38795793,229,489,952050,Research & Development,60,8.08,No,4150321,2024-01-31,No
+1923,"Gaines, James and Sanchez",Healthcare,4040267,127,480,241449,Real Estate,24,7.85,No,1743696,2024-01-31,No
+1184,Wilson LLC,Manufacturing,14126263,78,506,143764,Expansion,60,11.08,Yes,3118929,2024-01-31,No
+1472,"Gonzalez, Johnson and Rodriguez",Healthcare,3339767,480,363,4822340,Marketing,48,8.95,No,1332322,2024-01-31,No
+1716,Morris-Ewing,Hospitality,10734816,444,800,1272304,Debt Consolidation,36,11.14,No,2869127,2024-01-31,Yes
+1442,"Ball, Torres and Davis",IT Services,18803769,343,664,3535088,Research & Development,60,10.75,Yes,1941369,2024-01-30,No
+1317,Castro-Guzman,Retail,38367702,369,600,3552814,Marketing,24,7.54,No,1927329,2024-01-30,No
+1306,"Williams, Cruz and Perez",Manufacturing,22689432,12,632,3549330,Research & Development,36,8.91,No,3068967,2024-01-28,Yes
+1277,Bartlett-Pierce,Manufacturing,4875754,300,561,161753,Real Estate,60,14.8,Yes,3365537,2024-01-28,No
+1853,"Thompson, Johnson and Thompson",Healthcare,34523310,319,750,1729753,Debt Consolidation,24,10.88,No,3564078,2024-01-27,Yes
+1526,Barnett-Johnson,Education,19532908,158,563,3945474,Debt Consolidation,12,9.29,No,2669909,2024-01-27,No
+1658,Long-Clark,Agriculture,20155151,369,312,1423173,Debt Consolidation,24,13.53,No,1036275,2024-01-27,No
+1453,Sanchez and Sons,Manufacturing,41400624,139,438,898658,Expansion,24,12.3,No,2644545,2024-01-27,No
+1323,Poole and Sons,IT Services,12579149,158,473,4898793,Real Estate,24,13.76,No,4429455,2024-01-24,No
+1120,"Campbell, Brock and Galvan",Education,14839094,48,568,2966069,Inventory Purchase,36,11.1,No,971806,2024-01-23,No
+1602,"Cortez, Mcmillan and Crane",Agriculture,22845218,410,352,1994554,Marketing,60,14.84,Yes,2289665,2024-01-23,No
+1600,Richards-Johnson,Manufacturing,37328139,442,477,4709770,Inventory Purchase,48,12.53,No,4775296,2024-01-23,No
+1382,Rogers Ltd,Transportation,25948764,143,374,4739276,Debt Consolidation,36,7.65,No,3862197,2024-01-22,No
+1701,Baker and Sons,Finance,31319320,192,840,3359819,Working Capital,60,8.69,No,2215456,2024-01-19,No
+1997,"Arellano, Mathews and Mcclure",Hospitality,18498600,482,482,768629,Debt Consolidation,48,7.87,No,3455914,2024-01-19,No
+1693,Delgado LLC,Construction,22131601,389,401,3739688,Equipment Purchase,24,11.83,No,874341,2024-01-18,No
+1677,Byrd-Nelson,Healthcare,1797968,379,787,596440,Expansion,12,12.67,No,2271132,2024-01-18,Yes
+1710,Henry Group,Healthcare,10825144,287,403,657242,Equipment Purchase,36,13.1,No,3569065,2024-01-17,No
+1071,"Mckinney, Salazar and Duffy",Transportation,36966581,388,675,4864812,Inventory Purchase,12,10.56,No,3540678,2024-01-15,Yes
+1016,Murphy-Keller,Construction,9887324,98,818,4772412,Working Capital,12,7.32,No,2022613,2024-01-15,No
+1467,Sherman Group,Hospitality,19453059,262,464,2223091,Expansion,24,13.57,No,1582713,2024-01-15,No
+1265,Abbott PLC,Education,12415376,309,647,2873737,Equipment Purchase,24,12.5,Yes,3112138,2024-01-15,No
+1666,Jennings-Powell,Construction,48347699,301,758,4697855,Equipment Purchase,24,14.89,Yes,1478931,2024-01-13,No
+1378,Myers LLC,IT Services,9195810,225,340,1266670,Equipment Purchase,60,10.67,No,2982208,2024-01-12,No
+1190,"Leach, Robinson and Nelson",Finance,15338768,170,742,2257280,Debt Consolidation,60,14.56,No,256384,2024-01-11,No
+1791,"Roberts, Walker and Monroe",Hospitality,2940369,81,745,867442,Real Estate,12,12.48,No,4744059,2024-01-09,Yes
+1733,"Cook, Kennedy and Holt",Retail,22650278,158,513,1998917,Equipment Purchase,24,10.58,No,4806497,2024-01-08,No
+1285,Green-Jones,Agriculture,23564965,451,723,176240,Inventory Purchase,12,11.86,No,98926,2024-01-08,No
+1732,Cole-Collins,IT Services,38436581,406,344,1540351,Research & Development,12,12.35,No,3734796,2024-01-07,No
+1054,Rogers-Brock,IT Services,1996530,163,356,953392,Marketing,60,9.26,Yes,380328,2024-01-03,No
+1010,Harding-Hunt,Construction,32772452,374,504,2987757,Equipment Purchase,12,9.41,Yes,1490334,2024-01-03,No
+1139,Miller Inc,Agriculture,16105101,385,676,3633716,Real Estate,36,10.68,No,2632229,2024-01-02,Yes
+1345,Farley-Ochoa,Manufacturing,23858903,267,813,3124015,Research & Development,48,8.25,No,2588361,2024-01-01,Yes
+1456,"Kirby, Johns and Clark",Hospitality,25124905,476,684,1062452,Expansion,24,9.53,No,3297727,2024-01-01,Yes
+1881,Barr Inc,Manufacturing,4257181,171,577,4572089,Expansion,60,14.0,Yes,3460960,2023-12-31,No
+1477,"Tanner, Mcbride and Spencer",Healthcare,37264673,338,545,3091620,Working Capital,24,13.56,No,1755692,2023-12-29,No
+1058,"Weaver, Parsons and Houston",Agriculture,37919127,491,734,4529723,Inventory Purchase,48,12.74,No,3248454,2023-12-29,Yes
+1971,"Best, Martinez and Klein",Hospitality,13431216,83,788,3483973,Marketing,24,12.27,No,4445102,2023-12-29,Yes
+1455,Arroyo-Werner,Transportation,44951994,160,798,1358624,Real Estate,60,9.15,No,1175832,2023-12-27,Yes
+1152,Cooper and Sons,Finance,32712006,35,845,2667587,Working Capital,48,11.85,Yes,1937145,2023-12-25,No
+1803,"Butler, Reed and Lopez",Agriculture,33997728,363,630,4762315,Equipment Purchase,48,12.44,No,1767354,2023-12-25,No
+1149,Singleton-Nguyen,Healthcare,25527791,223,517,4547395,Debt Consolidation,36,13.2,No,1068143,2023-12-24,No
+1270,"Johnson, Montes and Smith",Construction,24567809,335,493,2092569,Real Estate,48,10.09,No,2509622,2023-12-24,No
+1407,"Underwood, Hill and Collier",Retail,18562548,298,733,345144,Expansion,60,14.54,No,3515685,2023-12-24,Yes
+1126,Gonzales-Harper,Healthcare,6579079,250,836,2816207,Marketing,48,8.03,No,1827850,2023-12-22,No
+1527,Ortiz-Mccarthy,Finance,43827096,147,412,4024482,Real Estate,36,12.12,No,2783864,2023-12-22,No
+1963,Arias LLC,Construction,49846793,419,309,739872,Inventory Purchase,36,8.57,No,1218694,2023-12-21,No
+1629,Roberts PLC,Agriculture,31914222,241,440,2687551,Equipment Purchase,12,7.22,No,2061562,2023-12-20,No
+1495,Hughes-Norman,Construction,39641700,230,764,2104517,Marketing,24,11.58,No,4970791,2023-12-20,Yes
+1770,Cameron and Sons,Manufacturing,47289704,198,367,2919182,Debt Consolidation,60,7.67,No,331833,2023-12-20,No
+1647,Harris PLC,Hospitality,36402297,329,592,2017577,Marketing,12,14.72,No,1105608,2023-12-18,No
+1968,White Inc,IT Services,41930951,477,401,4561902,Expansion,24,11.36,No,2163527,2023-12-18,No
+1955,"Butler, Meza and White",Healthcare,44902446,346,571,1735765,Real Estate,12,9.82,Yes,2413304,2023-12-18,No
+1665,Ortega-Bentley,Finance,5437677,58,465,234445,Real Estate,48,8.33,No,860586,2023-12-18,No
+1374,"Warner, Scott and Mcgee",Retail,2020154,91,750,3248491,Inventory Purchase,36,12.15,No,4586363,2023-12-16,Yes
+1486,Becker-Hall,Retail,10462743,269,446,3848294,Real Estate,36,11.66,No,3160041,2023-12-16,No
+1354,Kelly-Bush,Education,12984398,416,610,4720792,Debt Consolidation,48,12.05,No,744934,2023-12-15,No
+1290,"Jones, Harper and Allen",Manufacturing,48517690,296,601,4485224,Real Estate,60,12.92,No,1720930,2023-12-15,No
+1226,Armstrong Inc,Hospitality,35780908,197,813,3003609,Research & Development,48,9.78,No,3255677,2023-12-15,Yes
+1171,"Morales, Strickland and Dean",Retail,11864147,28,300,3733795,Equipment Purchase,12,9.23,No,2671872,2023-12-15,No
+1871,Strickland PLC,Healthcare,3854190,12,413,4911671,Inventory Purchase,12,8.06,No,2838647,2023-12-14,No
+1153,"Flowers, Richardson and Williams",Agriculture,7569632,18,340,4895464,Working Capital,36,10.43,No,2147711,2023-12-13,No
+1193,"Larson, Johnson and Hill",Transportation,14109773,474,441,4446657,Marketing,60,14.28,No,4389242,2023-12-13,No
+1739,Bridges Ltd,Healthcare,49243574,144,711,3730623,Equipment Purchase,12,10.84,No,4343900,2023-12-13,Yes
+1979,Zuniga and Sons,Transportation,14913140,240,706,3123504,Research & Development,24,13.42,No,1826025,2023-12-12,No
+1623,"Goodwin, Jones and Greer",Manufacturing,32670310,492,689,3751361,Working Capital,60,9.14,No,4779124,2023-12-11,Yes
+1049,"Colon, Jones and Nguyen",Finance,14427105,459,497,1235627,Working Capital,48,8.64,No,61009,2023-12-10,No
+1243,Wood-Wallace,Healthcare,41381731,145,334,4588155,Expansion,24,11.57,No,227946,2023-12-09,No
+1100,"Anderson, Erickson and Oneal",Transportation,44542641,165,767,2753528,Marketing,48,11.66,No,4223414,2023-12-08,Yes
+1601,"Hudson, Dunlap and Cooley",Construction,30844218,88,711,1364134,Research & Development,12,12.39,No,97361,2023-12-07,No
+1544,"Edwards, Haas and Lin",Hospitality,11528294,173,493,1784449,Inventory Purchase,60,12.17,Yes,1678782,2023-12-07,No
+1570,Lewis-Ramos,Retail,44020873,30,312,362091,Real Estate,36,9.41,No,2661895,2023-12-06,No
+1699,Stephens Ltd,IT Services,4151882,433,481,1738846,Inventory Purchase,24,13.99,No,1865599,2023-12-06,No
+1105,"Hernandez, Brown and Strickland",Transportation,38003110,429,558,1498949,Inventory Purchase,60,10.09,No,2898411,2023-12-05,No
+1537,"Kaufman, Johnson and May",Education,18486878,251,440,1670889,Debt Consolidation,36,14.32,No,3681097,2023-12-05,No
+1275,"Thompson, Wyatt and Wilkins",Retail,48744216,111,561,4005513,Marketing,24,8.54,No,4167095,2023-12-05,No
+1183,"Howell, Morgan and Rivera",Manufacturing,15072989,251,692,321552,Research & Development,12,10.52,No,3656940,2023-12-04,Yes
+1842,Griffin-Smith,Education,34535574,120,373,178116,Marketing,24,14.46,No,3163192,2023-12-03,No
+1045,"Taylor, Moore and Morales",Hospitality,18794649,94,722,923759,Working Capital,60,9.66,No,4871699,2023-12-02,Yes
+1728,Williams-Holt,Construction,2947763,242,630,2379042,Expansion,24,13.64,No,2538489,2023-12-02,Yes
+1356,Quinn and Sons,Agriculture,36396080,205,512,1437768,Research & Development,24,7.41,Yes,1928292,2023-12-01,No
+1250,"Eaton, Romero and Dyer",Manufacturing,2270896,278,730,2472948,Working Capital,12,9.98,No,2429897,2023-11-30,Yes
+1547,Perez PLC,Hospitality,24480675,197,564,1217374,Marketing,24,12.47,No,1783391,2023-11-29,No
+1507,Fitzpatrick-Thornton,Retail,18434167,265,312,4546460,Expansion,24,8.65,No,995161,2023-11-28,No
+1608,Wilson-King,Transportation,28911050,78,358,811943,Marketing,24,13.25,Yes,3473604,2023-11-28,No
+1840,Crane PLC,Transportation,12950831,195,436,2045537,Inventory Purchase,48,7.11,No,2962044,2023-11-27,No
+1935,Young Ltd,Finance,19144439,56,810,1016004,Debt Consolidation,12,10.58,No,1952453,2023-11-27,Yes
+1679,Rivera-Lara,Manufacturing,30163439,158,364,1552137,Research & Development,12,8.39,No,791165,2023-11-26,No
+1385,Smith-Nelson,Finance,49558556,16,589,4775519,Expansion,12,11.36,No,1765872,2023-11-24,No
+1214,Jordan-Richardson,Healthcare,21080673,94,736,2162087,Equipment Purchase,36,10.99,No,3945090,2023-11-23,Yes
+1227,"Johnson, Morris and Mack",Retail,38738488,311,426,1546250,Research & Development,36,10.45,No,2556068,2023-11-22,No
+1805,"King, Valentine and Martinez",Education,10957168,19,349,398783,Working Capital,60,8.17,No,3951407,2023-11-22,No
+1347,"Crawford, Foster and Phillips",Retail,49068795,258,649,3741141,Inventory Purchase,24,11.55,No,1018410,2023-11-21,No
+1307,Stewart-Rios,Healthcare,26941259,153,426,1825049,Inventory Purchase,60,8.71,No,3776904,2023-11-21,No
+1532,Holmes-Marks,Hospitality,8393979,398,591,2010332,Working Capital,48,8.33,No,1040993,2023-11-21,No
+1051,"Davis, Hart and Mcmahon",Retail,26146282,421,813,345300,Real Estate,36,12.91,No,1773480,2023-11-19,Yes
+1994,"George, Simpson and Shaw",Transportation,5876872,40,375,4917911,Research & Development,24,13.41,No,4864974,2023-11-14,No
+1203,Garcia Ltd,Education,44229625,147,725,4410518,Marketing,12,10.6,No,4638156,2023-11-14,Yes
+1056,Lee-Rivas,Healthcare,40785651,21,397,3762340,Real Estate,36,14.86,No,2758668,2023-11-14,No
+1593,"Thompson, Maldonado and Robinson",Retail,10161408,212,745,1499769,Marketing,24,7.31,No,4235727,2023-11-13,Yes
+1502,Delgado Group,Manufacturing,47263335,72,415,204927,Real Estate,60,12.88,No,1463285,2023-11-12,No
+1744,Ward-Hardy,Retail,5409352,265,517,4172250,Research & Development,36,10.61,No,2155777,2023-11-12,No
+1132,Reynolds PLC,Finance,43290779,93,775,1188963,Expansion,24,9.66,No,2252888,2023-11-10,Yes
+1065,"Kelly, Morrison and Ortiz",IT Services,27461126,52,576,4937231,Equipment Purchase,60,14.58,No,3578329,2023-11-08,No
+1660,Smith LLC,Construction,3474968,338,696,2799134,Real Estate,24,7.71,No,1460124,2023-11-08,No
+1112,Rodriguez PLC,Retail,11669435,99,559,1260117,Marketing,24,11.4,No,1149469,2023-11-07,No
+1373,Smith Ltd,Healthcare,25242589,175,663,3297445,Expansion,48,7.91,No,4808669,2023-11-07,Yes
+1523,Price PLC,Healthcare,23496936,255,462,2607743,Working Capital,60,7.45,No,1673162,2023-11-07,No
+1060,Castro Inc,Hospitality,11580030,302,643,254692,Research & Development,60,10.02,No,2335362,2023-11-06,Yes
+1960,"Daugherty, Mcbride and Sosa",Agriculture,43907958,435,553,2105534,Expansion,36,8.43,Yes,335356,2023-11-04,No
+1872,"Davis, Rodriguez and Allen",Manufacturing,2284382,225,357,1204381,Expansion,48,11.38,Yes,1620497,2023-11-03,No
+1015,"Burke, Stein and George",Agriculture,10688053,464,495,1761655,Working Capital,24,11.93,No,3782238,2023-11-03,No
+1288,Rivers and Sons,Construction,10004644,342,731,1427042,Debt Consolidation,36,7.51,No,4607418,2023-11-03,Yes
+1781,Stone-Soto,Finance,31559798,117,660,4215741,Expansion,24,13.21,No,3243796,2023-11-01,Yes
+1970,"Hunt, Hernandez and Briggs",Construction,35831079,414,380,1250997,Debt Consolidation,12,12.62,No,2249806,2023-10-31,No
+1962,Cooper LLC,Manufacturing,31555353,311,779,2698475,Marketing,60,7.66,No,3053337,2023-10-30,Yes
+1131,"Garner, Johnson and Carter",Healthcare,29645954,45,526,3799100,Real Estate,36,8.33,No,4862940,2023-10-30,No
+1240,Reyes Inc,Retail,24631669,173,500,3430922,Real Estate,12,11.09,No,892653,2023-10-29,No
+1771,Summers Ltd,Hospitality,34283771,362,711,1093978,Marketing,24,14.88,No,1585834,2023-10-28,Yes
+1117,Edwards-Cook,Hospitality,12484508,360,428,389134,Marketing,60,11.46,No,471655,2023-10-28,No
+1355,Sharp-Olsen,Hospitality,31502775,163,656,4926709,Debt Consolidation,12,11.15,No,1090835,2023-10-27,No
+1897,"Garner, Santos and Ford",Education,3320688,39,408,1083667,Inventory Purchase,60,10.42,No,2583922,2023-10-26,No
+1543,Bryant-Mays,Transportation,40227037,169,846,1050922,Real Estate,48,8.17,No,237486,2023-10-23,No
+1246,"Buckley, Wright and Golden",Transportation,25694812,79,364,3866001,Equipment Purchase,60,11.55,No,2368292,2023-10-21,No
+1286,"Pena, Bonilla and Patrick",Transportation,41131083,45,441,4529899,Working Capital,60,7.71,No,3801387,2023-10-20,No
+1023,"Cummings, Newman and Chavez",Hospitality,40816537,414,725,1133668,Research & Development,12,8.63,Yes,4379394,2023-10-20,No
+1987,Davis-Soto,Hospitality,25101438,306,440,4081383,Debt Consolidation,48,11.32,No,3465814,2023-10-18,No
+1471,Chapman-Williams,Finance,11569320,466,463,1964071,Debt Consolidation,36,14.02,No,2926673,2023-10-16,No
+1760,Robinson-Morgan,Hospitality,9546310,59,325,1330796,Debt Consolidation,24,11.98,Yes,1330280,2023-10-14,No
+1074,Butler-Williams,Construction,17405566,416,680,1668146,Real Estate,12,7.47,No,2395170,2023-10-13,Yes
+1319,Elliott-Smith,Transportation,24387092,373,549,4678887,Equipment Purchase,24,9.13,No,365315,2023-10-13,No
+1942,Blake-Sharp,Construction,48480620,409,411,2614368,Research & Development,60,8.65,No,3764528,2023-10-13,No
+1534,"Cox, Smith and Wilson",Retail,29506244,22,848,2598578,Expansion,12,8.41,No,1009296,2023-10-12,No
+1375,Martin-Robertson,Finance,39499601,438,494,455054,Debt Consolidation,12,13.67,No,1758175,2023-10-12,No
+1967,"Reese, Waters and Chambers",Agriculture,12820569,430,452,3986912,Working Capital,48,14.39,No,3724777,2023-10-11,No
+1476,Rice Inc,Transportation,11851224,158,439,564462,Debt Consolidation,12,14.29,No,3546425,2023-10-10,No
+1121,"Irwin, Santos and Wilson",Hospitality,17701250,406,461,837090,Marketing,36,9.33,No,3457129,2023-10-09,No
+1982,"Nguyen, Leon and Jackson",IT Services,21717501,138,808,3463244,Equipment Purchase,24,9.4,No,1040170,2023-10-09,No
+1822,Harrison-Gamble,Education,43663528,63,653,4500852,Working Capital,36,7.7,No,407054,2023-10-09,No
+1281,Graham-Gonzalez,Agriculture,11912996,125,661,2835090,Marketing,24,14.87,No,3350874,2023-10-09,Yes
+1062,Bryant-Lamb,Agriculture,6786265,309,542,2491098,Marketing,24,10.48,No,3500375,2023-10-09,No
+1043,"Grant, Harris and Serrano",Hospitality,36453171,274,327,4567890,Inventory Purchase,48,14.51,No,3430796,2023-10-09,No
+1518,"Hardy, Cruz and Smith",Construction,47860379,192,493,3147589,Real Estate,48,11.63,No,2546282,2023-10-09,No
+1606,Johnson Group,Education,39491142,182,559,3885961,Working Capital,60,13.39,No,2008970,2023-10-08,No
+1579,Santos and Sons,Education,33456981,434,530,343877,Real Estate,48,8.04,No,2923382,2023-10-08,No
+1067,"Jones, Parker and Krueger",Healthcare,35124883,352,453,1488509,Debt Consolidation,12,9.61,No,4434432,2023-10-07,No
+1398,Collins-Pearson,Agriculture,15372528,285,425,2159385,Equipment Purchase,36,13.63,No,1033638,2023-10-07,No
+1261,Anthony Inc,IT Services,37905710,239,804,4639170,Research & Development,48,14.73,No,4365596,2023-10-07,Yes
+1883,Zimmerman Inc,IT Services,39708480,91,555,368449,Working Capital,48,12.76,No,4769707,2023-10-06,No
+1749,Reyes Group,Retail,9421928,31,630,3076030,Expansion,60,10.71,No,3740582,2023-10-05,Yes
+1748,Phillips-Patterson,Retail,44148703,354,733,3920888,Equipment Purchase,48,8.54,No,1221758,2023-10-05,No
+1856,"Hughes, Wilson and Gonzalez",Manufacturing,7491878,414,564,3473307,Real Estate,24,8.38,No,2714119,2023-10-04,No
+1211,Nelson Group,Retail,36974996,329,807,4666701,Working Capital,60,8.35,No,1226957,2023-10-04,No
+1090,Willis LLC,Retail,37248719,284,307,3569992,Research & Development,36,7.06,No,2519485,2023-10-03,No
+1690,Harris LLC,IT Services,43721553,409,343,4022750,Working Capital,36,11.76,No,4913099,2023-09-30,No
+1700,Joseph-Dalton,Retail,33134444,411,835,4330987,Debt Consolidation,48,8.89,No,3247514,2023-09-29,Yes
+1352,"King, Long and Ford",Agriculture,13267883,189,718,873952,Debt Consolidation,24,14.11,Yes,3417764,2023-09-28,No
+1691,"Tanner, Erickson and Rogers",Manufacturing,37857821,297,352,1235270,Equipment Purchase,60,14.09,No,4969314,2023-09-28,No
+1767,Ramirez-Burns,Education,12091989,287,760,2533351,Real Estate,36,12.68,No,4145228,2023-09-28,Yes
+1077,Cunningham Inc,Education,8022336,312,746,647219,Research & Development,24,8.34,No,882230,2023-09-27,Yes
+1420,Jackson-West,Finance,49665285,434,841,1708795,Research & Development,24,7.2,No,3753713,2023-09-27,Yes
+1031,"Chapman, Reed and Boyd",Education,19492846,300,430,4494643,Working Capital,36,14.08,No,2593628,2023-09-27,No
+1711,Bryan Ltd,Education,37097069,423,801,3227640,Inventory Purchase,48,8.15,No,1834210,2023-09-26,No
+1595,Miller-Smith,Healthcare,38214417,299,309,4739059,Real Estate,60,14.13,No,2864268,2023-09-26,No
+1478,Allen Inc,Education,12822411,165,694,4968923,Real Estate,12,13.08,No,1058507,2023-09-24,No
+1483,Lawrence PLC,Construction,4597706,409,319,2372759,Real Estate,60,11.37,No,3536082,2023-09-23,No
+1676,Robinson PLC,Retail,20659206,264,839,2675606,Research & Development,12,10.57,No,1009540,2023-09-22,No
+1681,Wells Inc,IT Services,20651515,149,832,2842455,Working Capital,12,12.1,No,525759,2023-09-22,No
+1804,"Weaver, Young and Sandoval",Hospitality,41793419,482,632,2921839,Real Estate,60,13.6,Yes,800782,2023-09-22,No
+1901,Gibson LLC,Retail,39090551,424,411,3690437,Expansion,24,7.85,No,1158837,2023-09-22,No
+1411,"West, Hernandez and Harding",Agriculture,41057648,330,374,3149316,Expansion,24,7.9,No,4873325,2023-09-21,No
+1603,Ayala Group,Agriculture,3773939,453,707,4815700,Real Estate,24,14.88,No,4210244,2023-09-21,Yes
+1505,"Pierce, Fuller and Jordan",Education,2132658,200,622,4317690,Expansion,24,12.93,Yes,1380657,2023-09-20,No
+1430,Macdonald and Sons,IT Services,11679043,34,668,2809236,Research & Development,24,8.03,No,4005199,2023-09-20,Yes
+1877,Padilla-Smith,Agriculture,12872847,397,340,644026,Working Capital,48,13.85,No,3219283,2023-09-19,No
+1561,"Rivera, Alvarez and Wolfe",Healthcare,8281505,91,365,1646933,Debt Consolidation,60,14.17,No,119519,2023-09-18,No
+1283,"Hayes, Robertson and Taylor",Agriculture,31908587,159,740,2263349,Working Capital,12,12.45,No,4113997,2023-09-16,Yes
+1219,"Anderson, Snyder and Choi",IT Services,15157398,134,675,2095141,Equipment Purchase,60,11.12,No,1768303,2023-09-15,Yes
+1956,"Torres, King and Patel",Manufacturing,23655061,374,501,2685181,Real Estate,60,12.78,No,2516704,2023-09-15,No
+1859,"Rogers, Hubbard and Velasquez",Retail,3844664,439,845,2948439,Expansion,48,8.26,No,1586201,2023-09-15,No
+1573,Craig Inc,Healthcare,7555035,122,807,1484822,Debt Consolidation,48,7.74,No,4350546,2023-09-15,Yes
+1298,"Castaneda, Grant and Graham",Agriculture,22671503,64,532,1662518,Research & Development,48,14.63,Yes,711259,2023-09-12,No
+1489,Peters-Baird,Healthcare,42892167,49,401,2580017,Expansion,48,8.47,No,97367,2023-09-11,No
+1234,Miller-Lara,Manufacturing,23704829,176,334,444126,Working Capital,12,8.91,No,2978751,2023-09-10,No
+1426,"Sheppard, Duffy and Cunningham",Hospitality,21658401,401,423,3815929,Equipment Purchase,24,7.52,Yes,2758089,2023-09-09,No
+1414,"Huffman, Avery and Jones",Manufacturing,15133434,319,662,1946585,Real Estate,36,12.11,No,351364,2023-09-09,No
+1114,Gomez-Jacobs,Retail,42924694,359,843,4356146,Research & Development,60,14.02,No,2710038,2023-09-08,No
+1783,"Le, Erickson and Robinson",IT Services,38670243,290,547,4784013,Marketing,24,11.92,No,2707001,2023-09-08,No
+1064,King Group,Hospitality,32299028,280,690,2685917,Real Estate,12,8.45,Yes,3276585,2023-09-07,No
+1458,"Rivera, Silva and Yu",Retail,30254481,14,782,1870394,Equipment Purchase,12,12.24,No,612834,2023-09-07,No
+1930,"Johnston, Perry and Hendrix",Finance,46658328,249,511,3069791,Marketing,60,7.28,No,3504707,2023-09-06,No
+1088,Martinez and Sons,Manufacturing,12707868,150,803,195556,Expansion,48,10.29,No,3327560,2023-09-05,Yes
+1928,"Ortiz, Smith and Roach",Transportation,22217066,269,384,235370,Working Capital,12,10.69,Yes,2114618,2023-09-05,No
+1333,"Castaneda, Jacobs and Stephenson",Hospitality,46911262,469,677,2966457,Debt Consolidation,12,13.13,No,4508434,2023-09-04,Yes
+1869,Melton Ltd,Healthcare,5600108,230,381,4924574,Research & Development,36,10.64,No,4821462,2023-09-03,No
+1340,Clark Group,Hospitality,4395049,123,417,136413,Marketing,12,14.9,No,4022162,2023-09-01,No
+1687,Brooks LLC,Agriculture,49841287,190,348,3857454,Inventory Purchase,60,13.53,No,530620,2023-08-31,No
+1177,Knight-Duffy,Manufacturing,8271476,155,832,2918907,Working Capital,36,10.24,No,2600552,2023-08-31,Yes
+1922,Cole and Sons,Hospitality,45336333,322,553,4744081,Research & Development,24,9.67,No,214486,2023-08-31,No
+1750,Hoover-Chavez,Construction,26492849,357,442,2431348,Expansion,12,8.97,No,2176869,2023-08-31,No
+1268,Phillips Inc,Healthcare,27280417,268,375,1574620,Research & Development,36,7.41,No,2903501,2023-08-28,No
+1377,Silva-Rivera,Healthcare,47020191,167,471,3939847,Marketing,12,12.17,No,3151004,2023-08-28,No
+1978,Rivera-Martinez,Transportation,12319247,135,300,422137,Debt Consolidation,36,15.0,No,2691436,2023-08-28,No
+1180,Li-Hill,Agriculture,25899065,467,601,4263960,Equipment Purchase,48,11.63,No,1411968,2023-08-27,No
+1983,Nguyen-Myers,Retail,7851803,289,612,4673957,Marketing,48,8.21,No,1783341,2023-08-27,No
+1320,"Gross, Mclaughlin and Hunter",IT Services,20156053,330,752,1121436,Inventory Purchase,36,11.05,Yes,200594,2023-08-26,No
+1364,Salinas-Macdonald,Agriculture,48149071,351,576,1329458,Debt Consolidation,48,10.71,No,3734334,2023-08-26,No
+1742,Jones-Harrison,Transportation,25035962,233,423,4737370,Equipment Purchase,12,14.33,No,1901579,2023-08-25,No
+1596,Vance LLC,Education,25796429,273,783,588051,Working Capital,12,11.56,No,507301,2023-08-25,Yes
+1291,Schneider Ltd,Construction,39542128,312,489,998332,Inventory Purchase,24,8.69,No,2208714,2023-08-24,No
+1408,Hensley Group,Hospitality,15376941,173,675,4124227,Equipment Purchase,12,11.88,Yes,146748,2023-08-24,No
+1715,Mckinney LLC,Finance,32029339,297,690,4853292,Marketing,60,10.64,Yes,1636987,2023-08-22,No
+1553,Carrillo-Rodriguez,Transportation,28427110,192,654,1085257,Real Estate,12,14.87,No,4125341,2023-08-21,Yes
+1480,"Suarez, Tucker and Black",Education,4978702,380,775,3672401,Expansion,12,13.75,No,2768181,2023-08-21,Yes
+1204,"Lane, Daugherty and Fowler",Agriculture,43723356,466,574,2682153,Expansion,36,12.54,No,1035461,2023-08-20,No
+1860,Hood Inc,Education,37167707,269,798,4820553,Research & Development,24,14.7,No,1629889,2023-08-19,No
+1206,Gardner LLC,Healthcare,29700374,86,472,1830085,Marketing,60,14.96,No,3405361,2023-08-19,No
+1529,Strickland-Kelly,Hospitality,36501225,323,626,4390697,Equipment Purchase,24,14.66,No,4189524,2023-08-19,Yes
+1296,"Chaney, Carter and Mason",Manufacturing,37851723,167,662,4749454,Marketing,60,8.74,Yes,4979073,2023-08-18,No
+1735,Coleman-Collier,Finance,25455289,401,494,4171495,Debt Consolidation,12,8.63,No,4898243,2023-08-16,No
+1469,Rodriguez PLC,Retail,4229028,65,583,1034048,Real Estate,24,10.37,No,4790616,2023-08-16,No
+1459,"Jones, Robinson and Novak",IT Services,37595773,476,410,4236725,Inventory Purchase,60,7.32,No,890597,2023-08-16,No
+1401,Miles-Vargas,Construction,1549239,275,691,1475645,Inventory Purchase,60,7.9,No,4236080,2023-08-15,Yes
+1811,"Mcdonald, Allen and Melendez",Retail,11717207,420,745,2215226,Marketing,60,9.47,No,2056260,2023-08-14,Yes
+1796,Thomas-Wilson,Finance,39233146,458,817,1620180,Inventory Purchase,36,8.87,No,3139809,2023-08-14,Yes
+1047,"Hickman, Mcknight and Vaughn",IT Services,12149697,337,828,4629275,Equipment Purchase,36,13.12,No,2899090,2023-08-14,No
+1848,"Potter, Jackson and Vasquez",Healthcare,46677380,236,469,3628880,Equipment Purchase,36,10.99,Yes,2966585,2023-08-13,No
+1522,Burnett-Banks,Construction,18824559,414,602,4740176,Expansion,36,13.68,No,1800652,2023-08-13,No
+1072,"Perez, Castillo and Hernandez",Construction,6398869,436,512,4673574,Expansion,24,12.94,No,4823598,2023-08-12,No
+1161,Rose PLC,Agriculture,4526737,81,588,2279441,Marketing,12,10.82,No,50037,2023-08-10,No
+1769,Foster-Ramirez,Transportation,41819838,430,659,3082202,Equipment Purchase,48,11.14,No,2499851,2023-08-08,Yes
+1517,Perez Ltd,Construction,10456807,142,503,606453,Expansion,12,13.5,No,4424984,2023-08-06,No
+1645,"Mccullough, Bailey and Brooks",Manufacturing,21610500,361,730,4350167,Working Capital,48,9.12,No,443545,2023-08-05,No
+1747,"Marquez, Hernandez and Taylor",Hospitality,16329502,244,692,1132499,Marketing,60,10.94,No,2440514,2023-08-04,Yes
+1614,Thomas PLC,Healthcare,11774986,17,374,4330207,Equipment Purchase,48,9.48,No,172366,2023-08-03,No
+1399,"Gonzalez, Gray and Brown",Education,5720642,475,694,1541246,Working Capital,12,12.01,No,4025904,2023-08-02,Yes
+1798,Hobbs LLC,Hospitality,15609307,113,819,1726528,Marketing,48,14.04,Yes,1428148,2023-08-02,No
+1844,Smith-Davis,Retail,14607851,141,811,2122643,Working Capital,24,13.58,Yes,2690955,2023-08-02,No
+1535,"Kelley, Wilson and Montoya",Finance,26214698,222,300,3912010,Inventory Purchase,12,8.88,No,1863948,2023-08-01,No
+1697,"Barber, Cruz and Boone",Construction,14476005,280,410,4872945,Debt Consolidation,12,7.75,No,4554103,2023-07-31,No
+1416,Ramirez LLC,Construction,22882940,390,533,4207618,Real Estate,48,14.98,No,3092244,2023-07-30,No
+1761,Baldwin PLC,IT Services,20628490,104,324,213936,Marketing,24,10.57,No,2900310,2023-07-27,No
+1937,Gregory-Brown,Education,20205297,133,468,527244,Marketing,24,10.02,No,3918707,2023-07-26,No
+1238,"Montgomery, Thompson and Becker",Education,44470977,238,603,1770357,Equipment Purchase,24,7.07,No,4346720,2023-07-25,Yes
+1741,"Smith, Miller and James",Healthcare,15391234,245,378,972834,Research & Development,36,11.53,No,3028602,2023-07-24,No
+1549,Barnes Inc,Construction,18219277,200,559,2398756,Expansion,12,13.04,No,144702,2023-07-23,No
+1740,Oconnor LLC,Transportation,47462256,160,504,3781890,Real Estate,36,10.89,No,3967430,2023-07-23,No
+1724,"Zimmerman, Rogers and Wallace",Hospitality,33356072,231,527,2670725,Real Estate,24,11.71,No,2702808,2023-07-22,No
+1316,Gray-Bradford,Hospitality,15488262,477,539,197406,Research & Development,60,8.93,No,1811331,2023-07-22,No
+1823,Strong-Freeman,Construction,5790691,21,572,4745287,Marketing,24,14.49,No,2552656,2023-07-22,No
+1462,Moore LLC,Manufacturing,45048098,354,808,3026979,Equipment Purchase,36,14.13,No,2622703,2023-07-21,Yes
+1185,Browning-Munoz,Retail,5261946,184,509,2320182,Equipment Purchase,60,9.07,Yes,3650200,2023-07-21,No
+1380,Martinez-Scott,Retail,41739629,167,322,2948883,Marketing,36,7.28,No,1758086,2023-07-19,No
+1959,Simmons Ltd,Healthcare,24116992,412,461,3539289,Inventory Purchase,24,8.01,No,1096251,2023-07-18,No
+1948,"Hughes, Mitchell and Gillespie",Agriculture,5990961,470,678,366150,Expansion,48,11.51,No,804108,2023-07-16,Yes
+1009,Anderson LLC,Transportation,3681719,348,481,4853267,Marketing,48,12.41,No,3560463,2023-07-16,No
+1705,"Russo, Burch and Pratt",IT Services,24773962,324,487,3921615,Marketing,12,8.3,No,2669210,2023-07-15,No
+1438,"English, Johnson and Moore",Construction,20984609,105,368,395866,Equipment Purchase,60,12.61,Yes,448422,2023-07-14,No
+1900,"Gordon, Turner and Curtis",Finance,38774891,126,446,980096,Debt Consolidation,24,13.07,No,4259020,2023-07-14,No
+1258,"Tanner, King and Ross",Retail,5131479,169,531,3670118,Debt Consolidation,48,8.98,No,739317,2023-07-14,No
+1622,Kaufman-Morgan,Agriculture,45924392,417,387,741593,Equipment Purchase,12,7.54,No,1011743,2023-07-14,No
+1500,Clark LLC,Retail,31495692,240,810,688574,Equipment Purchase,60,9.19,No,942743,2023-07-13,Yes
+1722,Rodriguez Ltd,Transportation,13851424,131,672,4736440,Equipment Purchase,24,8.86,No,393288,2023-07-12,No
+1703,Ferrell Inc,IT Services,7737320,162,708,424934,Debt Consolidation,24,9.56,No,534103,2023-07-10,Yes
+1254,Mueller and Sons,Transportation,17770274,453,473,528745,Research & Development,12,13.94,No,1610121,2023-07-10,No
+1369,Johnson Inc,Construction,38691702,21,674,4073313,Working Capital,24,7.85,No,922109,2023-07-10,No
+1615,Scott-Anthony,Hospitality,5421590,342,740,2098173,Debt Consolidation,60,13.1,No,2343316,2023-07-08,Yes
+1536,Padilla-Jones,IT Services,36177004,483,848,1578081,Research & Development,12,10.95,No,312530,2023-07-07,No
+1209,"Carson, Curry and Torres",Hospitality,44309893,418,372,4695130,Research & Development,24,11.27,No,677915,2023-07-07,No
+1605,"Taylor, Morris and Ward",Finance,37989387,353,329,3231603,Debt Consolidation,24,8.95,No,4009978,2023-07-06,No
+1624,Hughes-Blackwell,Education,49958734,161,624,1567130,Inventory Purchase,24,14.3,No,2357278,2023-07-05,Yes
+1146,Johnson PLC,Manufacturing,2962165,415,775,3943139,Equipment Purchase,24,8.47,No,4829897,2023-07-05,Yes
+1582,Vargas-Bates,Transportation,23458851,69,736,1020759,Real Estate,12,7.78,Yes,3821414,2023-07-05,No
+1599,Johnson Group,Manufacturing,1549148,209,313,3717597,Marketing,12,8.31,No,4067763,2023-07-04,No
+1762,"Gonzalez, Coleman and Cisneros",Manufacturing,19003027,472,693,4310583,Working Capital,12,13.22,No,4065789,2023-07-04,Yes
+1142,Bridges-Bates,Finance,9997354,56,663,2281533,Research & Development,48,7.4,No,408062,2023-07-04,No
+1487,Holt LLC,Manufacturing,12377787,269,603,374535,Working Capital,36,8.49,No,2544903,2023-07-04,Yes
+1909,Diaz PLC,Retail,13617619,192,582,1573300,Expansion,12,13.79,No,1762460,2023-07-03,No
+1138,Cooper-King,Construction,19699351,181,510,878799,Marketing,12,14.13,No,1774620,2023-07-02,No
+1514,Knight LLC,Healthcare,25203479,464,619,1293982,Expansion,24,12.03,No,1847555,2023-07-02,Yes
+1293,Smith-Baker,Healthcare,14143608,217,703,4125942,Real Estate,48,7.24,No,2100181,2023-07-01,No
+1365,Dunn Group,Construction,22225964,325,737,1267272,Research & Development,36,8.07,Yes,1514123,2023-07-01,No
+1245,Henderson-Cooke,Agriculture,48133465,388,779,397986,Inventory Purchase,12,8.12,Yes,313503,2023-06-27,No
+1260,"Brooks, James and Young",IT Services,19409209,273,849,3917042,Debt Consolidation,12,14.16,No,801240,2023-06-26,No
+1992,Davidson LLC,Agriculture,49870063,197,814,1675326,Expansion,24,14.47,No,893214,2023-06-26,No
+1186,"Hubbard, Carter and Wilson",IT Services,17867309,58,414,1997951,Inventory Purchase,12,9.53,No,609031,2023-06-25,No
+1182,Gomez Group,Construction,40054025,448,700,3964044,Working Capital,36,8.24,No,4945035,2023-06-24,Yes
+1417,"Vargas, Jones and Smith",Hospitality,39580196,445,561,1006450,Real Estate,36,9.11,No,3419415,2023-06-24,No
+1794,Morgan PLC,Retail,49226615,270,522,479593,Inventory Purchase,48,9.25,No,1913032,2023-06-23,No
+1525,"Mcmillan, Phillips and Chambers",Finance,39175082,88,669,1756042,Debt Consolidation,24,13.81,No,4314139,2023-06-23,Yes
+1557,Dunn-Ferguson,Manufacturing,33435245,43,382,2735466,Real Estate,48,11.52,No,3313647,2023-06-22,No
+1539,"Schneider, Stevens and Jennings",Hospitality,17620937,190,427,3171640,Debt Consolidation,48,8.15,No,267767,2023-06-20,No
+1357,"Simpson, Wheeler and Garrett",Hospitality,31715395,475,348,3190930,Debt Consolidation,60,8.86,No,4513786,2023-06-20,No
+1751,"Barker, Atkinson and Brown",Construction,43307399,294,839,4501913,Equipment Purchase,12,14.32,No,3901072,2023-06-20,Yes
+1875,Williams PLC,Manufacturing,48230658,195,565,370146,Debt Consolidation,24,10.34,No,855231,2023-06-17,No
+1857,Holmes and Sons,Transportation,32241029,211,737,650242,Research & Development,60,13.98,No,1361147,2023-06-16,Yes
+1594,"Dougherty, Gross and Mccall",Retail,48439893,256,373,2595389,Debt Consolidation,24,10.64,No,65588,2023-06-15,No
+1682,Calderon-Clark,Transportation,8339838,356,551,2369409,Expansion,48,7.57,No,2894510,2023-06-14,No
+1524,"Wall, Wright and Cain",Construction,26271052,239,318,1655811,Equipment Purchase,60,12.98,No,4036464,2023-06-13,No
+1827,"Vaughan, Obrien and Smith",IT Services,18066318,130,819,317314,Debt Consolidation,12,13.44,Yes,2878607,2023-06-12,No
+1709,Parks Inc,IT Services,39836811,123,764,3814755,Inventory Purchase,24,10.25,Yes,2429220,2023-06-12,No
+1628,Johnson-Reed,Retail,19279553,286,751,4297079,Debt Consolidation,24,12.76,No,153021,2023-06-10,No
+1389,Patterson and Sons,Construction,11760888,408,720,4714466,Expansion,36,8.31,Yes,2359231,2023-06-10,No
+1813,"Allen, Jackson and Dunn",IT Services,17169764,434,438,3730400,Research & Development,36,13.16,No,2739290,2023-06-09,No
+1939,Brown-Stewart,Manufacturing,5273445,368,605,3655912,Expansion,36,8.95,No,1474241,2023-06-09,No
+1989,"Brown, Parker and Greer",Healthcare,31338208,183,639,808092,Inventory Purchase,60,7.14,No,2853528,2023-06-09,Yes
+1764,"Pollard, Merritt and Rogers",Education,4081091,97,600,3612305,Debt Consolidation,12,8.32,No,3777661,2023-06-09,Yes
+1301,"Golden, Sanford and Mueller",Construction,39808656,154,828,2844804,Marketing,24,9.78,No,1006277,2023-06-07,No
+1044,"Moran, Lewis and Perez",Education,27395160,12,342,1981297,Inventory Purchase,60,9.2,No,1561546,2023-06-07,No
+1069,Ross-Henry,Finance,35521776,311,367,2598214,Marketing,36,10.15,No,1681570,2023-06-06,No
+1988,Rice PLC,Construction,37181576,191,561,1390894,Research & Development,24,7.62,No,2000256,2023-06-06,No
+1267,Hayes Inc,Manufacturing,14283692,67,705,4291896,Equipment Purchase,12,12.89,No,2010299,2023-06-06,No
+1773,Molina Ltd,Manufacturing,16053770,12,348,2573188,Real Estate,24,9.28,No,1286968,2023-06-05,No
+1806,Mora-Nelson,Manufacturing,39214493,414,822,3476910,Research & Development,48,8.28,No,531809,2023-06-03,No
+1156,"Norton, Guerrero and Garcia",Construction,47846098,481,613,4940351,Real Estate,48,7.08,No,3513227,2023-06-03,Yes
+1841,"Bell, Mitchell and Young",Finance,35812381,141,720,2141381,Research & Development,48,11.53,No,2133805,2023-06-03,Yes
+1745,Cannon Group,Retail,32050824,95,815,4212732,Research & Development,48,12.75,No,3578597,2023-06-03,Yes
+1421,Cruz-Martin,Healthcare,18687991,399,784,658981,Inventory Purchase,60,12.57,No,3542804,2023-06-02,Yes
+1494,Oliver-Marshall,Finance,13546501,317,798,3749279,Inventory Purchase,24,7.39,No,294697,2023-06-01,No
+1235,Smith Group,Construction,15142073,118,793,2505514,Expansion,36,8.8,No,2214533,2023-05-31,Yes
+1229,"Munoz, Smith and May",Hospitality,16016390,77,315,4993091,Real Estate,12,10.87,No,4142550,2023-05-31,No
+1160,Carroll LLC,Transportation,10880860,179,572,1519920,Equipment Purchase,12,11.28,No,3621488,2023-05-30,No
+1678,White and Sons,Manufacturing,37210403,275,737,1571926,Inventory Purchase,60,12.85,No,3238027,2023-05-29,Yes
+1730,Weber-Gallegos,Agriculture,42208934,27,803,3737967,Equipment Purchase,36,9.07,No,1408293,2023-05-29,No
+1493,Johnson Group,Transportation,6809041,389,698,2378581,Real Estate,48,7.14,Yes,2724691,2023-05-29,No
+1870,Dominguez Group,Retail,12393942,23,623,2526105,Real Estate,36,13.03,No,3171192,2023-05-28,Yes
+1644,Santos Group,IT Services,37894648,359,751,461309,Research & Development,60,8.69,No,1084023,2023-05-28,Yes
+1093,Martin-Hurley,Construction,14781009,390,596,3766344,Equipment Purchase,48,7.31,No,4552748,2023-05-27,No
+1113,"Horton, Cook and Cohen",Construction,17642016,354,665,2182963,Inventory Purchase,24,10.34,No,4194111,2023-05-27,Yes
+1562,Collins-Contreras,Agriculture,39679227,241,674,425329,Marketing,12,7.83,No,4955779,2023-05-26,Yes
+1865,"Baldwin, Hill and Anderson",Construction,34707431,282,316,3631674,Working Capital,12,13.43,No,2794454,2023-05-26,No
+1253,Patterson-Chambers,Agriculture,5422375,139,737,870692,Research & Development,24,10.16,No,3968198,2023-05-25,Yes
+1257,Wiley Ltd,Education,32873646,36,705,3032977,Debt Consolidation,48,14.67,No,2085115,2023-05-24,Yes

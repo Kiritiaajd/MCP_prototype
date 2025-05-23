@@ -1,0 +1,1001 @@
+Enterprise_ID,Enterprise_Name,TAT_Score,Loan_Amount,Loan_Status,Risk_Category,Last_Assessed_Date,Credit_Score,Sector,Remarks
+ENT0001,Ramirez and Sons Pvt Ltd,3.38,3476064.77,Closed,Low,2023-08-22,442,Services,Light soldier produce ever cup page course.
+ENT0002,"Clark, Harris and Miller Pvt Ltd",3.55,89325777.2,Active,Low,2025-05-20,332,Manufacturing,Picture set plan party husband fall.
+ENT0003,Myers Ltd Pvt Ltd,0.92,24033428.45,Defaulted,Low,2025-01-17,503,Logistics,Sort pressure player voice miss.
+ENT0004,Shaw Group Pvt Ltd,1.49,59337302.7,Active,Medium,2025-04-24,463,Logistics,Much return hard trip through military.
+ENT0005,Morris-Cooper Pvt Ltd,2.03,16392470.48,Closed,Low,2024-08-10,689,Services,Situation whom factor around movie pick window.
+ENT0006,"Yoder, Perry and Tucker Pvt Ltd",2.12,35051616.53,Closed,Medium,2023-12-04,770,Services,Mention among do through scene camera tough.
+ENT0007,Bennett-Perez Pvt Ltd,4.88,38474903.34,Defaulted,Low,2024-11-26,670,Finance,Grow give get support performance.
+ENT0008,Young-Reed Pvt Ltd,3.67,5536613.98,Active,Medium,2025-03-10,381,Finance,Total glass cover arm agency.
+ENT0009,Webster-Abbott Pvt Ltd,4.4,38632496.28,Closed,Medium,2024-12-31,673,Retail,Themselves hold play series money.
+ENT0010,Harrell-Powell Pvt Ltd,2.17,21741196.05,Closed,Medium,2024-08-12,373,Retail,Police where fly magazine industry method.
+ENT0011,Brown Ltd Pvt Ltd,2.9,25236281.59,Closed,Low,2024-05-07,870,Finance,Congress step note low apply born ready.
+ENT0012,Simon Group Pvt Ltd,3.58,84442340.1,Active,Low,2023-08-25,332,Technology,Citizen whose affect politics.
+ENT0013,Bartlett-Warren Pvt Ltd,2.31,7552671.92,Defaulted,Medium,2024-02-13,622,Finance,When ball authority dream type growth certain direction.
+ENT0014,"Mitchell, Padilla and Trevino Pvt Ltd",3.45,40167558.21,Defaulted,Low,2024-12-03,571,Retail,Hour hope machine best forget argue.
+ENT0015,Myers-Johnson Pvt Ltd,1.61,56575445.28,Closed,Medium,2023-07-20,738,Logistics,Outside indeed young reach.
+ENT0016,Gutierrez-Miller Pvt Ltd,2.13,99735252.02,Active,Low,2024-02-03,393,Manufacturing,Republican wish ready collection hard talk property.
+ENT0017,Hunter-Carter Pvt Ltd,4.37,16131290.62,Active,Medium,2024-09-18,732,Services,Find attack avoid fall.
+ENT0018,Braun PLC Pvt Ltd,2.23,59992954.41,Closed,Low,2024-05-04,866,Manufacturing,Attorney already military.
+ENT0019,Melendez-Harris Pvt Ltd,3.56,12340622.56,Defaulted,Medium,2024-10-19,648,Services,Information use film return artist agree detail.
+ENT0020,"Cortez, Bell and Thomas Pvt Ltd",1.82,16657617.68,Active,High,2023-05-29,569,Retail,Situation trouble TV herself guy.
+ENT0021,"Sims, Owens and Thompson Pvt Ltd",2.78,11534671.46,Defaulted,Low,2023-07-06,819,Finance,Color mind role sure operation need practice prove.
+ENT0022,"Stewart, Barr and Daniel Pvt Ltd",1.19,76488569.21,Defaulted,High,2024-11-28,843,Manufacturing,Discuss degree five close western very everybody.
+ENT0023,Blake Inc Pvt Ltd,3.2,49371965.09,Active,High,2024-09-27,614,Finance,Start your trial yard.
+ENT0024,Roberts PLC Pvt Ltd,0.76,87922950.32,Active,Low,2023-08-15,797,Services,Determine knowledge keep future eight rich poor.
+ENT0025,Livingston-Kelly Pvt Ltd,4.9,53737910.78,Active,Low,2024-01-27,786,Retail,Answer generation section level statement night push audience.
+ENT0026,"Mills, Beck and Bolton Pvt Ltd",1.69,87370871.07,Closed,High,2024-12-06,852,Finance,Example form decide stand special.
+ENT0027,Weaver LLC Pvt Ltd,3.71,40500237.7,Defaulted,Medium,2024-02-28,748,Energy,Cost car determine board after general magazine.
+ENT0028,Hodge-Warren Pvt Ltd,1.04,23245036.37,Closed,Low,2023-08-09,867,Finance,He attorney difficult bag eat try whatever still.
+ENT0029,Lamb-Roberts Pvt Ltd,3.15,1711893.06,Defaulted,Medium,2023-06-23,534,Services,Sure professor over eight future adult sign.
+ENT0030,"Wright, Duncan and Bass Pvt Ltd",4.57,86103904.63,Active,Low,2023-08-01,585,Energy,Card perhaps general ability from.
+ENT0031,Barrera-Walter Pvt Ltd,1.46,14098873.02,Defaulted,Low,2023-06-15,548,Energy,Stand movement general blood.
+ENT0032,Robinson-King Pvt Ltd,4.13,19850581.52,Active,Medium,2023-07-26,662,Logistics,Month poor itself claim able hundred across environmental.
+ENT0033,"Hays, Evans and Oconnell Pvt Ltd",2.35,86519838.09,Active,Medium,2025-04-21,400,Manufacturing,Determine woman travel yes million.
+ENT0034,Garcia Group Pvt Ltd,2.31,34590957.93,Active,Low,2025-02-11,494,Energy,Soldier current recent bill contain specific decision.
+ENT0035,Brown-Hutchinson Pvt Ltd,1.13,19165315.54,Closed,Low,2024-11-30,377,Energy,Detail increase hour responsibility.
+ENT0036,Jones LLC Pvt Ltd,4.14,85740722.35,Active,Low,2023-08-12,853,Manufacturing,Project think day hope clear future.
+ENT0037,Nunez LLC Pvt Ltd,4.86,92710331.32,Active,Low,2023-07-12,797,Energy,Bag often everything order scene main.
+ENT0038,Foster and Sons Pvt Ltd,1.46,40702988.96,Active,Low,2023-09-02,302,Logistics,Light return about explain behavior factor.
+ENT0039,Ramirez LLC Pvt Ltd,1.69,78622989.59,Closed,Low,2023-12-29,869,Energy,Represent western maintain room land leg just.
+ENT0040,"Saunders, Martin and Douglas Pvt Ltd",1.2,30374074.72,Active,Low,2025-04-20,855,Manufacturing,Sing attorney consumer executive and.
+ENT0041,Acosta-Mcgrath Pvt Ltd,3.87,6659362.02,Defaulted,Low,2024-03-09,843,Retail,Series wall mind especially begin ok.
+ENT0042,"Chan, Campbell and Malone Pvt Ltd",0.76,51275021.2,Active,Low,2024-05-30,369,Finance,Cause model family.
+ENT0043,"Stone, Brown and Henderson Pvt Ltd",2.32,94218016.6,Defaulted,Low,2023-08-26,340,Services,Put accept action win sign others.
+ENT0044,Edwards-Long Pvt Ltd,2.39,58783556.64,Defaulted,Low,2025-04-29,567,Finance,Herself daughter in never office certain conference.
+ENT0045,Newton and Sons Pvt Ltd,3.51,32104202.42,Closed,Low,2023-07-03,607,Energy,Myself behavior usually image.
+ENT0046,Reed Group Pvt Ltd,1.92,75434584.75,Active,Low,2024-07-16,876,Services,Hair stay statement bit economy throughout.
+ENT0047,Mathis Inc Pvt Ltd,0.83,22102276.91,Closed,Low,2025-01-06,657,Services,Key debate fly foot draw event.
+ENT0048,Walters Ltd Pvt Ltd,4.46,37583181.79,Active,Low,2023-08-13,856,Healthcare,Hold of between month.
+ENT0049,Klein Inc Pvt Ltd,3.25,98736073.3,Defaulted,Low,2023-08-08,867,Healthcare,Court must he.
+ENT0050,King Group Pvt Ltd,4.69,11255063.69,Active,Low,2024-01-28,409,Retail,Research law itself something ask.
+ENT0051,Golden LLC Pvt Ltd,1.73,60878152.88,Defaulted,Low,2025-05-20,570,Energy,Goal town human discover party group treat.
+ENT0052,Hill-Meza Pvt Ltd,1.63,90907745.58,Active,Low,2025-05-14,733,Healthcare,Foreign age resource.
+ENT0053,Manning-Richardson Pvt Ltd,0.7,34022097.32,Active,Medium,2025-04-11,568,Retail,Visit offer few peace my.
+ENT0054,"Ross, Blair and Rose Pvt Ltd",3.84,55616361.69,Closed,Low,2024-03-05,414,Services,Attorney theory people little.
+ENT0055,Jacobs Ltd Pvt Ltd,4.75,69410942.75,Active,Low,2024-02-27,678,Retail,Side citizen road reason three other response decide.
+ENT0056,"Holland, Hughes and Velasquez Pvt Ltd",2.43,5141056.96,Closed,Medium,2023-08-22,340,Technology,Focus visit source pattern large rate else hear.
+ENT0057,"Campbell, Long and Chen Pvt Ltd",1.45,25703444.18,Active,Low,2023-10-22,873,Logistics,Full staff me indicate.
+ENT0058,Bailey-Hall Pvt Ltd,4.88,75198283.5,Active,Medium,2024-02-27,481,Logistics,Standard husband community short.
+ENT0059,"Howard, Park and Shea Pvt Ltd",0.61,73919882.7,Closed,Medium,2023-08-29,721,Finance,Each together cup save.
+ENT0060,Schroeder-Jensen Pvt Ltd,1.7,78950076.4,Active,Low,2025-02-28,339,Energy,Wind evidence yeah still.
+ENT0061,"Adkins, Rose and Gordon Pvt Ltd",1.5,81842073.95,Closed,Low,2023-07-26,533,Finance,Moment contain recent audience summer training nor.
+ENT0062,Rojas PLC Pvt Ltd,0.61,20119849.04,Closed,Low,2025-02-22,371,Healthcare,Most cold she focus TV threat meeting doctor.
+ENT0063,Houston-Knapp Pvt Ltd,2.08,51431161.88,Defaulted,High,2024-06-22,849,Technology,Water voice debate almost in tree require alone.
+ENT0064,Hoffman-Ramos Pvt Ltd,4.73,12418833.43,Closed,Low,2025-01-06,571,Manufacturing,Cost test film poor particularly power unit.
+ENT0065,Flowers LLC Pvt Ltd,0.99,44021812.1,Defaulted,Medium,2024-08-21,746,Services,Quite two show especially our.
+ENT0066,"Garcia, Ochoa and Johnson Pvt Ltd",2.23,58082216.31,Closed,Low,2023-06-07,746,Manufacturing,Same product always black subject serve show.
+ENT0067,"Fleming, Willis and Cohen Pvt Ltd",2.84,80844576.1,Defaulted,Medium,2024-02-16,501,Technology,Town participant deep hear.
+ENT0068,White-Brown Pvt Ltd,2.44,94938574.11,Closed,Medium,2025-03-11,427,Healthcare,Including more almost line hundred.
+ENT0069,"Hernandez, Martinez and Rose Pvt Ltd",2.78,67022397.51,Closed,Low,2023-09-01,602,Retail,Never read particular attorney executive beyond.
+ENT0070,"Hess, Waters and Perez Pvt Ltd",1.36,66828013.99,Closed,Medium,2024-06-18,478,Healthcare,Quite contain five opportunity customer door.
+ENT0071,James-Obrien Pvt Ltd,2.33,83538791.76,Closed,Low,2024-02-05,740,Technology,Thus age hear appear no hair one cut.
+ENT0072,Wilson Group Pvt Ltd,2.59,44773820.13,Active,Low,2023-10-06,473,Services,Low suffer sister item be half.
+ENT0073,Rodriguez-Hall Pvt Ltd,1.78,66721529.79,Defaulted,Low,2024-01-15,540,Healthcare,Will remain hard range describe decision somebody.
+ENT0074,Wright Inc Pvt Ltd,1.51,20713863.34,Active,Low,2024-04-02,786,Services,Drop soon eat cause offer.
+ENT0075,Bradshaw-Mitchell Pvt Ltd,2.55,88727554.0,Defaulted,Low,2024-10-15,693,Energy,Really catch everybody production.
+ENT0076,Murphy and Sons Pvt Ltd,2.3,15609563.16,Defaulted,Low,2024-05-25,409,Logistics,Strong maintain ready it many.
+ENT0077,Lee-Wiley Pvt Ltd,1.48,80606875.76,Defaulted,Low,2025-02-09,351,Finance,Movie card speak and each.
+ENT0078,Gonzales PLC Pvt Ltd,4.63,13014501.32,Active,Medium,2024-11-26,843,Technology,Wonder tend maintain either.
+ENT0079,"Patterson, Brock and Bush Pvt Ltd",4.78,89251166.66,Defaulted,Medium,2024-01-18,816,Logistics,Throw speech put response factor serious many.
+ENT0080,Wilcox and Sons Pvt Ltd,4.24,55239323.11,Active,Medium,2024-12-08,786,Energy,Rather like wear rise take.
+ENT0081,"Lee, Garza and Hogan Pvt Ltd",1.67,25476734.01,Defaulted,Low,2024-04-18,833,Energy,Friend who major eat.
+ENT0082,Phillips Group Pvt Ltd,3.32,28185147.24,Active,Medium,2024-03-26,540,Healthcare,Little he customer its.
+ENT0083,Fisher-Fuller Pvt Ltd,2.01,89409656.45,Active,Low,2023-07-27,536,Logistics,Consumer Democrat late letter model ground environmental improve.
+ENT0084,"Martinez, Brooks and Blanchard Pvt Ltd",3.62,70935495.03,Active,Low,2024-08-01,638,Energy,Theory standard quite per interview.
+ENT0085,"King, Griffin and Singh Pvt Ltd",2.37,21476604.56,Closed,Low,2024-07-27,898,Manufacturing,Number morning enjoy much policy should with.
+ENT0086,James Inc Pvt Ltd,4.36,76793863.04,Closed,Low,2023-07-29,660,Healthcare,Money despite reveal art.
+ENT0087,Chapman Group Pvt Ltd,3.89,85491347.11,Closed,Low,2023-07-31,859,Finance,Cell thought find boy rest economic.
+ENT0088,Smith Ltd Pvt Ltd,2.7,28020595.86,Closed,Low,2024-01-04,644,Logistics,Drug particular have across.
+ENT0089,"Wilson, Brown and Cardenas Pvt Ltd",3.76,84210060.64,Active,High,2024-09-20,846,Manufacturing,Physical anything do.
+ENT0090,Garza-Richardson Pvt Ltd,4.58,59597384.79,Defaulted,Low,2024-08-22,738,Retail,Try friend value TV modern three process allow.
+ENT0091,Scott and Sons Pvt Ltd,4.4,18991173.62,Closed,Low,2025-02-08,516,Energy,Perhaps want seem his.
+ENT0092,Mcguire-Thomas Pvt Ltd,1.97,76361741.08,Closed,Low,2024-07-03,731,Healthcare,Song under when control ability against reduce.
+ENT0093,Cook PLC Pvt Ltd,4.26,47560376.79,Defaulted,Low,2024-01-06,658,Finance,Consumer also travel seek national form.
+ENT0094,Larsen Inc Pvt Ltd,3.43,78342071.91,Defaulted,Low,2024-07-31,331,Finance,Campaign music maybe allow cover weight house.
+ENT0095,"Hall, Vega and Figueroa Pvt Ltd",1.4,3017621.71,Active,Low,2024-07-12,784,Services,Follow stay once hand dream father whose maintain.
+ENT0096,"Anderson, Wilson and Harrington Pvt Ltd",3.04,22578489.55,Defaulted,Low,2023-07-17,677,Retail,Actually computer water pay book for size.
+ENT0097,"Heath, Rios and Wong Pvt Ltd",3.23,96409739.67,Defaulted,Low,2024-03-05,467,Healthcare,School cell pattern need door out dark.
+ENT0098,Mathis PLC Pvt Ltd,0.99,3542164.12,Closed,Low,2024-06-29,684,Logistics,Billion control skin century of.
+ENT0099,"Hall, Thomas and Lamb Pvt Ltd",4.74,20634647.93,Defaulted,Medium,2024-04-06,548,Services,Book physical make.
+ENT0100,Hamilton LLC Pvt Ltd,3.64,30856685.86,Defaulted,Medium,2024-10-07,423,Manufacturing,Strong begin decision leader bring challenge board.
+ENT0101,Jones PLC Pvt Ltd,2.06,43409423.31,Closed,Low,2024-07-09,649,Manufacturing,Significant inside deep another animal.
+ENT0102,Kelly Ltd Pvt Ltd,4.32,82410760.89,Active,Low,2025-03-15,670,Energy,Relationship indicate door hour.
+ENT0103,Smith-Lee Pvt Ltd,3.68,44113227.36,Defaulted,Low,2023-11-02,576,Energy,Seat speak record religious building each there.
+ENT0104,"Alexander, Williams and Mcknight Pvt Ltd",2.59,82747725.24,Defaulted,Low,2023-06-08,551,Services,Would heart major ball.
+ENT0105,Schroeder-Flores Pvt Ltd,1.76,45629398.02,Closed,Low,2024-08-05,688,Technology,Fight image air be blue.
+ENT0106,Shaffer and Sons Pvt Ltd,0.63,85244330.79,Active,Low,2024-12-07,663,Healthcare,Point like all establish yard where around run.
+ENT0107,Salinas-Decker Pvt Ltd,2.03,88151678.0,Defaulted,Medium,2024-11-02,869,Manufacturing,A century five try.
+ENT0108,Terry PLC Pvt Ltd,2.82,19914585.93,Active,Medium,2023-09-21,800,Finance,Direction as main single challenge scientist drop.
+ENT0109,"Moore, Peterson and Williams Pvt Ltd",3.61,64944387.07,Closed,Low,2023-10-07,317,Services,Girl last expect miss rule area practice.
+ENT0110,Pierce-Wells Pvt Ltd,1.82,41035711.74,Active,Low,2024-03-18,895,Technology,Inside away especially account lot message.
+ENT0111,Martin LLC Pvt Ltd,2.63,53561271.18,Closed,High,2023-11-29,863,Technology,Fast any change sense.
+ENT0112,Johnson LLC Pvt Ltd,2.08,45920781.02,Closed,Low,2024-05-06,423,Finance,Experience relationship thank company fact before for big.
+ENT0113,Kelly and Sons Pvt Ltd,1.92,74545225.3,Defaulted,Low,2024-10-07,521,Energy,Ball at where moment seven each.
+ENT0114,Hensley-Clark Pvt Ltd,1.74,59369103.69,Defaulted,Low,2024-09-21,402,Finance,Article choose pass ten company material process.
+ENT0115,Callahan-Obrien Pvt Ltd,1.83,36727225.85,Closed,Low,2024-08-10,846,Retail,Where certainly skill.
+ENT0116,Johnson-Roberts Pvt Ltd,1.73,97455198.18,Defaulted,Low,2023-08-15,429,Energy,Share box southern city rest no take.
+ENT0117,"Matthews, Norris and Berg Pvt Ltd",0.96,2214274.93,Closed,Low,2025-05-01,751,Technology,Instead less each road season.
+ENT0118,Cross PLC Pvt Ltd,1.33,6086295.0,Closed,Low,2024-10-13,366,Logistics,Factor professor lawyer society draw into provide.
+ENT0119,Cox-Oconnell Pvt Ltd,2.71,58125094.49,Defaulted,Low,2024-01-12,452,Healthcare,Hope job get through key.
+ENT0120,"Williams, Payne and Gonzales Pvt Ltd",0.88,25570904.57,Defaulted,Medium,2024-11-19,531,Logistics,Future peace scene son up.
+ENT0121,Curtis LLC Pvt Ltd,2.53,44829379.4,Defaulted,High,2024-10-19,612,Manufacturing,Just long draw usually phone.
+ENT0122,Brown-Conley Pvt Ltd,3.24,74268841.24,Active,Medium,2023-07-25,570,Services,Mind decide station road weight candidate rest go.
+ENT0123,"Johnson, Rosales and Pierce Pvt Ltd",1.21,18207541.28,Active,Low,2024-09-16,718,Energy,Minute final television great TV himself.
+ENT0124,"Reynolds, Wilkinson and Roberson Pvt Ltd",3.6,47521335.42,Active,Low,2024-05-18,589,Energy,Interview run current group today who.
+ENT0125,Wood-Green Pvt Ltd,0.82,24108956.81,Closed,Medium,2024-12-25,502,Logistics,Help card star from capital any.
+ENT0126,"Koch, Anderson and Carr Pvt Ltd",1.02,23256135.58,Active,High,2024-08-11,445,Services,End career position huge teacher.
+ENT0127,"Mills, Sparks and Rodriguez Pvt Ltd",0.77,79470228.06,Defaulted,Medium,2023-10-02,882,Healthcare,Message sometimes listen shake.
+ENT0128,Lee-Carr Pvt Ltd,2.48,47401099.06,Closed,Medium,2023-10-16,578,Energy,Benefit method only sure statement yes mouth conference.
+ENT0129,"Hanson, Kim and Walker Pvt Ltd",2.47,60205629.54,Closed,Medium,2025-01-05,556,Manufacturing,Minute prepare ten few next nation.
+ENT0130,"Garcia, Morgan and Lewis Pvt Ltd",0.91,96229199.12,Defaulted,Low,2024-08-30,321,Healthcare,Sport that report performance most material something.
+ENT0131,Hughes LLC Pvt Ltd,3.09,76547791.41,Active,Low,2024-10-08,752,Healthcare,Tough guy account theory fish true.
+ENT0132,Daniels-Haynes Pvt Ltd,1.32,58947632.9,Defaulted,Medium,2024-07-13,393,Energy,Player top information cost we technology public.
+ENT0133,Castillo Inc Pvt Ltd,2.07,33997530.97,Defaulted,Low,2023-07-19,464,Technology,Result pick truth work worker surface bag.
+ENT0134,"Russell, Sanchez and Hudson Pvt Ltd",2.35,50051433.08,Defaulted,High,2025-04-25,863,Manufacturing,During former nature unit glass.
+ENT0135,Davis Group Pvt Ltd,2.55,32137198.56,Closed,Low,2024-01-02,713,Manufacturing,Yourself approach say economic choice few skin.
+ENT0136,Stewart Inc Pvt Ltd,3.46,54716765.84,Closed,Low,2024-02-29,830,Technology,For rock responsibility could meeting wait government yourself.
+ENT0137,"Ray, Cook and Rodriguez Pvt Ltd",3.3,50350817.14,Closed,Medium,2024-09-09,508,Healthcare,Next loss floor ahead threat edge traditional.
+ENT0138,"Bowen, Mcpherson and Moore Pvt Ltd",2.97,92839603.32,Closed,Medium,2025-05-22,796,Services,Bed hand western significant people enough white.
+ENT0139,Johnson Inc Pvt Ltd,0.63,63372205.42,Active,Medium,2024-04-07,618,Manufacturing,Letter chair reality.
+ENT0140,"Franklin, Ochoa and Kane Pvt Ltd",2.99,10227710.93,Active,Low,2024-12-30,420,Retail,Relationship lawyer newspaper region time.
+ENT0141,Robertson Ltd Pvt Ltd,2.74,71943729.27,Defaulted,Medium,2024-04-10,725,Energy,Culture group conference.
+ENT0142,Decker-Johnston Pvt Ltd,4.91,25129359.7,Defaulted,Low,2023-12-07,495,Retail,Pressure challenge change manage choose.
+ENT0143,"Koch, Diaz and Stevenson Pvt Ltd",4.39,28348492.88,Closed,Low,2023-07-30,819,Healthcare,Beat add while region hold.
+ENT0144,"Lynn, Rodriguez and Delgado Pvt Ltd",4.19,29001059.34,Closed,Medium,2024-05-08,893,Energy,Hundred near person wear suddenly prepare expert.
+ENT0145,Santana LLC Pvt Ltd,4.39,45208191.91,Closed,Low,2023-08-14,865,Logistics,Population career cut answer expert also probably probably.
+ENT0146,Wright LLC Pvt Ltd,2.55,32855957.67,Active,High,2023-08-18,544,Logistics,Federal happy although leader.
+ENT0147,"Friedman, Garcia and Reed Pvt Ltd",1.55,77778903.03,Active,Low,2024-12-26,784,Logistics,Rate course society door.
+ENT0148,Curry-Roberts Pvt Ltd,2.24,66705194.12,Defaulted,High,2024-12-22,807,Manufacturing,Do close board heavy himself sit appear.
+ENT0149,"Hernandez, Glover and Frey Pvt Ltd",1.07,96570005.43,Closed,Medium,2025-01-30,750,Services,Head a word occur.
+ENT0150,Perry Ltd Pvt Ltd,2.87,46235879.37,Defaulted,Low,2024-12-07,458,Services,Two billion enough hard.
+ENT0151,Shepherd-Macias Pvt Ltd,2.61,96951159.43,Closed,Medium,2023-12-08,707,Services,Several product network talk American hope seat but.
+ENT0152,Schmidt-Hamilton Pvt Ltd,4.33,85381792.32,Defaulted,Low,2024-10-20,624,Energy,Money lose music everybody loss station.
+ENT0153,"Cantu, Parker and Young Pvt Ltd",4.43,4554010.88,Active,Low,2023-07-30,594,Finance,Wear better wall yard least deep.
+ENT0154,"Miller, Goodman and Miller Pvt Ltd",3.86,43963175.72,Active,Medium,2024-08-12,402,Energy,Nor rather according reduce require.
+ENT0155,Jones LLC Pvt Ltd,1.25,30647141.94,Active,Low,2023-10-18,357,Healthcare,Follow ok attention garden like weight.
+ENT0156,Jackson LLC Pvt Ltd,2.11,43637992.0,Active,Low,2024-07-24,879,Retail,Hospital nation particular find write thousand I.
+ENT0157,Scott Group Pvt Ltd,1.26,8817866.72,Closed,Medium,2024-05-02,546,Energy,Have spring friend we read.
+ENT0158,"Shannon, Alvarado and Wiley Pvt Ltd",4.61,15168654.29,Closed,Medium,2024-08-27,770,Healthcare,Notice let feel miss hope reason.
+ENT0159,Grimes Ltd Pvt Ltd,3.5,89991944.64,Closed,High,2025-01-27,859,Retail,Source night together eight.
+ENT0160,Fields Ltd Pvt Ltd,0.83,94578327.86,Defaulted,Low,2024-05-02,734,Healthcare,Plant enough investment join product activity.
+ENT0161,"Walker, Bradford and Goodman Pvt Ltd",2.56,30910045.38,Closed,Medium,2024-08-25,409,Finance,Product standard every thought learn condition.
+ENT0162,Grant-Blackwell Pvt Ltd,2.22,36536956.6,Closed,High,2025-03-17,602,Manufacturing,Wish receive fall.
+ENT0163,French-Perez Pvt Ltd,4.9,66164751.78,Closed,Low,2025-03-02,350,Energy,Thus while poor scene like.
+ENT0164,Flores-White Pvt Ltd,4.25,90390556.93,Active,Medium,2023-11-25,660,Finance,Hour chance outside yourself.
+ENT0165,Murphy LLC Pvt Ltd,3.36,62468225.15,Defaulted,Medium,2024-06-16,440,Services,Floor heavy team others.
+ENT0166,"Hernandez, Daniel and Miller Pvt Ltd",4.57,64987720.28,Closed,Medium,2025-03-22,334,Technology,Employee peace expert way my door say risk.
+ENT0167,"Scott, Cabrera and Guzman Pvt Ltd",3.8,9923204.2,Closed,Low,2024-01-27,725,Retail,Not public continue material require.
+ENT0168,Davenport Ltd Pvt Ltd,1.4,78864768.29,Closed,Low,2024-03-15,579,Retail,Produce recently respond child letter in like.
+ENT0169,"Leach, Gray and Collins Pvt Ltd",1.66,82644291.44,Closed,High,2024-12-17,602,Technology,Team memory eye collection much.
+ENT0170,Hamilton-Howe Pvt Ltd,4.12,47364807.5,Active,Low,2024-10-13,531,Logistics,Green this rest like with race fund.
+ENT0171,"Mendez, Hill and Kelley Pvt Ltd",4.85,80654176.76,Closed,Low,2025-05-07,704,Manufacturing,Act occur design phone.
+ENT0172,Moore LLC Pvt Ltd,1.69,13235284.94,Closed,Medium,2025-04-30,568,Logistics,National account left ground worry question.
+ENT0173,Moore-Moore Pvt Ltd,4.2,94088897.29,Active,Medium,2024-06-11,782,Manufacturing,Two important cup success support she medical.
+ENT0174,Hutchinson PLC Pvt Ltd,3.29,94373744.47,Closed,High,2024-09-13,526,Services,Arm chance run rich.
+ENT0175,Garcia LLC Pvt Ltd,3.36,46962486.1,Defaulted,Low,2025-01-21,718,Services,Final save under eye yeah help action.
+ENT0176,Trujillo-Cox Pvt Ltd,1.13,94679891.76,Closed,High,2023-08-08,418,Services,His use sing charge push establish old.
+ENT0177,"Jones, Sanchez and Smith Pvt Ltd",1.56,54217113.98,Closed,Low,2024-02-17,853,Logistics,Watch ahead baby view whether front.
+ENT0178,"Chang, Shannon and Richards Pvt Ltd",3.14,72933315.91,Closed,Medium,2025-05-20,801,Logistics,Society four international religious opportunity.
+ENT0179,"Harvey, Weaver and Turner Pvt Ltd",4.73,28694273.87,Defaulted,Low,2024-05-24,754,Energy,Unit daughter bill.
+ENT0180,"Schmidt, Watson and Stewart Pvt Ltd",4.78,85689569.14,Active,High,2023-05-23,676,Technology,Six detail best network compare sell event.
+ENT0181,Turner Group Pvt Ltd,0.77,28312262.65,Active,High,2024-10-03,765,Services,Adult front perform media.
+ENT0182,Benjamin and Sons Pvt Ltd,3.48,64528742.26,Defaulted,High,2023-08-22,351,Technology,Experience most cost player who.
+ENT0183,"Mason, Harris and Williams Pvt Ltd",1.6,13466464.65,Defaulted,Low,2024-07-07,867,Finance,Girl parent ability arrive.
+ENT0184,Woodward Inc Pvt Ltd,3.14,81492245.13,Active,Low,2024-03-15,451,Manufacturing,Rule once cold foreign decision moment pick.
+ENT0185,"Lane, Shah and Smith Pvt Ltd",1.75,98418785.05,Active,Low,2025-02-14,478,Services,Question situation energy.
+ENT0186,Harding Ltd Pvt Ltd,3.47,3552234.83,Active,Low,2023-08-09,543,Technology,Take world someone green push force product yet.
+ENT0187,Lyons Ltd Pvt Ltd,0.57,27271383.32,Active,Medium,2024-09-05,838,Services,Their discover wish candidate color travel.
+ENT0188,Jones-Maldonado Pvt Ltd,3.86,48148350.58,Closed,Low,2024-03-27,411,Energy,Certain admit lay free than form black another.
+ENT0189,Tucker PLC Pvt Ltd,2.77,94596148.65,Active,Medium,2024-05-11,833,Healthcare,Fight game really political public born.
+ENT0190,"Kennedy, Arnold and Weeks Pvt Ltd",2.56,96438592.13,Active,High,2025-03-21,711,Logistics,Pattern little worker only early.
+ENT0191,Johnson-Torres Pvt Ltd,3.59,49536616.56,Closed,Low,2024-10-27,382,Technology,Sing price size take car collection attack community.
+ENT0192,"Smith, Brown and Wood Pvt Ltd",3.24,7502541.1,Closed,Medium,2023-11-14,899,Technology,Rest their case sing visit probably.
+ENT0193,Chapman and Sons Pvt Ltd,2.21,60141793.66,Closed,Low,2023-09-22,740,Services,Live general scientist Congress economy political student.
+ENT0194,"Garcia, Anderson and Owens Pvt Ltd",4.07,12326993.17,Defaulted,Medium,2025-05-16,864,Finance,Ability painting animal realize seek floor.
+ENT0195,Thornton Ltd Pvt Ltd,2.44,88921011.18,Closed,Low,2025-03-12,764,Logistics,Stop clearly represent.
+ENT0196,Jones Ltd Pvt Ltd,2.37,10413498.09,Closed,Low,2024-07-14,561,Technology,Company spend story girl rule media provide.
+ENT0197,Walton Inc Pvt Ltd,4.79,68995282.51,Closed,Low,2023-09-28,387,Services,Between wear hair type already.
+ENT0198,"Ford, Allen and Jordan Pvt Ltd",2.44,74714307.95,Closed,Medium,2023-07-12,869,Manufacturing,Senior where fill modern.
+ENT0199,"Buchanan, Jensen and Yoder Pvt Ltd",3.14,56597054.99,Closed,Medium,2023-12-15,720,Technology,Quality fill door kitchen debate lay.
+ENT0200,Carey and Sons Pvt Ltd,4.43,94171857.02,Closed,Medium,2023-06-27,352,Healthcare,Pick organization country remain form capital.
+ENT0201,Barnes-Payne Pvt Ltd,3.2,35812972.38,Defaulted,Low,2024-03-22,458,Energy,Student standard mean.
+ENT0202,Taylor-Torres Pvt Ltd,1.51,11713619.81,Defaulted,Low,2024-06-08,585,Finance,High chance result more affect.
+ENT0203,Russell-Prince Pvt Ltd,4.13,84670360.97,Defaulted,Medium,2024-05-10,870,Manufacturing,Time Republican against plan growth.
+ENT0204,Wells-Perez Pvt Ltd,3.24,66125291.57,Defaulted,Low,2023-05-23,484,Healthcare,Marriage difference new provide.
+ENT0205,Clay LLC Pvt Ltd,3.66,31589484.19,Closed,Low,2025-02-07,485,Retail,Artist crime test expect tree.
+ENT0206,"Haney, Mendez and Berg Pvt Ltd",3.05,40677650.06,Active,Medium,2025-03-01,331,Services,Will common budget system clearly.
+ENT0207,Hicks LLC Pvt Ltd,3.86,22298155.12,Closed,Low,2024-05-06,461,Technology,If find subject continue recognize management lay.
+ENT0208,Moore-Dennis Pvt Ltd,1.9,33113906.32,Defaulted,Low,2024-07-20,353,Retail,Surface couple painting.
+ENT0209,Gray PLC Pvt Ltd,1.21,62165980.01,Defaulted,Low,2023-10-13,753,Logistics,Decade yes hit allow pay.
+ENT0210,Little-Williams Pvt Ltd,2.69,44762374.48,Closed,Low,2023-07-26,824,Services,Media nearly late yet professor land into need.
+ENT0211,Galvan-Williams Pvt Ltd,2.05,11978087.45,Defaulted,Medium,2024-11-04,798,Healthcare,Option week reach all concern enter.
+ENT0212,"Williams, Rogers and Campbell Pvt Ltd",0.7,40131076.21,Defaulted,Low,2024-09-22,509,Healthcare,Change responsibility hundred result suffer series.
+ENT0213,"Bailey, Jackson and Allen Pvt Ltd",4.75,76967603.2,Closed,Low,2024-12-15,422,Manufacturing,Building who information drop.
+ENT0214,Morgan and Sons Pvt Ltd,2.74,43634846.12,Active,Low,2023-11-09,535,Technology,Half watch evening together.
+ENT0215,Moore Inc Pvt Ltd,0.82,86314671.84,Active,Low,2025-03-29,770,Services,Floor nor trade camera card seat federal.
+ENT0216,Ware Ltd Pvt Ltd,4.38,58000156.91,Defaulted,Low,2024-03-13,727,Healthcare,Ground investment no situation issue heart.
+ENT0217,"Floyd, Dorsey and Mahoney Pvt Ltd",1.02,3064799.34,Closed,Low,2024-08-20,771,Technology,Recently from improve policy.
+ENT0218,Mcdonald-Horton Pvt Ltd,0.9,84603951.62,Active,Low,2023-11-09,710,Services,Very debate board receive discuss story per state.
+ENT0219,Gutierrez-Harris Pvt Ltd,2.28,31717181.62,Closed,Low,2024-04-05,472,Services,Before identify choose debate now American.
+ENT0220,Moore-Martinez Pvt Ltd,2.8,12288637.34,Defaulted,Low,2024-09-02,657,Technology,Hundred above pattern team candidate shoulder price.
+ENT0221,"Hayes, Banks and Wheeler Pvt Ltd",3.77,82075911.55,Active,Low,2024-10-26,449,Healthcare,Those choice Republican check guess health feeling.
+ENT0222,Sanchez Group Pvt Ltd,1.39,60637499.54,Defaulted,Low,2024-09-28,805,Energy,Same drug near instead sign clearly.
+ENT0223,Barnes Inc Pvt Ltd,3.9,76227837.81,Closed,Medium,2024-08-23,878,Technology,Effort office source spend issue source.
+ENT0224,Macias PLC Pvt Ltd,4.39,63094523.28,Active,Low,2025-01-09,780,Energy,Get why heart worry small.
+ENT0225,Clark-Lawson Pvt Ltd,3.34,79836638.24,Defaulted,Low,2025-03-19,819,Services,Thousand economic natural positive.
+ENT0226,Parks-Nguyen Pvt Ltd,1.9,45739472.51,Active,Low,2023-10-06,593,Services,Political age music color.
+ENT0227,Clark-Kaiser Pvt Ltd,3.4,97759484.72,Active,Medium,2024-09-02,819,Logistics,Site nor compare avoid you.
+ENT0228,Mcclain-Nelson Pvt Ltd,2.58,55877320.76,Defaulted,Medium,2024-11-12,760,Finance,Nearly themselves fly authority.
+ENT0229,Smith-Ashley Pvt Ltd,1.95,48087273.77,Active,High,2025-05-02,761,Services,Decision school laugh pass trial cause.
+ENT0230,Costa-Terrell Pvt Ltd,4.15,83900340.65,Defaulted,Low,2024-05-29,476,Manufacturing,Make north science language.
+ENT0231,Anderson-Patterson Pvt Ltd,1.61,44338069.16,Closed,Low,2024-09-01,462,Technology,Attention continue agency south example rise mind.
+ENT0232,King LLC Pvt Ltd,2.18,29006464.28,Closed,Medium,2023-12-22,353,Technology,Happy development movement.
+ENT0233,Castro-Thompson Pvt Ltd,0.8,10356088.8,Defaulted,Low,2023-07-22,558,Retail,Difference property national.
+ENT0234,Baird Group Pvt Ltd,2.0,58691211.94,Active,High,2023-09-20,617,Logistics,Level before mean indicate experience measure.
+ENT0235,"Ryan, Torres and Murphy Pvt Ltd",1.08,71174567.42,Active,Low,2024-02-08,685,Technology,Likely billion move amount base under sign.
+ENT0236,Smith-Mccarty Pvt Ltd,4.16,67341523.6,Defaulted,High,2023-06-12,839,Services,Cause memory season month quality receive exist.
+ENT0237,Young Group Pvt Ltd,3.41,42917230.27,Closed,Low,2025-05-13,616,Retail,Yard article tree person citizen responsibility.
+ENT0238,"Luna, Nicholson and Myers Pvt Ltd",4.78,34831502.17,Closed,Low,2023-06-08,440,Retail,Ready network west challenge kitchen stock.
+ENT0239,Lamb-Parker Pvt Ltd,0.85,84598410.48,Active,Low,2024-11-19,852,Manufacturing,Apply company money by listen city.
+ENT0240,Ryan Ltd Pvt Ltd,3.48,87762884.48,Defaulted,Low,2024-02-20,685,Retail,Doctor enter onto prepare receive game act.
+ENT0241,Gibson-Arnold Pvt Ltd,1.23,83303160.61,Defaulted,Medium,2023-09-14,469,Energy,Traditional picture development director should far something deal.
+ENT0242,Collins Group Pvt Ltd,0.7,37065642.0,Defaulted,Low,2025-05-04,754,Healthcare,Clear likely include arrive will often fine.
+ENT0243,Mathews Group Pvt Ltd,3.89,78596235.58,Active,Low,2025-04-25,616,Energy,Stuff a him win.
+ENT0244,"King, Todd and Ferrell Pvt Ltd",4.57,20207601.45,Defaulted,High,2024-06-08,751,Energy,Light enjoy nearly there.
+ENT0245,"Rodriguez, Decker and Oconnor Pvt Ltd",3.96,78034279.69,Defaulted,Low,2023-06-21,465,Finance,Agency discussion beat.
+ENT0246,Hughes Group Pvt Ltd,4.11,14701454.93,Closed,Low,2024-07-30,792,Technology,Lot blood top as rest face.
+ENT0247,Odom-Hernandez Pvt Ltd,3.0,11156383.44,Defaulted,Medium,2024-08-21,591,Services,Put television share piece resource.
+ENT0248,Jones-Dean Pvt Ltd,3.93,28006338.66,Defaulted,Low,2024-06-05,747,Services,Of but sister former.
+ENT0249,Jimenez-Whitaker Pvt Ltd,4.76,22981762.68,Closed,Medium,2023-10-19,327,Logistics,Cut you themselves natural eye job usually.
+ENT0250,Parker Group Pvt Ltd,0.74,50698704.35,Active,Low,2025-05-06,383,Technology,Study Mrs music affect water.
+ENT0251,Lopez Inc Pvt Ltd,1.51,32549802.67,Active,Medium,2025-03-06,643,Retail,Technology story seek company paper ball how.
+ENT0252,Rhodes-Hoffman Pvt Ltd,1.12,29401060.33,Closed,Medium,2023-05-27,442,Energy,Production like fish marriage stand share policy form.
+ENT0253,Fitzpatrick-Pena Pvt Ltd,2.52,1519868.63,Active,Low,2023-08-16,520,Retail,Everybody cold owner community main drug either operation.
+ENT0254,"Silva, Strickland and Bryant Pvt Ltd",2.97,72996243.75,Defaulted,Low,2025-05-20,595,Finance,Us others begin north although result.
+ENT0255,Carter Ltd Pvt Ltd,1.86,5727195.22,Closed,Medium,2024-06-11,768,Services,Voice attention seven current other woman arrive.
+ENT0256,Erickson Group Pvt Ltd,1.0,90609541.68,Defaulted,Low,2024-07-09,827,Finance,Under heart report rather pretty discuss.
+ENT0257,Whitaker-Kent Pvt Ltd,3.73,29835926.79,Active,Medium,2025-05-18,546,Logistics,Her raise blood market sure wait.
+ENT0258,"Marshall, Mcgee and Simmons Pvt Ltd",1.34,67153275.39,Defaulted,High,2023-11-15,369,Manufacturing,Authority nice tonight base century environmental enter team.
+ENT0259,Rogers Inc Pvt Ltd,2.26,47543372.74,Defaulted,Low,2024-10-28,682,Healthcare,Senior partner majority suddenly coach answer.
+ENT0260,"Perez, Conley and Nunez Pvt Ltd",3.86,36352293.77,Active,Low,2023-08-07,406,Technology,Television miss author voice enough old challenge.
+ENT0261,Casey Inc Pvt Ltd,1.1,35877605.57,Closed,Medium,2024-11-06,479,Energy,Total size step southern often.
+ENT0262,Brown LLC Pvt Ltd,4.91,48374585.99,Active,Medium,2024-03-05,364,Energy,Prevent government different color.
+ENT0263,"Drake, Rice and Davis Pvt Ltd",0.67,20957508.29,Active,Medium,2023-08-07,623,Healthcare,Yeah study stuff.
+ENT0264,Simpson LLC Pvt Ltd,2.82,98923147.53,Defaulted,Low,2025-02-26,337,Finance,According already performance appear.
+ENT0265,Brewer-Gould Pvt Ltd,1.79,86351714.52,Active,Medium,2024-11-21,639,Healthcare,Attention add life.
+ENT0266,Williams LLC Pvt Ltd,1.06,37433898.26,Closed,Medium,2023-10-24,695,Technology,Herself answer expect watch notice body news.
+ENT0267,Haynes-Brown Pvt Ltd,4.88,50124119.43,Closed,Low,2024-07-17,831,Healthcare,No huge even reality claim grow.
+ENT0268,"Burke, Hill and Miller Pvt Ltd",4.11,72981051.11,Active,Low,2023-05-27,484,Healthcare,Chance owner measure television report.
+ENT0269,"Green, Wright and Flowers Pvt Ltd",1.95,8926822.2,Defaulted,Low,2025-01-23,756,Logistics,Why possible him leg would action.
+ENT0270,Crawford LLC Pvt Ltd,1.25,44946929.73,Closed,Low,2024-03-03,661,Logistics,Physical meet hair avoid.
+ENT0271,"Moore, Strong and Avila Pvt Ltd",1.74,98022700.64,Active,Low,2024-08-24,715,Technology,Score party scene necessary news land.
+ENT0272,Thompson-Gould Pvt Ltd,2.81,75239900.44,Active,High,2023-08-08,446,Energy,Hold would send actually sell.
+ENT0273,"Nelson, Chang and Munoz Pvt Ltd",0.66,7656102.94,Defaulted,Low,2025-03-04,692,Manufacturing,Watch ground rate surface conference commercial worry.
+ENT0274,"Carrillo, Garcia and Wallace Pvt Ltd",3.22,68227143.63,Closed,Low,2024-09-14,378,Retail,Crime sea they able marriage interest position.
+ENT0275,"Wilson, Clark and Best Pvt Ltd",2.88,40405370.55,Defaulted,Low,2024-07-01,416,Manufacturing,Step could probably develop.
+ENT0276,Adams-Chase Pvt Ltd,3.81,50405352.07,Closed,High,2025-04-07,420,Healthcare,Open set toward item.
+ENT0277,"Phillips, Kramer and Patel Pvt Ltd",3.99,70699743.31,Active,High,2023-09-28,592,Energy,Area strong interview fill.
+ENT0278,Houston-Nelson Pvt Ltd,1.4,14437113.36,Active,Low,2024-04-24,755,Services,Design party executive meeting national chair.
+ENT0279,Crawford-Duncan Pvt Ltd,4.15,96788562.4,Closed,Medium,2024-02-21,366,Healthcare,Professor real claim.
+ENT0280,Hooper-Stewart Pvt Ltd,4.51,85284843.02,Defaulted,Medium,2025-02-02,478,Technology,Debate then law step total early along.
+ENT0281,"Ellis, Conley and Holmes Pvt Ltd",2.79,13014883.05,Active,Medium,2024-02-20,542,Energy,Sound both respond fund drug.
+ENT0282,Pollard Group Pvt Ltd,0.62,55848122.29,Closed,Low,2023-11-26,864,Retail,Alone song age mind team son economy.
+ENT0283,Montoya-Torres Pvt Ltd,3.25,9535332.68,Closed,Low,2025-01-13,790,Logistics,General arrive control himself.
+ENT0284,"Rose, Hall and Mann Pvt Ltd",3.96,82510600.55,Active,Low,2024-06-21,624,Services,Support teacher its building hot.
+ENT0285,Miller Group Pvt Ltd,2.52,68330790.07,Closed,Low,2024-10-18,864,Retail,Single land vote agree.
+ENT0286,Osborn-Rogers Pvt Ltd,3.96,13774262.82,Defaulted,High,2024-12-15,356,Services,Person significant grow own pattern.
+ENT0287,Lopez Inc Pvt Ltd,2.83,31108329.74,Active,Low,2024-05-21,530,Technology,Federal speech effort.
+ENT0288,Smith-Cruz Pvt Ltd,4.76,52370881.55,Closed,Medium,2023-12-08,556,Finance,Not drug no finally like possible.
+ENT0289,"Martin, Peters and Mcbride Pvt Ltd",3.36,55533300.13,Active,Medium,2024-08-09,846,Services,Continue safe former figure financial almost.
+ENT0290,Coffey and Sons Pvt Ltd,2.76,17694954.27,Defaulted,Low,2024-06-01,645,Manufacturing,Certainly national eye school.
+ENT0291,"Thomas, Jackson and Wyatt Pvt Ltd",4.21,3808975.3,Active,High,2024-06-11,890,Healthcare,Up admit think support add.
+ENT0292,Smith Ltd Pvt Ltd,3.43,76928941.09,Closed,Medium,2024-04-19,331,Energy,Tonight us change every.
+ENT0293,"Smith, Delacruz and Hunt Pvt Ltd",4.5,55012170.87,Defaulted,High,2024-01-29,794,Finance,Despite including keep next return course figure.
+ENT0294,"Henderson, Miller and Andrews Pvt Ltd",4.12,68814093.28,Closed,Low,2025-03-30,361,Retail,Wait free no sell administration customer.
+ENT0295,"Nicholson, Leonard and Weaver Pvt Ltd",2.48,48940861.88,Active,Low,2023-07-22,447,Technology,Wish onto single already hotel.
+ENT0296,Johnson-Hamilton Pvt Ltd,4.38,32612322.87,Closed,High,2024-02-07,433,Technology,Attorney ago artist part agreement.
+ENT0297,Howard-Cox Pvt Ltd,2.82,11512209.43,Active,Low,2023-08-03,573,Energy,Trade seat from.
+ENT0298,"Beard, Mcdonald and Sandoval Pvt Ltd",1.62,10584353.6,Closed,High,2024-04-02,728,Finance,Activity claim lay name main could key.
+ENT0299,Dalton-Velez Pvt Ltd,4.83,90328771.88,Closed,High,2024-08-18,620,Finance,Attention agent listen pretty.
+ENT0300,Abbott LLC Pvt Ltd,3.93,50328288.66,Defaulted,Low,2025-02-21,615,Energy,Six lay ability present news bring.
+ENT0301,Mora-Dawson Pvt Ltd,0.6,94578047.6,Defaulted,Low,2024-02-07,546,Finance,Significant phone firm employee town truth.
+ENT0302,Smith LLC Pvt Ltd,3.13,5817155.16,Closed,Low,2024-02-08,781,Healthcare,Be wind four crime road.
+ENT0303,Wood Inc Pvt Ltd,2.92,84870064.17,Closed,Low,2023-08-27,570,Technology,Everybody condition real interesting alone perform.
+ENT0304,Anderson-Wiley Pvt Ltd,3.94,37227797.9,Closed,Low,2023-12-14,875,Finance,Art great create.
+ENT0305,Thompson-Meadows Pvt Ltd,2.13,29571568.01,Closed,Low,2024-11-01,863,Healthcare,Provide again laugh ready where heart.
+ENT0306,Williams Inc Pvt Ltd,4.21,62700916.29,Defaulted,Low,2024-01-08,399,Logistics,Reflect perhaps win quality.
+ENT0307,"Jensen, Romero and Miles Pvt Ltd",2.18,98691978.78,Defaulted,High,2025-02-08,447,Finance,Enter live example of.
+ENT0308,Jackson Group Pvt Ltd,3.21,40737321.34,Active,Low,2023-08-02,440,Technology,General anyone consumer tend individual.
+ENT0309,"Spears, Clark and Rios Pvt Ltd",4.12,52413938.32,Active,Medium,2024-09-18,827,Retail,Upon rest kid friend when carry society.
+ENT0310,Sexton-Santiago Pvt Ltd,1.98,61693743.99,Active,Low,2025-04-24,606,Technology,Nation present mouth age model everybody number.
+ENT0311,Rice-Cunningham Pvt Ltd,2.78,51461695.97,Closed,Medium,2024-01-24,606,Energy,Myself option letter close investment commercial.
+ENT0312,"Christensen, Fleming and Myers Pvt Ltd",4.17,37467423.18,Defaulted,Low,2025-03-26,726,Healthcare,Tend special soon whole.
+ENT0313,"Kirby, Morris and Butler Pvt Ltd",4.09,72807097.04,Defaulted,Medium,2024-03-06,785,Healthcare,For everything green more try.
+ENT0314,Sanchez-Valencia Pvt Ltd,4.85,78507495.15,Defaulted,Low,2023-12-01,352,Energy,Occur last right cold community expert.
+ENT0315,Brown-Hampton Pvt Ltd,1.27,63273498.87,Defaulted,Medium,2025-01-21,689,Retail,Style present management product record just dog.
+ENT0316,"Harris, Reed and Mueller Pvt Ltd",4.2,24977459.45,Defaulted,High,2024-03-29,412,Finance,Fine decision someone.
+ENT0317,"Bailey, Cooper and Garcia Pvt Ltd",0.59,32055555.86,Active,Low,2025-03-24,508,Logistics,Can official international threat over themselves drug.
+ENT0318,"Smith, Smith and Robbins Pvt Ltd",2.76,61536327.93,Closed,Medium,2024-05-24,363,Retail,Think front strategy hour look.
+ENT0319,Hooper Inc Pvt Ltd,2.83,56527790.52,Defaulted,Low,2024-07-20,685,Technology,Fast situation partner identify.
+ENT0320,Pope-Reynolds Pvt Ltd,4.81,46506689.67,Defaulted,Low,2023-11-05,662,Healthcare,It rest open reflect near last exactly.
+ENT0321,Taylor-Turner Pvt Ltd,3.25,20034152.74,Active,Low,2023-06-06,605,Finance,Admit music off possible peace boy pay growth.
+ENT0322,"Mcdonald, Foley and Brown Pvt Ltd",4.74,98243769.35,Closed,Medium,2024-11-26,800,Technology,Tax road appear at practice world behind.
+ENT0323,Williams-Pineda Pvt Ltd,2.66,56488271.43,Defaulted,Low,2024-07-18,424,Logistics,Door financial century kitchen imagine though after many.
+ENT0324,Curry and Sons Pvt Ltd,4.53,40058713.11,Closed,High,2025-05-17,449,Healthcare,Property wonder I much brother serve.
+ENT0325,"Kelly, Phillips and Taylor Pvt Ltd",0.69,95576058.05,Active,Low,2024-10-07,752,Healthcare,To place hundred structure available wish speech.
+ENT0326,Carter and Sons Pvt Ltd,3.86,22184694.0,Defaulted,Low,2024-08-25,875,Healthcare,Their board product do head.
+ENT0327,"Townsend, Anderson and Nguyen Pvt Ltd",1.12,61952026.41,Defaulted,Low,2025-02-14,351,Finance,Three should interview entire.
+ENT0328,Parks-Estrada Pvt Ltd,3.37,6196619.58,Closed,Low,2023-12-08,783,Services,Listen involve economic power.
+ENT0329,Nunez Ltd Pvt Ltd,3.57,14609236.39,Defaulted,High,2023-06-26,461,Logistics,Play lot exactly from.
+ENT0330,Middleton-Mccarthy Pvt Ltd,3.44,88184098.27,Closed,Low,2025-02-24,504,Healthcare,Generation material crime town dark travel weight.
+ENT0331,Alvarez-Stewart Pvt Ltd,1.95,64943893.87,Active,Medium,2024-06-09,537,Manufacturing,Federal military involve shake compare.
+ENT0332,"King, Patrick and Nelson Pvt Ltd",4.61,18331412.77,Active,High,2023-08-20,337,Logistics,Remain million including future.
+ENT0333,"Brock, Gonzales and Anderson Pvt Ltd",4.05,19444851.56,Defaulted,High,2024-01-19,596,Manufacturing,Ahead relationship support car high before result.
+ENT0334,Ellis Group Pvt Ltd,0.54,57228225.0,Active,High,2025-04-06,643,Healthcare,Animal matter old.
+ENT0335,Patel-Bryant Pvt Ltd,2.54,64489928.54,Defaulted,Low,2024-07-08,437,Energy,Hundred five best day on.
+ENT0336,Mclaughlin-Marshall Pvt Ltd,1.73,81072573.95,Closed,Low,2023-10-19,769,Healthcare,Education such crime town.
+ENT0337,Hamilton LLC Pvt Ltd,3.73,2394335.37,Closed,Medium,2024-12-06,881,Finance,Century interview understand cell analysis case.
+ENT0338,Hall Group Pvt Ltd,1.29,85758503.92,Closed,Medium,2023-07-17,827,Technology,Nearly sell big shake ahead industry.
+ENT0339,Holloway-Powell Pvt Ltd,0.89,67256329.49,Active,High,2025-03-24,788,Technology,Interest listen treatment fear hospital.
+ENT0340,Williams-Woodard Pvt Ltd,4.71,1676181.93,Closed,Low,2025-01-10,573,Technology,Remain ever third main actually.
+ENT0341,Moran Group Pvt Ltd,1.86,72565370.31,Active,Low,2023-11-20,668,Finance,Key top clear knowledge real choose man.
+ENT0342,Bolton-Johnson Pvt Ltd,0.78,12704259.93,Closed,Low,2024-01-19,814,Healthcare,Economy seven material along image assume record deal.
+ENT0343,Salazar-Hernandez Pvt Ltd,3.61,64232421.19,Closed,Low,2023-11-25,526,Finance,Feel interview recent south knowledge performance.
+ENT0344,Turner-Owens Pvt Ltd,4.81,48340008.07,Closed,Medium,2023-08-12,682,Logistics,Clear able daughter job create great.
+ENT0345,Hart-Hensley Pvt Ltd,3.66,91366891.94,Defaulted,Medium,2025-04-23,523,Finance,Investment performance return sense.
+ENT0346,Bradley Ltd Pvt Ltd,3.56,59985632.09,Active,Low,2025-04-07,840,Technology,Author line big paper million.
+ENT0347,Davis-Salazar Pvt Ltd,0.85,56852703.51,Active,Medium,2024-10-25,817,Finance,Create financial class floor alone.
+ENT0348,Garcia Inc Pvt Ltd,3.08,15835385.76,Closed,Medium,2023-12-24,752,Services,Party piece ability.
+ENT0349,Taylor-Taylor Pvt Ltd,3.56,71974878.65,Closed,Low,2024-05-12,822,Energy,Usually life to since soon health yard.
+ENT0350,"Williams, Parker and Campbell Pvt Ltd",4.14,45889797.72,Defaulted,Low,2023-08-16,877,Manufacturing,Fine eight try sign.
+ENT0351,Martinez-Jones Pvt Ltd,3.01,67604003.51,Closed,Medium,2025-05-14,705,Healthcare,Build entire prepare loss it collection stop fact.
+ENT0352,Smith-Hardy Pvt Ltd,4.17,74834643.8,Defaulted,Low,2024-09-23,733,Technology,Interesting process heavy economic figure serious fight.
+ENT0353,Davis-Leon Pvt Ltd,3.65,54575186.9,Active,High,2024-12-22,370,Energy,Should oil statement respond.
+ENT0354,Lester-Villanueva Pvt Ltd,0.64,41477826.65,Active,Medium,2023-09-23,730,Technology,Visit that easy.
+ENT0355,Jones-Mcgee Pvt Ltd,4.97,38865482.27,Closed,Low,2024-05-03,852,Retail,Especially mouth though.
+ENT0356,Ross-Turner Pvt Ltd,3.44,35429218.83,Active,High,2024-04-21,702,Retail,Live alone Republican when full upon similar.
+ENT0357,Mendez-Dunn Pvt Ltd,3.78,23046331.38,Active,Medium,2024-10-05,605,Energy,List its section bad.
+ENT0358,Martinez-Walker Pvt Ltd,3.53,54900088.56,Defaulted,Low,2024-03-18,535,Finance,Management baby determine small occur benefit usually.
+ENT0359,Spears-Christensen Pvt Ltd,2.57,16357015.95,Active,High,2024-10-24,415,Manufacturing,Executive town against important pick.
+ENT0360,Jackson-Franco Pvt Ltd,4.14,42504819.25,Active,Low,2024-09-12,368,Services,Degree term something relationship amount form peace.
+ENT0361,Hernandez LLC Pvt Ltd,3.17,45197665.56,Defaulted,Medium,2024-02-02,349,Finance,One green hot purpose.
+ENT0362,Rivera PLC Pvt Ltd,3.83,40824269.73,Active,Low,2023-08-06,357,Retail,Man glass tend play cover down nation.
+ENT0363,Estrada-Sutton Pvt Ltd,2.77,29637081.68,Defaulted,Low,2024-01-24,891,Technology,Bar another add girl still.
+ENT0364,"Nelson, Weber and Wilson Pvt Ltd",1.57,87749573.9,Defaulted,Low,2025-03-26,723,Healthcare,Stop thought several often if.
+ENT0365,"Jackson, Leonard and Johnson Pvt Ltd",1.74,56115093.69,Defaulted,Medium,2024-06-28,479,Logistics,Outside skill draw take doctor perhaps more.
+ENT0366,Mays Ltd Pvt Ltd,3.0,5641525.6,Closed,High,2024-12-14,690,Technology,Tonight TV order country.
+ENT0367,Frost PLC Pvt Ltd,3.63,41417658.51,Closed,Low,2024-05-29,850,Energy,Contain author mission beyond behavior left.
+ENT0368,Webster and Sons Pvt Ltd,1.58,23309110.29,Defaulted,Low,2024-07-11,774,Manufacturing,Pretty pretty after job even.
+ENT0369,Gibson PLC Pvt Ltd,3.03,96810832.67,Defaulted,Low,2024-08-13,697,Finance,Forget morning good need manager ability show.
+ENT0370,"Jackson, Horton and Adkins Pvt Ltd",1.65,33696036.37,Active,High,2023-12-27,679,Services,Respond thousand government enter.
+ENT0371,Moyer Ltd Pvt Ltd,2.91,83111222.24,Active,Low,2025-03-11,340,Services,Fine push until human include.
+ENT0372,"Miller, Gross and Klein Pvt Ltd",1.35,76407945.34,Defaulted,Medium,2024-06-01,522,Energy,Miss decide so Democrat save long a.
+ENT0373,George-Smith Pvt Ltd,1.44,90796249.93,Closed,High,2023-11-08,315,Finance,By hundred front including.
+ENT0374,Downs-Marsh Pvt Ltd,4.72,96245678.06,Active,Medium,2024-03-09,790,Finance,War media thousand notice someone current recently arm.
+ENT0375,"Sanchez, Powell and Nelson Pvt Ltd",3.63,70673089.68,Closed,High,2024-02-24,865,Technology,Determine small win expect picture.
+ENT0376,Johns Ltd Pvt Ltd,3.99,38685512.69,Defaulted,Medium,2025-05-20,615,Healthcare,Sound executive drug forward type police sense worry.
+ENT0377,Hamilton-Davis Pvt Ltd,2.12,88398383.28,Closed,Low,2024-09-26,780,Technology,Interview who especially.
+ENT0378,Blackwell PLC Pvt Ltd,4.61,37699787.22,Closed,Low,2024-11-22,526,Retail,Phone myself describe land born price north.
+ENT0379,Johnson PLC Pvt Ltd,0.57,55777844.79,Defaulted,Low,2024-10-07,727,Healthcare,Identify line another have must wind audience.
+ENT0380,Jennings Ltd Pvt Ltd,1.19,33656663.31,Closed,Low,2023-09-12,551,Energy,Carry environment so or.
+ENT0381,Allen Ltd Pvt Ltd,2.98,94402989.96,Closed,Low,2025-01-28,800,Energy,Congress them among time standard surface.
+ENT0382,Harrison-Graham Pvt Ltd,2.57,73544451.47,Closed,Low,2025-03-04,859,Energy,Piece lawyer cup avoid.
+ENT0383,Lucas-Hawkins Pvt Ltd,1.33,89047088.44,Defaulted,High,2024-09-25,836,Manufacturing,Thing source organization black if main happen.
+ENT0384,"Lamb, Brown and Nguyen Pvt Ltd",4.28,8358710.73,Defaulted,Low,2024-02-09,306,Logistics,Subject big politics feel card.
+ENT0385,Gray-Barber Pvt Ltd,1.12,63439463.15,Active,Medium,2023-10-24,309,Finance,Election woman many clearly.
+ENT0386,"Barrett, Khan and Pope Pvt Ltd",2.78,37946868.58,Defaulted,Medium,2024-01-27,794,Energy,Now point huge.
+ENT0387,Huynh-Cook Pvt Ltd,0.57,53689036.02,Closed,Low,2023-07-12,842,Healthcare,Mouth drive really city question test.
+ENT0388,Thompson-Smith Pvt Ltd,2.91,29382165.12,Defaulted,Medium,2023-11-26,740,Retail,Word environmental change story several music anything.
+ENT0389,"Padilla, York and Frank Pvt Ltd",0.98,10535075.13,Active,Low,2025-03-17,839,Healthcare,Thousand minute worry rich.
+ENT0390,Boyer Group Pvt Ltd,4.17,27465148.93,Closed,Low,2024-05-04,715,Energy,Cell almost together word six culture benefit seat.
+ENT0391,Miller-Kerr Pvt Ltd,3.04,99033070.13,Active,Low,2023-12-24,382,Manufacturing,Likely letter lawyer this might learn similar.
+ENT0392,Rodgers-Baker Pvt Ltd,0.92,38547138.2,Defaulted,Low,2024-12-22,309,Retail,Glass avoid tax a herself give position.
+ENT0393,"Hall, Ramirez and Rodriguez Pvt Ltd",0.87,84687649.66,Defaulted,Medium,2023-11-10,879,Services,Democratic yes cover memory play others too.
+ENT0394,"Taylor, Roberts and Andrews Pvt Ltd",4.53,91996069.33,Active,Low,2023-11-23,880,Energy,Never bad top baby exactly your you.
+ENT0395,"Hensley, Santos and Joyce Pvt Ltd",1.72,92491767.39,Defaulted,High,2023-10-16,856,Manufacturing,Suddenly language ago above.
+ENT0396,"Swanson, Riley and Ellis Pvt Ltd",1.31,85192332.41,Active,High,2024-09-20,447,Logistics,Very safe later authority along we.
+ENT0397,Chavez-Holloway Pvt Ltd,4.68,30628412.07,Defaulted,Low,2023-08-14,698,Technology,Most behavior in fall bill agreement that.
+ENT0398,"Jacobs, Bell and Roman Pvt Ltd",2.23,74234771.92,Defaulted,Medium,2024-11-06,812,Technology,Computer popular activity already final decade.
+ENT0399,Martinez-Grimes Pvt Ltd,0.74,44271737.03,Active,Low,2024-04-21,706,Technology,Boy strong amount trip individual born.
+ENT0400,Harris-Doyle Pvt Ltd,0.63,28059375.83,Closed,Low,2023-09-10,664,Logistics,Rest read either kid.
+ENT0401,Gomez Group Pvt Ltd,2.44,68289790.95,Defaulted,Low,2024-08-01,602,Finance,Third provide team coach.
+ENT0402,White Ltd Pvt Ltd,3.71,9121762.96,Active,Low,2024-09-25,457,Logistics,Blood information almost three assume.
+ENT0403,King Group Pvt Ltd,1.93,11548540.85,Active,High,2025-03-13,755,Technology,Inside piece operation impact.
+ENT0404,Hall-Baldwin Pvt Ltd,3.93,11120910.0,Active,Low,2025-04-28,759,Logistics,Tree set become specific get anyone say.
+ENT0405,Willis-Pierce Pvt Ltd,0.96,9872265.35,Defaulted,Low,2024-10-10,632,Logistics,Set yourself air worry community girl herself.
+ENT0406,"Fischer, Miller and Hernandez Pvt Ltd",0.56,41967196.91,Active,Medium,2024-04-11,872,Finance,Wall group cover life order.
+ENT0407,Mitchell-Flores Pvt Ltd,3.07,17788709.42,Closed,Low,2023-05-30,575,Healthcare,Board television get number approach.
+ENT0408,Taylor-Smith Pvt Ltd,1.71,15447547.24,Active,Low,2025-01-23,731,Healthcare,Middle range choose beat research agree beat.
+ENT0409,Mathews Group Pvt Ltd,2.68,8615214.78,Closed,High,2023-06-14,807,Finance,Without day cup.
+ENT0410,Huff Inc Pvt Ltd,2.56,14413463.04,Active,High,2025-01-28,640,Logistics,Seek television fight effort.
+ENT0411,Singh-Robbins Pvt Ltd,4.12,33624629.91,Closed,Low,2024-07-28,439,Healthcare,Live seem have low herself guy.
+ENT0412,Holland and Sons Pvt Ltd,1.94,94780613.28,Active,Low,2024-06-28,481,Logistics,Nature officer beyond land bring everyone.
+ENT0413,Scott Ltd Pvt Ltd,4.86,29853367.01,Defaulted,Medium,2025-04-17,889,Finance,Road unit investment card wear middle political.
+ENT0414,"Morris, Freeman and Sullivan Pvt Ltd",1.97,28749714.5,Closed,Low,2023-10-09,877,Finance,Carry trial animal project leader short professor.
+ENT0415,Gutierrez and Sons Pvt Ltd,3.17,55017279.46,Defaulted,Medium,2024-08-12,327,Energy,Against seven think wind data may.
+ENT0416,Nelson Group Pvt Ltd,4.74,21755191.24,Closed,Medium,2024-01-16,370,Logistics,Million use feeling place pass other hundred.
+ENT0417,Green Ltd Pvt Ltd,3.53,14778733.15,Closed,Low,2024-09-28,457,Logistics,Much here since expert bit.
+ENT0418,Garcia-Garcia Pvt Ltd,4.05,8322548.42,Defaulted,Low,2025-05-04,710,Logistics,Hand compare lose star lot us safe.
+ENT0419,Johnson-Roberts Pvt Ltd,2.95,79281370.79,Closed,Medium,2023-12-15,849,Services,Option lead reduce inside what.
+ENT0420,"Duncan, Wood and Brown Pvt Ltd",0.99,25574865.92,Defaulted,Low,2024-02-17,345,Logistics,Describe similar north seat court work.
+ENT0421,Elliott-Turner Pvt Ltd,4.85,33828073.51,Closed,Low,2023-10-30,400,Healthcare,Power administration trial expect.
+ENT0422,Phillips-Yates Pvt Ltd,1.5,74938449.74,Defaulted,Low,2024-01-11,889,Finance,Student discuss sound environmental away.
+ENT0423,Savage-Conley Pvt Ltd,2.51,39722282.7,Defaulted,Low,2023-08-14,812,Retail,Young information item within tonight.
+ENT0424,Gillespie Inc Pvt Ltd,2.05,3431702.65,Active,Low,2023-10-08,387,Services,Difficult customer I enjoy.
+ENT0425,"Griffin, Holmes and Rhodes Pvt Ltd",4.24,73284921.58,Closed,Low,2024-10-29,766,Finance,Pm impact message himself.
+ENT0426,Reed Ltd Pvt Ltd,2.85,35481729.37,Active,Low,2024-03-09,763,Technology,Box investment medical page old instead arm.
+ENT0427,Frederick LLC Pvt Ltd,0.8,5423622.21,Defaulted,Low,2024-10-01,651,Services,Significant from tree may eye at.
+ENT0428,"Lee, Reynolds and Boyle Pvt Ltd",3.55,17271055.19,Defaulted,Low,2023-08-24,478,Retail,Store technology again lose onto at.
+ENT0429,"Conner, Owens and Alvarez Pvt Ltd",1.99,43210568.98,Closed,Low,2024-06-19,714,Retail,Speak radio value very training visit.
+ENT0430,Patrick-Hartman Pvt Ltd,1.34,66073483.2,Closed,Low,2024-09-03,502,Energy,Ahead top strategy bit little side.
+ENT0431,Wright-Black Pvt Ltd,3.16,39494742.26,Defaulted,Low,2024-12-29,585,Services,Figure general matter we bit these.
+ENT0432,Newman-Robinson Pvt Ltd,3.1,80150733.33,Defaulted,Low,2024-09-28,633,Finance,Health consumer deal family order shoulder.
+ENT0433,"Cobb, Carter and Cortez Pvt Ltd",2.56,26972986.15,Closed,Low,2023-06-10,620,Logistics,Pay check field medical opportunity.
+ENT0434,Doyle-Richardson Pvt Ltd,3.25,59113466.74,Closed,Low,2024-05-28,768,Retail,World within toward finish admit goal everyone.
+ENT0435,Dean Ltd Pvt Ltd,4.16,70892847.73,Closed,High,2025-04-04,386,Retail,Wife discussion image here something benefit.
+ENT0436,Cannon-Bell Pvt Ltd,1.91,24618699.92,Active,Low,2024-05-30,444,Logistics,Natural hotel language answer production on amount.
+ENT0437,Hernandez-Wolf Pvt Ltd,2.38,14648862.55,Closed,Low,2025-01-21,798,Retail,Finish treatment already no.
+ENT0438,Hatfield LLC Pvt Ltd,3.0,49474560.59,Active,Low,2024-02-17,761,Manufacturing,Far yeah only wide.
+ENT0439,"Andersen, Martinez and Christensen Pvt Ltd",4.39,95232353.1,Closed,Low,2024-05-20,693,Energy,Total education house she company value.
+ENT0440,"Martin, Herman and Vaughn Pvt Ltd",2.34,49680862.12,Defaulted,Medium,2024-06-20,800,Retail,Foot spend century.
+ENT0441,"Nichols, Miller and Johnson Pvt Ltd",0.87,4055209.86,Active,Low,2023-07-31,581,Finance,Language staff program choose affect town.
+ENT0442,Maldonado and Sons Pvt Ltd,2.92,17652688.77,Closed,Low,2024-11-24,807,Services,Vote bar paper maybe front claim.
+ENT0443,Smith Ltd Pvt Ltd,3.08,27521002.03,Defaulted,Medium,2024-04-10,675,Manufacturing,Four discover president nature.
+ENT0444,Paul PLC Pvt Ltd,3.92,44695291.39,Active,High,2024-10-10,404,Finance,Seat soldier apply control small.
+ENT0445,"Reynolds, Owen and Jackson Pvt Ltd",1.84,99931954.26,Closed,Low,2024-12-13,389,Energy,Off old final old evidence.
+ENT0446,Moore-Burke Pvt Ltd,4.39,12621216.62,Active,Low,2023-07-21,659,Logistics,Enter race however popular down physical.
+ENT0447,Mccoy-Martinez Pvt Ltd,1.25,14784261.63,Active,Medium,2023-11-18,360,Technology,Like sell but two city.
+ENT0448,"Scott, Rivera and Williams Pvt Ltd",2.9,60088910.9,Active,Low,2025-01-13,599,Healthcare,Student last condition issue exist.
+ENT0449,Yates Group Pvt Ltd,3.08,95287337.2,Defaulted,High,2024-01-14,397,Retail,Interesting else image.
+ENT0450,"Simpson, Russell and Brown Pvt Ltd",4.83,78783413.78,Active,High,2024-11-16,429,Retail,Develop argue rule summer beat born.
+ENT0451,"Alvarez, Shaw and Suarez Pvt Ltd",1.62,71428090.04,Active,Medium,2024-08-20,702,Energy,Recently economy visit push rich old no spring.
+ENT0452,Patterson-Jackson Pvt Ltd,1.14,63607796.26,Defaulted,Low,2025-01-24,762,Services,Face issue dog just consider trial management.
+ENT0453,"Everett, Bell and Henderson Pvt Ltd",3.35,88132383.05,Active,Low,2024-05-30,584,Technology,Kid several into then interest senior.
+ENT0454,Malone-Lamb Pvt Ltd,2.55,49316403.56,Defaulted,Low,2023-11-10,395,Energy,Four stuff without past store major relate late.
+ENT0455,Lynn-Chen Pvt Ltd,3.36,70031608.8,Active,Medium,2024-01-26,707,Finance,Leg build rather.
+ENT0456,"Ingram, Estes and Davis Pvt Ltd",4.86,82659917.12,Closed,Low,2025-05-09,590,Technology,Arrive give reflect best force rate stage.
+ENT0457,"Byrd, Pearson and Peterson Pvt Ltd",2.96,13928830.78,Closed,Medium,2025-04-17,349,Manufacturing,Special poor find return position return.
+ENT0458,Santos-Hughes Pvt Ltd,0.95,78605086.42,Closed,Low,2024-12-01,461,Energy,Style two use season success hand data itself.
+ENT0459,"Thomas, Hinton and Thomas Pvt Ltd",2.55,99191985.64,Closed,Low,2025-03-30,435,Healthcare,Work Democrat box money.
+ENT0460,Brown LLC Pvt Ltd,1.22,93339830.71,Closed,Low,2023-09-18,669,Healthcare,Cause against may discuss nation.
+ENT0461,Tucker Group Pvt Ltd,0.87,66786372.33,Defaulted,Low,2025-05-04,705,Healthcare,Year story style finally view peace.
+ENT0462,Evans Inc Pvt Ltd,3.77,75767983.55,Closed,Medium,2023-11-15,397,Manufacturing,Else bill family south industry chance.
+ENT0463,Calderon-Potts Pvt Ltd,1.46,8715933.44,Defaulted,Low,2025-05-22,755,Manufacturing,Hear gas large you.
+ENT0464,Hall-Wilkins Pvt Ltd,0.54,35013840.85,Active,High,2025-04-29,732,Retail,Image poor girl vote.
+ENT0465,"Fernandez, Salinas and Hernandez Pvt Ltd",2.65,23665739.88,Active,Medium,2023-09-24,404,Services,Material keep able simple after.
+ENT0466,"Jones, Garrison and Heath Pvt Ltd",1.91,88217910.5,Active,Low,2025-05-04,436,Retail,Along soon billion letter.
+ENT0467,"Simpson, Ferguson and Jacobs Pvt Ltd",0.81,56765830.23,Defaulted,Medium,2023-10-10,750,Technology,Tree too behind truth likely.
+ENT0468,"Gardner, Leonard and Kane Pvt Ltd",3.75,63179923.8,Active,High,2023-11-20,753,Finance,Learn key respond support place matter father.
+ENT0469,Edwards Inc Pvt Ltd,0.89,10946046.14,Active,Low,2024-11-10,693,Technology,As financial skin nice.
+ENT0470,Brooks and Sons Pvt Ltd,4.83,32135863.15,Active,Low,2025-02-21,386,Finance,Understand go manager take face Mr child nice.
+ENT0471,Peterson-Smith Pvt Ltd,2.99,60400778.86,Defaulted,Low,2023-07-14,327,Healthcare,Street smile among lose.
+ENT0472,Wright LLC Pvt Ltd,1.42,61085760.1,Active,Medium,2024-12-14,602,Manufacturing,Collection anyone energy certain just.
+ENT0473,Johnson-Green Pvt Ltd,4.03,79584025.14,Active,Low,2023-06-11,415,Finance,Century particularly such section oil situation.
+ENT0474,Smith Inc Pvt Ltd,2.75,59799047.05,Defaulted,Medium,2023-12-09,312,Technology,Friend whether learn seek ever film.
+ENT0475,"Cook, Garcia and Clark Pvt Ltd",4.7,14066305.19,Defaulted,Low,2025-01-30,859,Retail,House kind while more.
+ENT0476,Barnett Inc Pvt Ltd,3.93,95490845.41,Active,Low,2024-08-06,369,Manufacturing,Catch him executive rule.
+ENT0477,Myers-Vaughn Pvt Ltd,1.68,4942859.33,Active,High,2024-03-18,707,Healthcare,Know oil center account foot reason follow old.
+ENT0478,Steele-Manning Pvt Ltd,3.33,50603847.59,Closed,Low,2024-10-08,711,Services,Natural light may win minute offer.
+ENT0479,Gross-Weaver Pvt Ltd,3.38,54227880.46,Active,Low,2025-02-20,617,Services,Least learn somebody various reach sort home nature.
+ENT0480,Robertson Ltd Pvt Ltd,2.8,21116551.9,Active,Low,2024-12-07,700,Services,Hand music easy sure authority word give.
+ENT0481,Gordon-Mckenzie Pvt Ltd,1.9,44311118.26,Active,Low,2024-04-20,388,Logistics,Total final free national.
+ENT0482,Snyder-Cohen Pvt Ltd,1.02,61617382.65,Active,Low,2025-04-04,479,Services,Middle all hospital oil never leave.
+ENT0483,"Weaver, Adams and Robinson Pvt Ltd",0.56,14583967.94,Active,Low,2024-12-18,655,Healthcare,Answer read thought even.
+ENT0484,"Diaz, Page and Conway Pvt Ltd",1.25,13566130.14,Closed,Medium,2023-06-03,420,Manufacturing,Available person president hear race alone.
+ENT0485,"Mcdonald, Johnson and Clark Pvt Ltd",2.01,43503132.37,Defaulted,Low,2024-05-03,890,Services,Act hundred few how take every.
+ENT0486,"Smith, Perez and Thomas Pvt Ltd",2.73,51567406.06,Active,Low,2024-04-18,880,Retail,Best four foreign what go.
+ENT0487,Mitchell-Estrada Pvt Ltd,2.15,26256492.02,Active,Medium,2024-05-28,418,Finance,Road voice herself operation factor.
+ENT0488,Wagner-Lane Pvt Ltd,3.83,1254282.1,Active,Low,2023-11-17,783,Technology,White hospital state.
+ENT0489,Carroll Inc Pvt Ltd,2.22,15858382.16,Active,Low,2024-05-04,729,Finance,Possible ability green knowledge do.
+ENT0490,Williams Inc Pvt Ltd,1.95,42209403.25,Defaulted,Low,2024-11-02,379,Technology,Half conference red every rate only.
+ENT0491,Cox-Lamb Pvt Ltd,1.04,67659245.96,Active,Low,2023-07-01,828,Manufacturing,Consumer child nice everybody.
+ENT0492,"Daniels, Reyes and Miranda Pvt Ltd",4.79,7823717.34,Closed,Medium,2023-09-13,618,Technology,Score hot check.
+ENT0493,"Richardson, Carter and Chaney Pvt Ltd",0.89,46217871.42,Closed,Low,2024-05-31,877,Healthcare,Describe south series.
+ENT0494,Martin Inc Pvt Ltd,3.83,25015815.36,Closed,Low,2024-08-17,805,Finance,Now thousand strategy boy happen.
+ENT0495,Edwards-Harris Pvt Ltd,3.8,55109365.02,Active,Low,2023-11-03,719,Manufacturing,Growth defense describe such him sound ball.
+ENT0496,Baker-Allen Pvt Ltd,1.55,35295946.08,Defaulted,Medium,2024-07-15,643,Manufacturing,Democratic recognize student hand true society.
+ENT0497,"King, Nolan and Jordan Pvt Ltd",3.92,38251208.22,Defaulted,Medium,2023-06-09,406,Finance,Second policy talk movie.
+ENT0498,Carter-Bailey Pvt Ltd,2.88,24578591.86,Closed,High,2024-01-06,445,Healthcare,Space day generation there.
+ENT0499,Lin and Sons Pvt Ltd,0.92,92206165.89,Defaulted,Low,2023-11-20,681,Energy,Again over college learn put area stage keep.
+ENT0500,Cox-Lyons Pvt Ltd,4.89,9405339.33,Active,Low,2024-06-20,703,Services,Happy budget defense pattern decision.
+ENT0501,Brown Ltd Pvt Ltd,3.16,7166003.49,Defaulted,High,2024-02-19,542,Healthcare,Positive alone nearly fast appear store hit discussion.
+ENT0502,James Inc Pvt Ltd,1.67,32185882.63,Closed,Medium,2024-07-22,634,Technology,North situation wrong wear push.
+ENT0503,Johnson LLC Pvt Ltd,2.54,24127511.44,Active,Low,2025-05-11,898,Services,Process toward money sport.
+ENT0504,Rodriguez-Boyd Pvt Ltd,1.2,17273123.09,Closed,Low,2024-11-08,423,Technology,Long group section television.
+ENT0505,"Hensley, Glenn and Valencia Pvt Ltd",4.84,21555986.34,Closed,Low,2025-04-30,422,Services,Appear gun tend Mrs.
+ENT0506,Zhang Group Pvt Ltd,1.21,68919429.45,Defaulted,Medium,2023-09-11,341,Finance,School future room painting.
+ENT0507,Carter-Garza Pvt Ltd,4.26,33451572.23,Active,Medium,2023-10-24,664,Logistics,Evening sense model sure commercial by.
+ENT0508,Ortiz Group Pvt Ltd,2.81,68041154.32,Closed,Medium,2023-08-09,478,Manufacturing,Stay hear decide exist.
+ENT0509,Henderson PLC Pvt Ltd,4.78,85605529.16,Defaulted,Medium,2024-04-08,555,Services,Commercial education firm statement mouth state.
+ENT0510,Hahn-Swanson Pvt Ltd,2.58,80585778.59,Active,Low,2024-04-25,363,Finance,Police become but art pull arm yet tonight.
+ENT0511,Wilson-Henry Pvt Ltd,1.09,82543668.1,Closed,Medium,2024-03-10,386,Healthcare,Eat surface detail together include not animal.
+ENT0512,Jimenez-Weaver Pvt Ltd,4.63,8423730.89,Active,Low,2025-04-03,754,Retail,Decade great thank friend involve different.
+ENT0513,Landry and Sons Pvt Ltd,0.91,84880268.03,Closed,Low,2024-03-23,772,Manufacturing,In some condition unit ground.
+ENT0514,Poole LLC Pvt Ltd,1.26,57814535.78,Defaulted,Low,2023-11-28,330,Logistics,Strategy point act.
+ENT0515,Brady-Oneal Pvt Ltd,3.57,18107913.97,Active,High,2025-04-24,581,Healthcare,Meeting will down interesting say development.
+ENT0516,Neal-Mendoza Pvt Ltd,2.51,15714509.5,Defaulted,Medium,2024-12-10,551,Healthcare,Above pay indeed dark answer number though.
+ENT0517,Mason-Vincent Pvt Ltd,2.75,88395078.84,Closed,Low,2024-11-23,586,Logistics,Improve level them often.
+ENT0518,Cervantes-Marshall Pvt Ltd,1.12,20746322.86,Defaulted,Low,2023-07-01,856,Manufacturing,Use result maybe enjoy continue.
+ENT0519,Mack and Sons Pvt Ltd,4.95,78409660.92,Closed,Low,2025-04-20,796,Technology,Night thought successful network often position human.
+ENT0520,Rice-Atkinson Pvt Ltd,4.61,50736932.3,Closed,Low,2023-08-22,326,Technology,Visit truth strategy relationship group imagine.
+ENT0521,Smith-Johnson Pvt Ltd,3.19,3901042.59,Closed,Low,2024-03-09,783,Technology,Beyond above party carry.
+ENT0522,"Little, Patterson and Arnold Pvt Ltd",3.95,99960968.93,Active,Low,2023-08-19,546,Healthcare,Us everyone future interest consider successful.
+ENT0523,Wilson and Sons Pvt Ltd,2.9,79332484.0,Defaulted,Low,2023-11-13,524,Logistics,Support someone sound event success head receive suggest.
+ENT0524,Wilkerson-Cooper Pvt Ltd,2.1,84083002.98,Active,Low,2024-01-04,625,Technology,Future ok charge positive something radio boy prepare.
+ENT0525,"Powell, Marshall and Carter Pvt Ltd",4.61,3792450.4,Defaulted,Low,2024-05-02,881,Retail,Around green point represent seven must.
+ENT0526,Velez Inc Pvt Ltd,3.03,19635132.83,Closed,Low,2024-07-28,479,Energy,Television someone avoid base similar.
+ENT0527,Roberts-Norman Pvt Ltd,0.67,6560629.7,Defaulted,Low,2024-07-10,839,Energy,Notice necessary decide summer.
+ENT0528,Cook-Joseph Pvt Ltd,0.5,91871722.41,Active,Medium,2024-05-13,648,Retail,Rule condition political employee.
+ENT0529,Berger-Schneider Pvt Ltd,4.63,84584124.56,Closed,Low,2024-04-08,451,Retail,First everyone project.
+ENT0530,Johnson-Novak Pvt Ltd,3.98,84801607.87,Closed,High,2023-12-26,682,Logistics,Buy arm such low relate consumer show.
+ENT0531,Turner-Carter Pvt Ltd,3.14,34319546.04,Closed,Low,2023-09-01,461,Logistics,Behavior once increase other happen news.
+ENT0532,Fisher and Sons Pvt Ltd,4.06,96105547.94,Defaulted,Low,2023-12-18,875,Technology,Quite boy quality point.
+ENT0533,Hill LLC Pvt Ltd,1.5,59306065.42,Active,Low,2025-02-25,601,Retail,History wonder information perform have culture friend.
+ENT0534,Ruiz-Dunn Pvt Ltd,1.3,1177992.76,Defaulted,High,2023-06-12,700,Manufacturing,Possible raise certainly direction against.
+ENT0535,Hughes and Sons Pvt Ltd,1.32,32503474.27,Defaulted,Low,2024-12-07,879,Services,Live agent personal believe heart guess Congress article.
+ENT0536,Oliver-Williams Pvt Ltd,4.72,14923693.45,Defaulted,Low,2024-08-28,655,Technology,Best who table court.
+ENT0537,"Mann, Schwartz and Smith Pvt Ltd",1.26,88646705.09,Active,Medium,2024-10-13,643,Energy,Language be full.
+ENT0538,"Wright, Tucker and Watson Pvt Ltd",0.55,21758744.16,Defaulted,Low,2023-12-02,562,Services,Road trouble themselves side shoulder discuss within see.
+ENT0539,Dickerson-Roberts Pvt Ltd,3.74,5766598.32,Closed,Medium,2023-06-26,470,Logistics,Federal power measure push under box.
+ENT0540,"Campbell, Kirk and Hayes Pvt Ltd",2.72,38492544.9,Defaulted,Low,2023-12-03,790,Finance,Piece treatment pretty six time five.
+ENT0541,"Williams, Stevens and Hall Pvt Ltd",1.23,8297229.57,Active,Low,2023-12-21,626,Healthcare,Large game hard material.
+ENT0542,Houston Group Pvt Ltd,4.78,8345839.77,Active,Medium,2024-12-23,464,Services,Perform who almost car.
+ENT0543,Rice Ltd Pvt Ltd,2.96,89914293.14,Active,Low,2024-05-10,794,Manufacturing,Parent such start consumer factor high.
+ENT0544,White and Sons Pvt Ltd,2.44,65709882.35,Defaulted,Medium,2025-02-13,460,Manufacturing,Million girl month response.
+ENT0545,Schneider-Hernandez Pvt Ltd,0.96,21349497.2,Active,Low,2023-08-30,867,Healthcare,Leader national glass top.
+ENT0546,"Williamson, Mckinney and Pena Pvt Ltd",3.47,30442664.12,Active,Low,2024-03-08,885,Energy,Produce whole growth box try.
+ENT0547,Sullivan-Barber Pvt Ltd,1.19,36722063.2,Closed,Low,2023-08-17,791,Finance,Work whose campaign.
+ENT0548,Whitney-Gallegos Pvt Ltd,0.94,21488345.31,Defaulted,Low,2023-11-20,383,Energy,Very she lead.
+ENT0549,Chase-Haynes Pvt Ltd,4.3,31526986.61,Closed,Low,2023-08-20,571,Services,Interesting should voice.
+ENT0550,"Jacobs, Brown and Burke Pvt Ltd",3.39,39365184.59,Closed,Medium,2024-09-22,678,Retail,Administration ready use head among art.
+ENT0551,Wright Ltd Pvt Ltd,2.51,27066300.7,Closed,Low,2023-07-16,575,Manufacturing,Land store authority cost grow.
+ENT0552,May Group Pvt Ltd,1.18,69950624.15,Active,Low,2023-06-29,652,Logistics,Same analysis phone company experience plan.
+ENT0553,Gregory PLC Pvt Ltd,4.87,59382917.79,Defaulted,Low,2024-09-10,696,Logistics,Tough somebody between market.
+ENT0554,Moore-Allen Pvt Ltd,4.85,69019725.31,Closed,Low,2024-04-06,541,Energy,Grow work image leg strategy.
+ENT0555,"Randall, Berger and Walker Pvt Ltd",1.84,40085632.16,Defaulted,Low,2023-08-05,884,Retail,Movement safe put thousand foot.
+ENT0556,"Humphrey, Terrell and Young Pvt Ltd",1.04,75961686.81,Active,High,2025-03-24,471,Finance,Range through soon somebody.
+ENT0557,Rodriguez Group Pvt Ltd,4.14,13492413.87,Closed,Low,2024-03-22,745,Finance,Stage state many enough off together natural.
+ENT0558,Johnson-Johnson Pvt Ltd,4.99,63095395.01,Defaulted,Low,2024-08-10,368,Services,Nation single raise.
+ENT0559,"Todd, Hughes and Zuniga Pvt Ltd",2.25,40338144.44,Closed,Medium,2024-08-27,832,Energy,Beautiful wish course understand shake.
+ENT0560,Blake LLC Pvt Ltd,4.63,2224015.94,Defaulted,Medium,2024-01-15,835,Logistics,It system toward source style.
+ENT0561,"Ruiz, Crawford and Bowers Pvt Ltd",1.01,15814589.64,Defaulted,Low,2025-03-28,402,Services,Role decade sound.
+ENT0562,Adams Inc Pvt Ltd,3.03,10998053.84,Closed,Medium,2024-07-02,652,Logistics,Even support trial interview bill another.
+ENT0563,Johnston Group Pvt Ltd,1.69,65823979.4,Defaulted,Medium,2024-02-27,338,Retail,Color anything crime.
+ENT0564,Perry Group Pvt Ltd,1.74,15241414.39,Defaulted,Medium,2023-11-17,711,Manufacturing,Decision now summer anyone drive all.
+ENT0565,Serrano-Ramos Pvt Ltd,2.28,88016805.54,Defaulted,Low,2024-06-28,786,Healthcare,Star myself economy like rule film.
+ENT0566,"Singh, Higgins and Figueroa Pvt Ltd",4.54,3003055.97,Closed,Low,2023-06-28,803,Services,Entire produce reveal collection sometimes push blue.
+ENT0567,Warner Inc Pvt Ltd,4.88,23567783.95,Closed,High,2024-02-12,753,Technology,Other week hit follow upon.
+ENT0568,Scott PLC Pvt Ltd,1.71,42260500.04,Defaulted,Low,2024-10-09,752,Finance,Wonder whether me morning military hospital.
+ENT0569,"Harris, Butler and Cox Pvt Ltd",4.61,41309865.72,Closed,Medium,2024-06-07,682,Manufacturing,Total explain off.
+ENT0570,Burch LLC Pvt Ltd,2.82,16738271.82,Closed,Medium,2023-06-24,713,Retail,Instead set often low couple open study relate.
+ENT0571,Harris-Hughes Pvt Ltd,4.01,52904335.49,Defaulted,Low,2024-09-26,497,Finance,Theory make sell effort event.
+ENT0572,Henderson-Page Pvt Ltd,4.27,25699535.87,Closed,Low,2024-12-25,669,Finance,Toward product challenge middle record top rather bit.
+ENT0573,Young-Edwards Pvt Ltd,1.73,82527122.88,Defaulted,Low,2024-04-29,426,Manufacturing,Green wrong red city school once reveal.
+ENT0574,Cortez-Franklin Pvt Ltd,1.59,49389887.17,Closed,Low,2024-08-12,785,Technology,Money including better actually for.
+ENT0575,Schmitt PLC Pvt Ltd,2.05,83927723.26,Closed,Medium,2024-08-10,392,Healthcare,Admit term white.
+ENT0576,Smith and Sons Pvt Ltd,0.62,5915453.24,Defaulted,Medium,2023-09-12,519,Finance,Significant produce recognize radio yourself.
+ENT0577,"Baker, Kennedy and Weber Pvt Ltd",3.41,68091829.36,Closed,Medium,2023-10-24,825,Manufacturing,Book third claim a represent Congress card interest.
+ENT0578,Roberts LLC Pvt Ltd,4.39,96746697.22,Defaulted,Low,2023-07-10,435,Retail,Tv without product out.
+ENT0579,Shaffer and Sons Pvt Ltd,3.21,1837908.98,Closed,Medium,2023-12-26,612,Healthcare,Guy your life alone.
+ENT0580,Sandoval LLC Pvt Ltd,2.41,38271069.77,Closed,Low,2024-07-22,523,Energy,One interview skill outside cup build.
+ENT0581,Kennedy and Sons Pvt Ltd,1.86,52543151.93,Defaulted,Low,2023-12-18,404,Manufacturing,Fall language draw however any still.
+ENT0582,Phillips Inc Pvt Ltd,2.8,66573189.8,Closed,Low,2023-10-24,589,Healthcare,Force treatment senior company economy.
+ENT0583,Murphy-Smith Pvt Ltd,3.58,48692103.46,Closed,High,2023-06-01,632,Healthcare,Song where huge line.
+ENT0584,Bell-Downs Pvt Ltd,1.68,71398283.78,Defaulted,Low,2024-06-10,453,Finance,Seat tell off.
+ENT0585,Miller-Terry Pvt Ltd,4.55,80737552.44,Defaulted,Low,2023-06-18,627,Retail,Friend thousand husband land skin.
+ENT0586,Fox-Acosta Pvt Ltd,3.75,65884656.48,Closed,Low,2023-06-08,728,Logistics,Necessary executive born reveal network.
+ENT0587,Ferguson-Adams Pvt Ltd,2.25,4496581.48,Defaulted,High,2023-12-08,494,Technology,Common land commercial against care must.
+ENT0588,Newton-Barron Pvt Ltd,3.77,23013956.2,Defaulted,Medium,2024-01-31,787,Technology,Try main fill.
+ENT0589,Schmitt-Mendoza Pvt Ltd,2.78,84696505.18,Defaulted,Medium,2024-05-11,485,Healthcare,Decade design garden leg science.
+ENT0590,Wagner Group Pvt Ltd,0.94,13666469.83,Closed,Medium,2023-11-15,872,Retail,Create cover these meet inside feeling.
+ENT0591,"Rios, Macias and Erickson Pvt Ltd",4.76,90059524.63,Defaulted,Low,2024-07-09,663,Finance,Grow dinner chance where customer prove.
+ENT0592,Armstrong Inc Pvt Ltd,3.85,31401441.86,Closed,Low,2025-03-23,899,Healthcare,Thing remember region threat red oil south.
+ENT0593,Elliott Ltd Pvt Ltd,2.59,12660365.65,Active,Medium,2025-01-19,897,Services,Language challenge field concern industry.
+ENT0594,Ferguson-Gomez Pvt Ltd,2.62,20259836.69,Active,Medium,2024-05-06,690,Healthcare,Newspaper opportunity kitchen organization find skill.
+ENT0595,Good PLC Pvt Ltd,2.36,87214065.49,Active,Low,2023-07-15,505,Technology,Somebody consumer car hear social.
+ENT0596,Gray Inc Pvt Ltd,2.34,57370955.21,Closed,Low,2023-09-13,484,Services,Read blue chance available ahead.
+ENT0597,Palmer-Nguyen Pvt Ltd,2.69,63472244.45,Active,Low,2024-02-24,359,Manufacturing,Able reach image difficult.
+ENT0598,Peterson-Ortiz Pvt Ltd,2.53,21728854.47,Active,Low,2023-05-28,462,Energy,Television every yes risk require.
+ENT0599,Francis Inc Pvt Ltd,4.03,78195493.17,Active,Medium,2025-01-14,739,Logistics,Fish federal fly several huge nothing already.
+ENT0600,"Cruz, Armstrong and Mcgee Pvt Ltd",2.43,48262627.32,Active,Low,2025-01-30,504,Technology,Bring knowledge me little quite read challenge discussion.
+ENT0601,"Murphy, Bullock and Costa Pvt Ltd",4.78,89308632.83,Defaulted,Low,2024-03-08,304,Finance,Management staff happy also.
+ENT0602,"Booth, Fernandez and Stevenson Pvt Ltd",1.52,87821528.39,Closed,Low,2024-05-19,692,Healthcare,Build here sort certain.
+ENT0603,Dorsey Inc Pvt Ltd,1.25,82560539.14,Closed,High,2024-07-22,766,Technology,Visit add cause husband worry.
+ENT0604,Harrington-Reed Pvt Ltd,2.45,68991235.31,Active,Low,2023-12-01,801,Technology,Section too challenge rise offer able improve.
+ENT0605,"Mcgrath, Gutierrez and Ward Pvt Ltd",3.88,17323467.38,Closed,Low,2025-03-12,529,Retail,Ago north difference already star region animal.
+ENT0606,Johnston Group Pvt Ltd,1.45,3169413.93,Defaulted,Low,2023-06-14,675,Manufacturing,Minute drive base.
+ENT0607,"Johnson, Brown and Wilson Pvt Ltd",2.19,64391787.44,Defaulted,Medium,2024-03-19,349,Services,Culture official station themselves late first live cultural.
+ENT0608,Ibarra-Foster Pvt Ltd,3.44,2954434.88,Defaulted,Low,2023-09-18,754,Logistics,Just catch give.
+ENT0609,"Powers, Andrews and Davis Pvt Ltd",1.06,26021091.01,Defaulted,Low,2025-03-18,309,Healthcare,Daughter bit tax one mother less by.
+ENT0610,Black LLC Pvt Ltd,2.39,10997004.87,Defaulted,Low,2023-07-13,440,Logistics,Worker suggest wide rich analysis.
+ENT0611,French-Allen Pvt Ltd,4.24,11386509.45,Defaulted,Medium,2025-01-15,589,Services,Some with accept statement note sort improve.
+ENT0612,Morris PLC Pvt Ltd,4.03,50276167.26,Defaulted,Low,2024-09-18,569,Finance,Police pick also best.
+ENT0613,Bowers-Garcia Pvt Ltd,2.11,41565866.82,Active,Low,2023-11-23,808,Finance,Pm then involve again.
+ENT0614,"Potts, Salas and Rivers Pvt Ltd",3.6,48585730.33,Active,Low,2023-09-30,391,Services,Recently machine debate spring Democrat nature.
+ENT0615,Clark-Porter Pvt Ltd,4.26,67233171.12,Active,High,2024-10-10,823,Services,Line yet compare whom owner store hard save.
+ENT0616,"Bishop, Sandoval and Crawford Pvt Ltd",3.76,11027757.38,Closed,Medium,2023-07-17,767,Healthcare,Draw inside second blood huge.
+ENT0617,Klein-Nielsen Pvt Ltd,1.69,5957939.39,Active,Medium,2023-07-25,597,Technology,Describe live dinner budget number audience.
+ENT0618,"Farmer, Pope and Moran Pvt Ltd",4.11,31958003.59,Defaulted,Low,2023-12-17,346,Manufacturing,Difference effect now impact cut decide.
+ENT0619,Jennings-Wheeler Pvt Ltd,4.33,66672147.72,Active,Low,2024-05-03,748,Healthcare,Challenge hand TV medical staff.
+ENT0620,Barrett-Campbell Pvt Ltd,4.45,10202180.23,Closed,Low,2023-12-03,710,Logistics,Cell option thing least along.
+ENT0621,Brown-Brown Pvt Ltd,4.83,27911475.98,Closed,Medium,2024-10-16,789,Logistics,Behavior feel language.
+ENT0622,"Francis, Shelton and Kirk Pvt Ltd",3.42,79894046.15,Active,Low,2024-05-20,360,Retail,Knowledge war foreign write fine everything member.
+ENT0623,Higgins-Kelly Pvt Ltd,0.97,91211449.37,Closed,Medium,2023-07-15,748,Retail,Garden we same political true later.
+ENT0624,Cherry-Meyer Pvt Ltd,3.25,78137265.16,Defaulted,Low,2025-03-04,433,Energy,Ready worker ground health environment collection matter.
+ENT0625,"Wong, Barrett and Thomas Pvt Ltd",4.64,12180810.46,Closed,Low,2024-12-20,364,Healthcare,Everything its possible listen since.
+ENT0626,Daniels LLC Pvt Ltd,3.45,2223661.09,Defaulted,Low,2023-06-27,890,Finance,Interest face hospital world.
+ENT0627,Medina-Cox Pvt Ltd,4.9,67314591.46,Closed,Low,2024-05-16,397,Logistics,Blood staff account between later.
+ENT0628,"Coffey, Moore and Gardner Pvt Ltd",3.48,25609122.49,Closed,Medium,2024-09-11,694,Retail,Argue tonight next leader wait.
+ENT0629,"Brock, Bonilla and Mcmahon Pvt Ltd",4.28,56276079.43,Defaulted,Low,2024-06-05,460,Energy,Apply according agreement record travel interest.
+ENT0630,Smith-Jensen Pvt Ltd,4.33,87072147.83,Active,Medium,2024-04-11,628,Finance,Perform traditional note accept seek.
+ENT0631,Lopez-Morrison Pvt Ltd,1.99,28537555.9,Defaulted,Low,2023-07-08,687,Logistics,Ok stage challenge current.
+ENT0632,"Riley, Smith and Bolton Pvt Ltd",4.18,8804228.98,Closed,Medium,2024-05-12,758,Services,Open difficult every cause.
+ENT0633,Graves-Jackson Pvt Ltd,4.35,45259743.87,Active,High,2025-05-06,318,Services,Fact officer apply evidence discuss account most.
+ENT0634,Austin Group Pvt Ltd,2.32,4547361.31,Defaulted,Low,2024-07-30,393,Healthcare,Get open them president Democrat serious challenge.
+ENT0635,"Frazier, Phillips and Copeland Pvt Ltd",4.51,56670924.64,Defaulted,Medium,2024-11-26,649,Technology,Young husband example lose.
+ENT0636,"Turner, Miller and Johnson Pvt Ltd",4.21,81842279.97,Closed,Low,2024-08-02,784,Technology,Hand arm way weight early staff car.
+ENT0637,"Myers, Rowe and Nguyen Pvt Ltd",3.72,12288312.48,Defaulted,Low,2025-01-30,649,Technology,Matter argue notice personal.
+ENT0638,Hicks-Macdonald Pvt Ltd,4.23,96478934.66,Closed,Low,2024-01-02,682,Services,Check involve might.
+ENT0639,Blackburn Inc Pvt Ltd,0.71,17251381.4,Active,Medium,2023-11-03,719,Services,Far face theory treatment other movie.
+ENT0640,Giles-Terry Pvt Ltd,1.64,20396225.25,Active,High,2025-02-24,702,Finance,Same series success finally morning environment.
+ENT0641,House Inc Pvt Ltd,2.56,78360619.96,Defaulted,Low,2025-02-17,724,Manufacturing,Certainly doctor fear born.
+ENT0642,Bennett LLC Pvt Ltd,4.67,83909157.51,Defaulted,Low,2023-07-04,761,Energy,Around discover tonight building particularly film.
+ENT0643,"Sanchez, Dixon and Wilkerson Pvt Ltd",3.46,95662841.84,Active,High,2025-02-11,304,Manufacturing,History prove only.
+ENT0644,Henry Inc Pvt Ltd,2.99,43848227.61,Defaulted,Low,2024-05-22,820,Retail,Total full kind central message dinner school.
+ENT0645,Sanchez-Bennett Pvt Ltd,3.61,18191376.75,Active,Low,2024-02-13,629,Logistics,Hand executive establish country eye.
+ENT0646,"Hendricks, Case and Washington Pvt Ltd",2.38,61290375.66,Defaulted,Medium,2023-09-04,580,Logistics,Case real including others fast trial according.
+ENT0647,Wilcox PLC Pvt Ltd,4.84,97078673.34,Closed,Medium,2024-10-31,441,Logistics,Anything will beyond.
+ENT0648,"Brown, Holden and Mendez Pvt Ltd",3.21,88757248.69,Defaulted,Low,2023-09-23,860,Technology,Firm bank half inside reach whose less.
+ENT0649,Lucas Group Pvt Ltd,3.7,93615695.67,Defaulted,Low,2024-03-09,514,Healthcare,View day half member fear up claim.
+ENT0650,"Watkins, Whitney and Hess Pvt Ltd",3.59,92197984.68,Active,High,2024-06-26,482,Technology,Anyone interesting smile candidate important visit late degree.
+ENT0651,"Henderson, Collins and Lopez Pvt Ltd",3.7,76316727.46,Defaulted,Low,2024-10-27,884,Logistics,Capital listen appear indeed article.
+ENT0652,"Campbell, Taylor and West Pvt Ltd",3.53,89492734.14,Defaulted,Low,2024-10-22,732,Manufacturing,Road peace computer possible civil prepare.
+ENT0653,Carter-Jones Pvt Ltd,2.85,3501941.98,Active,Low,2023-09-30,357,Finance,Republican care scientist crime social perform who.
+ENT0654,Bailey-Smith Pvt Ltd,1.7,78767687.07,Closed,Medium,2024-04-17,449,Manufacturing,Stage expect would.
+ENT0655,Carr Inc Pvt Ltd,3.61,30218916.03,Defaulted,Low,2024-06-01,763,Services,Year serve player situation blood.
+ENT0656,"Miller, Vaughn and Rosales Pvt Ltd",3.27,67877075.34,Defaulted,Medium,2024-01-02,874,Logistics,Actually involve north season.
+ENT0657,"Ramirez, Martinez and Thompson Pvt Ltd",1.57,78646410.11,Defaulted,Low,2024-10-22,348,Logistics,Nor wall lot environment room.
+ENT0658,"Perry, Palmer and Poole Pvt Ltd",2.24,95713495.03,Defaulted,Low,2024-08-11,865,Manufacturing,Fund beat law tend nor matter.
+ENT0659,Williams and Sons Pvt Ltd,0.56,25882771.71,Defaulted,Medium,2024-10-07,753,Finance,Continue push quite morning kitchen.
+ENT0660,Little-Scott Pvt Ltd,4.6,70758277.82,Defaulted,Low,2023-10-31,859,Finance,Common vote she collection evening despite.
+ENT0661,Simpson-Pham Pvt Ltd,3.99,96464692.49,Closed,Low,2023-06-18,376,Retail,Civil travel reach sort.
+ENT0662,Jackson-Mason Pvt Ltd,4.83,73772869.12,Active,Low,2025-04-06,738,Healthcare,Take federal summer including care about.
+ENT0663,Welch-Strong Pvt Ltd,3.0,13876586.48,Defaulted,Medium,2024-11-18,305,Technology,Onto teach responsibility.
+ENT0664,Garcia-Castillo Pvt Ltd,2.6,93811950.6,Active,Low,2024-09-06,630,Manufacturing,Spring cup successful change part draw move thus.
+ENT0665,Huynh-Glover Pvt Ltd,3.98,62911299.59,Defaulted,Low,2025-03-29,886,Technology,Adult address central eye it deal.
+ENT0666,Smith-Lee Pvt Ltd,0.83,71060474.58,Defaulted,Low,2024-01-01,488,Services,Almost must network our image especially.
+ENT0667,"Patrick, Fuller and Lawson Pvt Ltd",4.04,16777678.76,Defaulted,Low,2025-04-27,394,Technology,Perform pick edge week act.
+ENT0668,Burns Inc Pvt Ltd,1.5,22122027.21,Closed,Low,2023-06-23,600,Finance,Human sign meet.
+ENT0669,"Parks, Hogan and Smith Pvt Ltd",4.78,62209779.5,Closed,High,2025-03-20,309,Services,Across young mention top might determine laugh.
+ENT0670,"Patrick, Wood and Foster Pvt Ltd",3.51,45121057.38,Defaulted,Medium,2023-10-23,549,Manufacturing,Candidate party each catch.
+ENT0671,Johnson-Green Pvt Ltd,3.57,32772764.04,Active,Low,2024-12-28,853,Healthcare,Tonight who travel.
+ENT0672,"Moore, Rodgers and Meyer Pvt Ltd",0.61,52169914.43,Closed,Low,2024-05-27,820,Energy,Wish some seat among series sea concern.
+ENT0673,"Robertson, Pitts and Sullivan Pvt Ltd",2.69,30346962.99,Defaulted,Low,2023-07-21,826,Services,Hundred information home price sound low report unit.
+ENT0674,"Banks, French and Andrews Pvt Ltd",4.77,17572086.11,Defaulted,Low,2023-10-17,367,Finance,Relate sense sea government conference loss we.
+ENT0675,"Norris, Stewart and Cooper Pvt Ltd",3.52,77584644.37,Defaulted,Low,2023-07-10,406,Finance,Throughout collection almost outside forward surface.
+ENT0676,"Castillo, Jones and Meyer Pvt Ltd",2.92,70571543.76,Defaulted,Medium,2023-07-05,373,Retail,Yes paper wife whether.
+ENT0677,"Cook, Ortiz and Oneal Pvt Ltd",0.61,71969960.1,Active,Low,2024-10-23,355,Retail,Create certain different movie shoulder nice story news.
+ENT0678,Hayes Inc Pvt Ltd,4.07,56250336.33,Defaulted,Medium,2024-01-26,564,Logistics,Network nation show consider commercial approach win husband.
+ENT0679,Robinson Ltd Pvt Ltd,2.25,63391509.2,Closed,Low,2023-11-16,698,Services,Feel popular entire say use.
+ENT0680,Rhodes-Gonzales Pvt Ltd,2.91,64500851.9,Defaulted,Low,2024-09-15,899,Manufacturing,According hope many campaign on.
+ENT0681,Walker-Barnes Pvt Ltd,3.65,8186355.04,Defaulted,Low,2023-09-03,608,Services,Tree serious us school body.
+ENT0682,Richmond Ltd Pvt Ltd,1.77,92742397.09,Closed,Low,2025-01-11,331,Energy,Four quickly community figure maintain PM.
+ENT0683,"Wells, Wilcox and Anderson Pvt Ltd",1.2,22766706.82,Defaulted,Low,2024-03-26,858,Healthcare,Benefit less itself million sing view international.
+ENT0684,Schmidt and Sons Pvt Ltd,4.82,15263478.21,Defaulted,Medium,2023-11-15,682,Manufacturing,Lot hand help institution though.
+ENT0685,"Gonzalez, Miller and Jackson Pvt Ltd",2.99,55951904.82,Active,Low,2024-04-09,886,Logistics,Action market threat.
+ENT0686,"Gomez, Dickerson and Myers Pvt Ltd",2.92,94750959.53,Closed,Low,2023-09-22,652,Finance,Could audience firm art thus father.
+ENT0687,Lopez Inc Pvt Ltd,2.36,64947218.85,Defaulted,Low,2025-04-24,488,Finance,Behind full position help.
+ENT0688,"Ray, Clark and Morrison Pvt Ltd",3.28,26021436.01,Active,Low,2024-08-07,880,Manufacturing,Beautiful crime customer culture.
+ENT0689,"Mcconnell, Garza and Cox Pvt Ltd",4.33,93304616.67,Defaulted,Low,2025-04-25,862,Services,Imagine look identify speech process character property.
+ENT0690,"Matthews, Kim and Reyes Pvt Ltd",1.81,7668912.98,Active,Low,2024-01-12,894,Energy,Stand art your would power me degree.
+ENT0691,"Campos, Saunders and Peterson Pvt Ltd",4.78,36356697.54,Defaulted,Medium,2023-06-29,402,Healthcare,Item business ahead life.
+ENT0692,"Stein, Wood and Castro Pvt Ltd",3.29,90111740.49,Closed,Low,2024-01-06,636,Healthcare,Back involve eat develop.
+ENT0693,Reeves-Hall Pvt Ltd,3.62,16087101.24,Defaulted,Low,2024-02-27,623,Logistics,Per involve save however early prevent discuss.
+ENT0694,"Gutierrez, Hansen and Knight Pvt Ltd",1.26,32008263.29,Active,Medium,2024-12-08,746,Healthcare,How get admit class serious all hot.
+ENT0695,"Novak, Miller and Hunter Pvt Ltd",4.28,14296277.41,Defaulted,Low,2024-08-05,791,Energy,Office want I similar.
+ENT0696,Delgado PLC Pvt Ltd,2.5,77701929.19,Closed,Low,2024-05-08,479,Services,Simply who body pattern.
+ENT0697,"Pope, Copeland and Martin Pvt Ltd",4.29,86012651.88,Active,Medium,2024-09-02,501,Healthcare,With particular off national sound green.
+ENT0698,Powell-Woodward Pvt Ltd,3.8,63035269.62,Defaulted,Low,2024-08-25,319,Manufacturing,Economy minute third great both former born break.
+ENT0699,Vargas Ltd Pvt Ltd,4.16,58311177.94,Defaulted,Low,2025-01-12,337,Healthcare,Executive truth type board.
+ENT0700,Jones LLC Pvt Ltd,2.95,99874089.33,Closed,Medium,2023-11-09,452,Technology,Black allow avoid without writer.
+ENT0701,"Garcia, Miranda and Reed Pvt Ltd",2.27,89252316.83,Defaulted,Medium,2023-09-17,597,Retail,Effort young read.
+ENT0702,Edwards Group Pvt Ltd,2.59,51530787.34,Closed,Low,2024-04-16,310,Finance,However concern watch increase see later.
+ENT0703,"Daugherty, Gray and Mcdowell Pvt Ltd",4.32,80847465.64,Defaulted,Medium,2024-07-11,826,Retail,Artist image discussion per prevent decade hotel.
+ENT0704,Mitchell LLC Pvt Ltd,2.51,18735373.21,Defaulted,Medium,2024-07-06,449,Energy,Food participant but glass take think author.
+ENT0705,Serrano PLC Pvt Ltd,4.73,5001562.78,Closed,Low,2023-11-05,570,Technology,Create long same son course list quite.
+ENT0706,"Walker, Ferguson and Kirby Pvt Ltd",1.55,67189974.4,Defaulted,High,2023-07-20,669,Logistics,Beautiful low husband minute.
+ENT0707,Walters Ltd Pvt Ltd,2.61,46009701.53,Active,Low,2023-10-04,631,Services,Buy view allow air hand high.
+ENT0708,"Clay, Price and Graves Pvt Ltd",3.67,52615917.51,Closed,Medium,2024-03-29,569,Retail,Serve town step ball.
+ENT0709,"Choi, Trujillo and Wallace Pvt Ltd",2.19,38473333.19,Defaulted,Medium,2024-05-23,379,Healthcare,Record sound hot fear character ground.
+ENT0710,Morgan and Sons Pvt Ltd,2.19,90817000.22,Defaulted,Low,2023-06-09,653,Energy,Standard station quite mouth.
+ENT0711,Elliott and Sons Pvt Ltd,4.07,88830022.41,Active,Low,2025-02-26,442,Energy,Center require find result develop bad quality.
+ENT0712,"Michael, Moran and Bowen Pvt Ltd",1.25,8631734.35,Defaulted,Low,2024-03-08,453,Retail,Free factor whose type American owner buy.
+ENT0713,"Wagner, Martin and Armstrong Pvt Ltd",1.21,60600007.37,Active,Medium,2024-02-23,724,Technology,Building issue before walk everybody.
+ENT0714,Miller and Sons Pvt Ltd,3.74,48670148.29,Closed,Low,2024-07-07,465,Logistics,Animal beautiful information ask but pattern bit.
+ENT0715,Wright Group Pvt Ltd,0.6,5271288.8,Defaulted,Low,2023-07-07,437,Manufacturing,Sound little money her between consumer attention prepare.
+ENT0716,Bailey-Coleman Pvt Ltd,4.51,15539644.91,Active,Low,2024-12-26,484,Logistics,Space travel news well mission opportunity short.
+ENT0717,"Morgan, Reyes and Brown Pvt Ltd",3.2,56796865.53,Active,Medium,2024-11-09,590,Services,Compare night best once cover remain guy.
+ENT0718,Woods-Knight Pvt Ltd,1.47,61046063.89,Closed,Medium,2023-10-12,474,Finance,Apply magazine tough woman trip happen wall.
+ENT0719,"Brewer, Howard and Hampton Pvt Ltd",4.24,60483032.73,Defaulted,Medium,2023-08-30,486,Healthcare,Wear dinner pass surface say.
+ENT0720,Chavez and Sons Pvt Ltd,1.25,68873525.22,Closed,Low,2023-06-22,370,Finance,Article choice person section almost.
+ENT0721,"Kim, Rangel and Padilla Pvt Ltd",2.2,14089106.65,Active,Low,2023-10-05,816,Logistics,Agent fact cost guess somebody century.
+ENT0722,Gonzalez-Kelly Pvt Ltd,4.22,60945590.77,Active,Low,2024-05-18,339,Services,Age body born kind.
+ENT0723,Molina Inc Pvt Ltd,0.92,66279868.51,Defaulted,Low,2024-04-04,301,Logistics,Necessary official manage glass.
+ENT0724,"Fisher, Baker and Patel Pvt Ltd",2.85,37667367.57,Active,Medium,2024-08-28,739,Finance,South discuss idea nothing pick.
+ENT0725,"Ray, Mccoy and Robbins Pvt Ltd",4.72,48730221.34,Closed,Low,2023-09-17,889,Services,Through left soon everything traditional report hot nation.
+ENT0726,Peters PLC Pvt Ltd,2.41,26197284.79,Active,High,2023-12-21,385,Healthcare,Short before teacher.
+ENT0727,"Fry, Tyler and Mason Pvt Ltd",3.19,54829371.17,Closed,Low,2025-04-13,307,Services,Agree million conference option none performance language build.
+ENT0728,"Braun, Hanna and Moreno Pvt Ltd",2.84,38127958.29,Active,Medium,2025-03-11,623,Logistics,Sea black big responsibility blue himself.
+ENT0729,Newman-Smith Pvt Ltd,2.13,16323079.48,Defaulted,Low,2025-03-20,567,Logistics,Between seven too hot technology both strong.
+ENT0730,"Navarro, Lee and Heath Pvt Ltd",3.04,61576187.02,Defaulted,Low,2025-02-21,508,Logistics,Mrs face sit year.
+ENT0731,Kelly-Carrillo Pvt Ltd,2.98,56198704.84,Active,Low,2024-04-30,868,Energy,Father quite edge.
+ENT0732,Wells LLC Pvt Ltd,1.64,31358655.58,Closed,Medium,2024-10-24,707,Retail,Pressure figure that responsibility front.
+ENT0733,"Herrera, Johnson and Mendez Pvt Ltd",4.35,66269002.06,Defaulted,Low,2023-11-24,465,Services,Page pull physical bag fire technology answer.
+ENT0734,Smith-Velasquez Pvt Ltd,1.47,40655529.74,Closed,Medium,2024-10-22,353,Retail,Together worker away.
+ENT0735,Ruiz-Lynch Pvt Ltd,2.25,63951785.22,Active,Medium,2024-07-01,782,Logistics,Bring movie market budget media.
+ENT0736,"Johnson, Watson and Padilla Pvt Ltd",0.9,27046107.8,Closed,Low,2024-05-29,338,Logistics,Against organization recognize talk.
+ENT0737,Olson-Hale Pvt Ltd,4.69,40663840.97,Defaulted,Low,2023-10-05,358,Retail,One something contain cell while.
+ENT0738,Young-Rice Pvt Ltd,3.38,44458232.81,Active,Medium,2024-10-09,830,Healthcare,While consumer level reality buy year.
+ENT0739,"Gonzales, Middleton and Davis Pvt Ltd",1.38,78611985.09,Defaulted,Low,2025-05-01,537,Retail,Prepare message time glass behavior character choice you.
+ENT0740,"Chen, David and Garrett Pvt Ltd",3.53,36614259.83,Defaulted,Low,2025-02-25,461,Services,Interesting amount recently minute inside.
+ENT0741,James-Yates Pvt Ltd,4.99,78187615.02,Closed,Medium,2023-06-30,715,Finance,Public wife up smile movie hold.
+ENT0742,Fisher-Long Pvt Ltd,2.83,73955628.47,Active,High,2024-07-28,862,Healthcare,Her usually alone save interesting television thank.
+ENT0743,Perez Group Pvt Ltd,3.77,56352272.83,Defaulted,Low,2024-09-28,583,Finance,A upon fear director effort court best.
+ENT0744,Rice Ltd Pvt Ltd,3.23,20257994.12,Closed,Low,2023-10-29,567,Retail,Can audience report travel that.
+ENT0745,"Ramos, Burns and Moses Pvt Ltd",2.33,11540030.68,Active,Low,2023-09-28,648,Services,Walk view senior just affect financial.
+ENT0746,Johnson-Morgan Pvt Ltd,4.11,95714225.61,Defaulted,Medium,2023-08-20,888,Healthcare,Maybe commercial above really.
+ENT0747,Blackwell Group Pvt Ltd,3.62,96639490.11,Defaulted,Low,2024-04-26,549,Technology,Drive claim professor involve within type.
+ENT0748,"Wright, Maldonado and Smith Pvt Ltd",4.83,46425994.5,Closed,Medium,2024-02-29,328,Energy,When chance student close pressure.
+ENT0749,"Arnold, Lloyd and Terry Pvt Ltd",1.02,7687871.81,Defaulted,Medium,2023-07-02,525,Finance,Again black none involve matter fall could.
+ENT0750,Walker LLC Pvt Ltd,4.1,41830171.25,Closed,Low,2023-07-13,309,Healthcare,Focus age believe without finish.
+ENT0751,"Scott, Solomon and Graves Pvt Ltd",1.62,10207933.59,Defaulted,Medium,2023-11-18,650,Services,Degree thank weight indeed stage economic.
+ENT0752,"Ball, Lopez and Fritz Pvt Ltd",3.0,18670088.98,Closed,Low,2024-12-02,887,Healthcare,Nearly yourself mission increase.
+ENT0753,"Mccarty, Hopkins and Rivera Pvt Ltd",1.32,74869469.54,Active,Low,2024-06-29,504,Finance,Third fire manager also majority.
+ENT0754,"Snyder, Savage and Hernandez Pvt Ltd",3.81,87401507.34,Active,Low,2024-07-20,555,Technology,International produce short common.
+ENT0755,Ramos-Rice Pvt Ltd,1.2,11562239.72,Active,Medium,2025-03-07,804,Manufacturing,Road over finish expect room reach particular.
+ENT0756,Farmer Ltd Pvt Ltd,3.94,54605921.51,Active,Medium,2023-06-27,680,Technology,Score economic radio.
+ENT0757,Greene Ltd Pvt Ltd,2.72,98550771.6,Defaulted,Medium,2023-05-24,802,Retail,Movement run weight issue nation leg.
+ENT0758,Watson-Marshall Pvt Ltd,4.93,91684676.14,Closed,Low,2024-05-23,890,Retail,Trouble visit source need ask.
+ENT0759,"Yang, Le and Graham Pvt Ltd",0.74,80127721.86,Closed,High,2024-02-13,333,Technology,Sound take both.
+ENT0760,Murphy Ltd Pvt Ltd,2.27,68947526.01,Active,Low,2024-08-14,423,Energy,Government difference type poor government outside.
+ENT0761,Gibson-Valenzuela Pvt Ltd,1.92,1833441.88,Defaulted,Low,2023-12-10,894,Services,Child start art pattern natural market.
+ENT0762,"Bryant, Freeman and Patterson Pvt Ltd",1.96,61665031.54,Closed,Low,2023-10-21,569,Finance,Much win possible ten past whether plan.
+ENT0763,"Morgan, Blevins and Bates Pvt Ltd",1.71,95894154.89,Closed,Low,2025-01-09,810,Logistics,Recognize task rise factor will on human.
+ENT0764,Finley Ltd Pvt Ltd,1.45,70370550.05,Closed,Low,2023-08-08,710,Healthcare,Woman brother election.
+ENT0765,Cook-Fischer Pvt Ltd,2.53,57569562.1,Defaulted,Medium,2024-10-15,402,Healthcare,Attention finally about include believe sound.
+ENT0766,Hall PLC Pvt Ltd,4.12,55978664.69,Closed,Low,2024-10-13,453,Energy,Develop hospital travel apply travel evening subject all.
+ENT0767,Green PLC Pvt Ltd,4.13,18484120.39,Closed,Low,2024-10-19,829,Technology,Quality nice poor education.
+ENT0768,Morgan-Moses Pvt Ltd,4.03,30703384.03,Defaulted,Medium,2024-03-05,348,Logistics,President my research can than rock call.
+ENT0769,Johnson LLC Pvt Ltd,0.95,17170846.15,Active,Medium,2023-07-16,787,Services,Writer small deal miss determine hair institution art.
+ENT0770,"Williams, King and Meyers Pvt Ltd",2.52,34130997.31,Closed,Low,2023-10-16,870,Healthcare,Gun evening commercial lose outside agree east.
+ENT0771,"Patel, Jones and Andrews Pvt Ltd",2.05,41764329.58,Closed,Medium,2024-07-22,503,Retail,Natural eat happy sense politics family contain.
+ENT0772,King and Sons Pvt Ltd,4.91,29176264.45,Closed,Medium,2025-01-03,799,Energy,Around such year ago.
+ENT0773,Miller LLC Pvt Ltd,4.5,38726028.84,Closed,Low,2024-02-25,448,Retail,Reduce good but see word stop.
+ENT0774,Smith-Johnson Pvt Ltd,3.38,92928100.03,Closed,Medium,2025-01-04,885,Logistics,Threat which than whatever.
+ENT0775,Chaney-Marquez Pvt Ltd,4.32,8063063.74,Active,Low,2023-10-26,621,Technology,Determine part affect opportunity.
+ENT0776,Gonzales LLC Pvt Ltd,3.44,71332915.03,Defaulted,Medium,2024-10-13,577,Energy,Respond especially structure age likely without.
+ENT0777,"Ferguson, Williams and Martin Pvt Ltd",4.01,93938213.66,Defaulted,Low,2024-03-08,761,Logistics,Year feel Congress minute whose.
+ENT0778,"Reed, Hood and Gonzalez Pvt Ltd",1.25,85566972.62,Active,Medium,2024-12-16,557,Services,Tree special town suddenly fire hear last.
+ENT0779,"Bernard, Carlson and Riley Pvt Ltd",1.45,40307512.75,Active,Low,2023-12-19,784,Manufacturing,Have receive interview within sit.
+ENT0780,Carter Group Pvt Ltd,0.62,40304239.56,Active,Low,2024-12-11,459,Services,Certainly teacher hold whom.
+ENT0781,Wright Inc Pvt Ltd,3.45,88661660.39,Closed,Low,2025-05-06,590,Energy,Kid appear campaign human leader effort.
+ENT0782,"Miller, Vasquez and Lyons Pvt Ltd",3.32,13996433.95,Active,Low,2024-08-13,665,Technology,Democrat morning generation voice.
+ENT0783,Thompson PLC Pvt Ltd,4.39,47252154.19,Defaulted,High,2023-12-27,861,Energy,Parent character current without house.
+ENT0784,Deleon Ltd Pvt Ltd,1.11,94900127.08,Defaulted,Low,2024-09-03,767,Logistics,Involve thought product relate.
+ENT0785,"Faulkner, Gonzalez and Reynolds Pvt Ltd",2.86,64313296.62,Closed,High,2024-02-11,793,Finance,Understand his check yeah during.
+ENT0786,Collins-Hunter Pvt Ltd,4.12,44744170.25,Closed,Low,2024-08-29,459,Healthcare,It bed knowledge never player sense.
+ENT0787,Mitchell-Castaneda Pvt Ltd,0.55,52808307.8,Active,Low,2024-02-10,780,Manufacturing,Within tend consumer enjoy page join music.
+ENT0788,Ferrell Group Pvt Ltd,3.59,49701233.76,Closed,Low,2023-06-14,740,Healthcare,Experience raise turn away happy.
+ENT0789,"Curtis, Stevens and Bauer Pvt Ltd",3.19,79879971.0,Defaulted,Low,2023-07-08,721,Logistics,Different affect think cut.
+ENT0790,Roth-Ortiz Pvt Ltd,2.28,17163680.04,Defaulted,Medium,2024-04-26,687,Finance,Next skin store kitchen particularly into.
+ENT0791,"White, Cook and Wilson Pvt Ltd",1.68,42801698.89,Active,Low,2024-09-06,578,Healthcare,Despite occur film tough.
+ENT0792,"Swanson, Archer and Page Pvt Ltd",3.42,53662482.34,Closed,Low,2025-04-13,370,Retail,Well late maintain strong cut.
+ENT0793,Singh Group Pvt Ltd,1.11,11925278.7,Closed,Medium,2023-12-14,578,Energy,Trouble throughout modern.
+ENT0794,"Mitchell, Taylor and Estrada Pvt Ltd",1.35,2920144.33,Active,High,2024-09-29,322,Retail,Cause sure skill drop.
+ENT0795,Lewis-Hartman Pvt Ltd,4.88,28929339.22,Active,Medium,2024-12-30,308,Finance,Goal system model like court call.
+ENT0796,Klein and Sons Pvt Ltd,0.91,2457759.84,Active,Low,2024-11-27,619,Energy,Compare without word.
+ENT0797,Sutton Ltd Pvt Ltd,4.99,46904762.25,Active,Low,2025-02-12,449,Manufacturing,Information determine admit example production customer fall.
+ENT0798,Anderson-Larson Pvt Ltd,1.7,39849755.73,Defaulted,Low,2024-02-09,496,Healthcare,Either generation hour serious.
+ENT0799,"Davis, Johnson and Jackson Pvt Ltd",4.18,82996952.69,Active,High,2025-04-03,554,Logistics,Already bar at minute marriage town.
+ENT0800,"Floyd, Wolfe and Delgado Pvt Ltd",3.97,44853133.27,Defaulted,High,2024-09-21,503,Energy,Pay population member show debate whose fill.
+ENT0801,Murphy-Kelly Pvt Ltd,3.81,10302070.09,Defaulted,High,2023-11-23,784,Logistics,Cut we much but.
+ENT0802,Burch Ltd Pvt Ltd,3.57,31898827.19,Closed,Low,2024-09-02,343,Services,Party cut program hear.
+ENT0803,Houston-Roberts Pvt Ltd,1.64,64213481.19,Active,Low,2024-06-24,353,Finance,Coach growth successful field.
+ENT0804,Gordon Ltd Pvt Ltd,4.88,24360617.94,Closed,Low,2023-10-04,471,Healthcare,Follow half on total reveal effort realize.
+ENT0805,Williams-French Pvt Ltd,3.13,40185021.73,Active,Low,2023-11-12,343,Energy,Almost I recent present.
+ENT0806,"Allen, Jennings and Thomas Pvt Ltd",3.6,16344202.3,Active,Low,2025-03-15,811,Services,Nature million manage grow or.
+ENT0807,Long Group Pvt Ltd,3.59,34503787.58,Defaulted,Low,2024-09-04,664,Retail,Loss stage response president bring.
+ENT0808,Peterson and Sons Pvt Ltd,3.66,79355158.19,Active,Low,2025-05-17,624,Technology,Station defense national.
+ENT0809,"Thomas, Alexander and Snyder Pvt Ltd",4.12,44433170.91,Active,Low,2025-03-26,686,Technology,Mouth operation ground quality.
+ENT0810,Vaughan LLC Pvt Ltd,3.76,25818927.87,Active,Low,2025-04-16,748,Healthcare,Beat be whom family available three produce.
+ENT0811,Williams-Mcintosh Pvt Ltd,2.94,49519107.59,Defaulted,Low,2024-10-19,656,Technology,Provide fish career those.
+ENT0812,Anderson-Franklin Pvt Ltd,3.8,28257121.82,Defaulted,High,2025-01-08,867,Retail,Interesting not than me.
+ENT0813,Hughes LLC Pvt Ltd,0.81,16347522.33,Closed,Medium,2025-02-02,854,Technology,Attention few reveal least tax stand.
+ENT0814,Koch-Meyers Pvt Ltd,2.54,77815872.83,Defaulted,Low,2024-05-01,489,Manufacturing,Decade course deal.
+ENT0815,Smith and Sons Pvt Ltd,3.29,37043444.51,Defaulted,Low,2023-07-24,364,Logistics,Public total herself.
+ENT0816,Morgan-Salazar Pvt Ltd,1.35,68639194.07,Defaulted,Low,2025-01-22,589,Technology,Stock whatever community blue alone in artist.
+ENT0817,West LLC Pvt Ltd,2.34,32880381.51,Active,Low,2024-06-03,368,Manufacturing,Box oil include necessary.
+ENT0818,"Mccormick, Fisher and Williams Pvt Ltd",4.26,13847652.37,Active,Low,2024-08-07,797,Finance,Stand cover rather cause bag.
+ENT0819,Harris-Wilson Pvt Ltd,0.94,57530205.95,Closed,Medium,2023-12-23,838,Healthcare,Computer base strong new happy finally either.
+ENT0820,Rogers PLC Pvt Ltd,0.72,22851555.63,Defaulted,Low,2023-10-16,513,Energy,Dream write single section.
+ENT0821,Knight-Johnson Pvt Ltd,4.68,83375692.05,Closed,Medium,2023-10-18,362,Technology,Receive according by of.
+ENT0822,"Wright, Dunlap and Gould Pvt Ltd",3.01,93886141.91,Closed,Medium,2024-09-24,359,Healthcare,Stand card ask threat.
+ENT0823,"Foley, Gibson and Snyder Pvt Ltd",2.88,73695733.49,Closed,Low,2023-07-25,521,Services,Sea prevent Republican fill half person.
+ENT0824,Nelson Ltd Pvt Ltd,0.96,23870782.33,Closed,Low,2024-01-15,838,Finance,But parent anything method.
+ENT0825,"Torres, Kelly and Deleon Pvt Ltd",3.07,94802831.11,Defaulted,Medium,2023-09-30,725,Services,Consider behavior individual government.
+ENT0826,Newton-Durham Pvt Ltd,3.95,58079802.24,Defaulted,Low,2023-09-08,737,Services,Southern prepare central scene.
+ENT0827,Morris and Sons Pvt Ltd,1.25,18859257.32,Closed,Low,2024-02-26,461,Energy,Them country sometimes instead table.
+ENT0828,Campbell-Jones Pvt Ltd,4.7,90346012.09,Defaulted,High,2023-09-08,632,Technology,Arrive identify run bit fly.
+ENT0829,Kim and Sons Pvt Ltd,2.36,63690841.4,Defaulted,Low,2025-03-17,546,Finance,With occur world under more art.
+ENT0830,Richardson Inc Pvt Ltd,2.19,55473631.86,Defaulted,Low,2023-07-18,763,Energy,Maintain save civil network white.
+ENT0831,"Phelps, Wilson and Saunders Pvt Ltd",4.82,1019367.16,Active,High,2025-04-28,316,Retail,Deal explain federal right.
+ENT0832,"Martin, Jimenez and Smith Pvt Ltd",4.97,30882323.74,Closed,High,2023-06-15,519,Technology,Movement seek different end.
+ENT0833,Snyder-Davis Pvt Ltd,0.6,82372052.32,Defaulted,Medium,2025-01-29,866,Retail,With modern side blue seem avoid smile.
+ENT0834,Ferguson Group Pvt Ltd,0.92,46576610.76,Active,Low,2024-12-16,675,Finance,Home agent drug decision economic ready election.
+ENT0835,Chen-Palmer Pvt Ltd,1.55,81296349.44,Active,Low,2023-11-09,882,Finance,Society story common central share.
+ENT0836,"Horton, Garcia and Alvarado Pvt Ltd",3.8,72634472.15,Closed,Low,2024-07-24,890,Services,Join beyond debate visit often church.
+ENT0837,Petersen-Bright Pvt Ltd,3.18,30738932.13,Defaulted,Medium,2024-07-25,690,Services,Investment experience occur day painting you also group.
+ENT0838,"Duncan, Baker and Munoz Pvt Ltd",4.01,92265278.16,Closed,Low,2024-04-06,744,Logistics,Mouth administration class choice.
+ENT0839,Smith Inc Pvt Ltd,4.69,12933512.32,Active,Medium,2023-08-14,311,Logistics,Pay street approach full involve.
+ENT0840,Mueller-Perez Pvt Ltd,0.74,52913951.8,Closed,Low,2023-08-26,453,Technology,Person expect as among continue commercial.
+ENT0841,Page and Sons Pvt Ltd,2.76,22858920.31,Active,Medium,2023-11-01,702,Energy,Go fund Mrs trial land main.
+ENT0842,Delgado-Roberts Pvt Ltd,3.89,57950230.53,Active,Low,2024-10-21,596,Logistics,Deep middle stage could.
+ENT0843,Hicks-Lynch Pvt Ltd,1.17,34280649.63,Closed,Low,2024-03-10,350,Logistics,Entire improve last son ready ready if.
+ENT0844,Wright-Lawrence Pvt Ltd,1.68,40454176.7,Closed,Medium,2024-03-12,433,Retail,Establish note keep skin range coach.
+ENT0845,Reyes PLC Pvt Ltd,2.66,20612744.24,Closed,Medium,2025-05-13,500,Finance,Take arm consider return.
+ENT0846,Francis-Ford Pvt Ltd,1.59,27359451.98,Closed,Low,2023-07-24,889,Services,Official only white star conference.
+ENT0847,Mahoney-Jones Pvt Ltd,1.01,41944623.19,Closed,Low,2023-08-04,628,Technology,Yet turn step.
+ENT0848,Jackson LLC Pvt Ltd,3.17,3396476.2,Closed,Low,2023-11-16,658,Energy,Writer would degree community foreign much.
+ENT0849,Evans PLC Pvt Ltd,3.3,44605878.98,Active,Low,2024-11-30,682,Retail,Vote rather tough politics.
+ENT0850,Combs-Brown Pvt Ltd,3.91,85423650.37,Active,Medium,2023-12-30,548,Retail,Section lay place during.
+ENT0851,"Rodriguez, Monroe and Ross Pvt Ltd",4.41,82193261.69,Active,Low,2025-01-04,413,Healthcare,Them garden free nice bring oil mind.
+ENT0852,Rogers Ltd Pvt Ltd,2.53,3252063.4,Active,Medium,2024-04-06,516,Finance,Reach lot edge report.
+ENT0853,"Morgan, Simon and Johnson Pvt Ltd",2.96,75285159.73,Defaulted,Low,2023-09-18,444,Manufacturing,Study sound water learn unit place through.
+ENT0854,"Peters, Fields and Taylor Pvt Ltd",2.19,90697988.31,Defaulted,Low,2023-07-13,474,Manufacturing,Fill visit while resource.
+ENT0855,"Rogers, Armstrong and Hicks Pvt Ltd",1.78,79129660.96,Defaulted,Low,2023-11-08,776,Manufacturing,Although receive yard college budget.
+ENT0856,Santos Inc Pvt Ltd,0.8,66376909.72,Defaulted,Medium,2025-01-27,668,Services,Hundred popular ok together billion.
+ENT0857,Bender-Taylor Pvt Ltd,0.59,86873633.84,Defaulted,Low,2023-05-28,689,Services,For skin challenge performance focus soon.
+ENT0858,"Lee, Robinson and Jackson Pvt Ltd",4.57,48981553.03,Defaulted,Low,2023-09-06,490,Finance,Eat one top bag.
+ENT0859,Simon-Mcguire Pvt Ltd,2.75,46340639.95,Defaulted,Low,2025-02-08,553,Healthcare,Future open control baby wish my.
+ENT0860,"Hernandez, Miller and Clark Pvt Ltd",2.0,39946581.96,Active,Low,2024-01-28,660,Technology,Level feeling home we address.
+ENT0861,Vasquez Inc Pvt Ltd,3.31,24384271.81,Defaulted,Low,2023-10-11,363,Healthcare,Though arm consider.
+ENT0862,"Bell, Carter and Coleman Pvt Ltd",4.45,89149806.52,Active,High,2024-01-30,586,Finance,Meet officer nice increase reflect right yes.
+ENT0863,Hernandez-Dudley Pvt Ltd,1.18,89820356.18,Defaulted,Low,2024-08-27,691,Finance,Health management real put administration environmental all.
+ENT0864,Hill-Clark Pvt Ltd,2.38,57716956.74,Closed,High,2024-08-02,637,Energy,Stay health arm can minute security land big.
+ENT0865,"Maynard, Heath and Parker Pvt Ltd",2.94,21468970.19,Active,Low,2023-09-22,507,Retail,Bar represent past write should provide decade.
+ENT0866,Davis-Mann Pvt Ltd,1.89,70808502.39,Defaulted,High,2024-04-13,740,Retail,Gun reveal item offer night send evidence language.
+ENT0867,Mitchell-Parker Pvt Ltd,3.45,56919584.44,Active,Low,2025-03-04,870,Services,Ahead human physical with decade.
+ENT0868,Armstrong LLC Pvt Ltd,1.33,84112728.48,Active,Medium,2025-01-17,626,Logistics,Require born south yourself.
+ENT0869,Thomas Inc Pvt Ltd,4.83,31031462.39,Defaulted,High,2024-01-17,580,Retail,Learn later generation.
+ENT0870,"Roberts, Trujillo and Raymond Pvt Ltd",4.01,11570371.85,Active,Low,2024-01-04,573,Finance,List kitchen no size process receive hit.
+ENT0871,"Martinez, Anderson and Davis Pvt Ltd",3.18,23860325.38,Active,Low,2024-03-12,788,Retail,Court all spring power.
+ENT0872,Nguyen-Rios Pvt Ltd,2.76,60866464.2,Defaulted,Medium,2023-05-28,488,Logistics,Approach wife two far crime down.
+ENT0873,Ramirez and Sons Pvt Ltd,2.71,14613759.51,Active,Low,2025-04-24,718,Manufacturing,Professor pressure court also must suddenly must.
+ENT0874,Sherman-Smith Pvt Ltd,4.66,95069606.21,Active,Medium,2025-01-05,507,Finance,Need site view camera budget try seek imagine.
+ENT0875,"Knox, Ingram and Wilson Pvt Ltd",0.8,92783217.41,Closed,Medium,2024-03-28,801,Technology,Job by study stand support.
+ENT0876,"Brown, Soto and Fleming Pvt Ltd",4.4,88871104.67,Closed,Low,2023-11-16,342,Logistics,By couple reason still.
+ENT0877,Lewis Group Pvt Ltd,3.74,40020920.16,Defaulted,Low,2024-10-08,849,Manufacturing,Ball future civil since mention how true.
+ENT0878,"Barrett, Wagner and Johnson Pvt Ltd",2.84,45709349.66,Active,Medium,2025-04-05,551,Logistics,Attention need education think religious.
+ENT0879,Ryan-Lopez Pvt Ltd,4.93,4885910.6,Closed,Low,2024-04-13,350,Finance,Price provide wife raise but.
+ENT0880,"Stein, Lutz and Jackson Pvt Ltd",1.81,40405949.25,Closed,Medium,2023-06-13,592,Energy,Security five usually suffer upon.
+ENT0881,Collins Ltd Pvt Ltd,1.25,30147552.81,Active,Medium,2023-12-24,445,Energy,Sure hand bring place.
+ENT0882,"Macias, Mckay and Hall Pvt Ltd",4.23,45718110.7,Defaulted,Low,2024-01-13,484,Retail,Within four down everybody.
+ENT0883,Richardson-Jordan Pvt Ltd,2.27,33022632.31,Active,Low,2024-10-10,506,Energy,Manager collection actually baby beyond case technology much.
+ENT0884,"Foley, Weber and Jones Pvt Ltd",0.91,33083403.23,Defaulted,High,2024-09-01,467,Services,Force interview smile more.
+ENT0885,"Shaw, Meyer and Cooper Pvt Ltd",0.91,70916444.28,Defaulted,Low,2024-03-01,836,Logistics,Must fear value writer card message life like.
+ENT0886,Jacobs LLC Pvt Ltd,3.77,97543951.14,Defaulted,High,2024-02-25,687,Logistics,Heavy soldier fly every budget rather single.
+ENT0887,White PLC Pvt Ltd,0.7,17917613.13,Closed,Low,2023-10-18,453,Retail,Key third forward take.
+ENT0888,Sims Group Pvt Ltd,4.41,18707809.7,Defaulted,Low,2023-08-10,615,Healthcare,Thus for whom travel American expert.
+ENT0889,Perez Inc Pvt Ltd,3.79,96135645.24,Closed,Medium,2023-08-29,420,Retail,Area art peace issue.
+ENT0890,Campbell-Davis Pvt Ltd,4.82,1349756.96,Closed,Low,2024-01-18,809,Energy,Theory owner try local.
+ENT0891,Hall LLC Pvt Ltd,2.95,1569304.34,Closed,Low,2024-11-23,787,Energy,Pm myself camera meeting.
+ENT0892,Barr-Holt Pvt Ltd,2.35,8861086.82,Defaulted,Low,2025-03-01,860,Healthcare,Federal wall course almost upon too well.
+ENT0893,Hoffman LLC Pvt Ltd,3.29,56197316.18,Active,Low,2024-11-04,451,Manufacturing,Art turn general discussion democratic south.
+ENT0894,Hunter-Jackson Pvt Ltd,3.44,4635384.13,Active,Medium,2023-12-13,605,Technology,Approach act center pressure.
+ENT0895,Martinez LLC Pvt Ltd,4.64,5854104.91,Closed,High,2024-03-30,465,Healthcare,Leg dog risk consumer behavior area.
+ENT0896,Fox and Sons Pvt Ltd,3.25,69459848.19,Defaulted,Low,2024-11-16,875,Retail,Myself everybody in.
+ENT0897,"Owens, Schroeder and Brown Pvt Ltd",4.85,75184146.09,Closed,High,2024-11-27,395,Healthcare,Ask name guy water pattern even rock son.
+ENT0898,Reynolds and Sons Pvt Ltd,1.95,89855447.85,Active,Medium,2024-01-17,863,Services,West model use rock.
+ENT0899,Elliott Group Pvt Ltd,1.82,14320033.12,Defaulted,Medium,2024-02-08,637,Logistics,Short pick already ever who ever community.
+ENT0900,Green and Sons Pvt Ltd,2.86,69887120.24,Defaulted,Low,2024-03-18,885,Services,To special morning forget.
+ENT0901,Noble-Clayton Pvt Ltd,2.68,69176773.55,Defaulted,Low,2024-02-18,624,Healthcare,One often value cost.
+ENT0902,"Clark, Young and Parker Pvt Ltd",2.86,99507409.22,Closed,High,2023-10-04,876,Energy,Current situation trip significant machine rule away.
+ENT0903,Munoz-Robles Pvt Ltd,2.84,63553903.14,Closed,Medium,2023-07-21,538,Healthcare,Great win do work middle.
+ENT0904,"Huang, Goodman and Cochran Pvt Ltd",4.91,1156510.81,Active,Low,2024-08-17,420,Finance,Blue support stay amount energy trial.
+ENT0905,"Grimes, Smith and Romero Pvt Ltd",4.1,99899713.72,Closed,Low,2024-09-18,658,Finance,Represent toward add skin base first teacher.
+ENT0906,Paul and Sons Pvt Ltd,0.55,20917526.75,Closed,Low,2023-11-02,369,Healthcare,Trial three never important.
+ENT0907,"Rocha, White and Lee Pvt Ltd",1.85,55449366.34,Active,Low,2024-12-18,641,Technology,List land special against reveal compare.
+ENT0908,Malone-Saunders Pvt Ltd,2.28,57323232.54,Active,Medium,2024-01-04,498,Technology,Or story agent special.
+ENT0909,Johnson Ltd Pvt Ltd,4.25,92305696.76,Closed,High,2024-04-09,336,Retail,Similar similar three fund ground.
+ENT0910,Mcmillan-Shepard Pvt Ltd,2.67,63092848.28,Defaulted,Medium,2024-06-11,773,Logistics,Audience size item take over many food.
+ENT0911,Garcia-Mosley Pvt Ltd,4.68,6546206.23,Defaulted,Low,2023-12-08,623,Manufacturing,Serve method simple audience travel.
+ENT0912,"Banks, Rodriguez and Allen Pvt Ltd",1.44,68863836.73,Closed,Low,2024-11-02,452,Healthcare,Must outside wait.
+ENT0913,Fox LLC Pvt Ltd,4.28,34576089.38,Closed,Medium,2024-07-29,469,Logistics,Money memory movement forward in standard probably lay.
+ENT0914,Bryant Ltd Pvt Ltd,1.34,12567619.18,Closed,Medium,2024-01-14,622,Manufacturing,Plan activity conference.
+ENT0915,Wright Group Pvt Ltd,1.72,9592980.71,Active,Low,2024-08-19,609,Finance,Claim finish carry though the.
+ENT0916,Miller-Garcia Pvt Ltd,2.86,18326261.83,Closed,Medium,2024-12-01,506,Services,Plant evidence worker cultural necessary.
+ENT0917,Guzman-Ramirez Pvt Ltd,2.5,3468542.69,Closed,High,2024-05-18,457,Finance,Ball position usually clear day.
+ENT0918,Bowers-Fisher Pvt Ltd,2.03,48863722.35,Defaulted,Low,2023-09-09,635,Retail,Blood attorney movement already.
+ENT0919,Goodman-Alexander Pvt Ltd,3.96,10726904.93,Defaulted,Medium,2024-04-18,435,Finance,Make fire perhaps thought ago.
+ENT0920,"Norton, Marshall and Tucker Pvt Ltd",3.76,46477472.65,Defaulted,Medium,2024-09-27,418,Manufacturing,Never fill tough weight issue entire.
+ENT0921,"Willis, Jordan and Glover Pvt Ltd",1.9,5358966.4,Defaulted,Medium,2024-08-12,641,Energy,Design story next stand.
+ENT0922,Wright-Morris Pvt Ltd,4.5,11207180.12,Defaulted,Medium,2025-04-20,323,Healthcare,People over project at travel budget.
+ENT0923,Villa LLC Pvt Ltd,3.37,21774723.0,Active,Low,2025-01-23,583,Technology,Model some left still.
+ENT0924,Carroll-Bryan Pvt Ltd,3.98,67441280.15,Closed,Low,2024-01-06,580,Services,Detail window indicate.
+ENT0925,Hanson-Hall Pvt Ltd,0.57,62671551.31,Defaulted,Low,2024-12-23,855,Technology,Instead finally break laugh determine.
+ENT0926,Hicks LLC Pvt Ltd,2.97,27834157.98,Defaulted,Medium,2025-02-27,887,Finance,Bad fill protect result argue ahead.
+ENT0927,Aguilar-Torres Pvt Ltd,1.27,31826378.41,Closed,Low,2024-08-18,351,Retail,Cut newspaper side game him man.
+ENT0928,"Noble, Phillips and Cruz Pvt Ltd",0.63,90425948.36,Active,Low,2024-10-30,355,Services,Campaign everybody improve exactly newspaper look.
+ENT0929,Paul Inc Pvt Ltd,2.42,18719316.33,Defaulted,Medium,2023-12-25,756,Technology,Hard road behavior national develop and.
+ENT0930,Flores-Smith Pvt Ltd,1.91,81926755.92,Defaulted,Medium,2024-02-23,846,Services,In involve fund me memory.
+ENT0931,Hartman-Duncan Pvt Ltd,4.88,75818550.62,Closed,Low,2023-10-25,395,Energy,Water house into institution position personal executive.
+ENT0932,"Hall, Bryan and Cabrera Pvt Ltd",0.94,31728776.77,Defaulted,Medium,2024-04-23,776,Energy,Happy now majority add bed now.
+ENT0933,"Coleman, Gardner and Johnson Pvt Ltd",1.54,23155650.94,Defaulted,Low,2024-05-17,672,Logistics,But rate must set raise.
+ENT0934,Campbell-Kidd Pvt Ltd,1.33,91809177.76,Closed,Medium,2024-12-04,632,Energy,Product common admit more page few rather moment.
+ENT0935,"Clements, Collins and Beck Pvt Ltd",2.69,7471154.68,Active,Low,2025-01-28,772,Retail,Set usually imagine grow.
+ENT0936,Carson Ltd Pvt Ltd,1.77,35512928.78,Defaulted,Low,2024-07-12,405,Logistics,Above pick discuss somebody so whatever.
+ENT0937,Davis-Thompson Pvt Ltd,4.18,79879019.56,Closed,Low,2025-02-19,372,Healthcare,Production imagine theory other federal physical.
+ENT0938,Glover LLC Pvt Ltd,2.9,40680831.0,Closed,Low,2025-02-22,549,Retail,Through have find book usually result service.
+ENT0939,"Simpson, Bolton and Smith Pvt Ltd",4.88,38997829.42,Closed,Low,2024-06-16,741,Logistics,Agency of theory nearly.
+ENT0940,"Johnson, Wood and Tran Pvt Ltd",3.05,34877882.63,Defaulted,Low,2023-12-13,379,Energy,Majority about growth let enter camera little race.
+ENT0941,Smith Group Pvt Ltd,1.01,60011473.86,Closed,Low,2024-04-09,755,Retail,Travel place actually deep hospital order.
+ENT0942,Hamilton Inc Pvt Ltd,1.89,41173576.02,Defaulted,Low,2024-06-02,688,Technology,Treat production guess crime yes fall.
+ENT0943,Rogers Group Pvt Ltd,2.72,66356311.14,Active,Low,2023-06-27,442,Manufacturing,Half body return leg.
+ENT0944,"Scott, Meadows and King Pvt Ltd",3.91,66427257.98,Closed,Low,2024-10-26,699,Energy,Lose win eat car sea require.
+ENT0945,Williams-Johnson Pvt Ltd,1.38,68470162.01,Closed,Low,2025-01-12,611,Logistics,Leader wind support.
+ENT0946,Adams PLC Pvt Ltd,3.73,91596673.54,Active,Low,2024-03-29,822,Logistics,Federal paper million cut kind president against whatever.
+ENT0947,Olson-Bowen Pvt Ltd,4.31,85398012.77,Active,Low,2024-05-28,862,Manufacturing,Want pass entire culture future goal worry decision.
+ENT0948,Gardner-Steele Pvt Ltd,0.5,56442995.53,Closed,Low,2024-01-04,588,Manufacturing,Your health quite.
+ENT0949,Russell-Hogan Pvt Ltd,1.56,70519966.34,Closed,Medium,2023-08-16,691,Logistics,Generation story quickly participant remember new.
+ENT0950,Gomez and Sons Pvt Ltd,2.22,54966760.01,Defaulted,Low,2023-11-09,442,Finance,Hundred west red American mean soldier since.
+ENT0951,Stone Ltd Pvt Ltd,3.0,84489439.4,Closed,Medium,2023-11-26,457,Healthcare,Recent arrive former effort also pick great.
+ENT0952,Caldwell LLC Pvt Ltd,4.99,67336542.11,Active,Low,2023-09-23,316,Retail,Table town water about.
+ENT0953,Ortega Ltd Pvt Ltd,3.75,49183432.36,Closed,High,2024-02-19,439,Services,Far couple foreign hundred.
+ENT0954,Crawford-Rivas Pvt Ltd,1.12,80788219.85,Closed,Medium,2024-04-19,735,Retail,Anything ten could risk poor.
+ENT0955,"Bates, Mills and Anderson Pvt Ltd",2.54,42988343.77,Closed,Low,2023-09-23,531,Retail,Bag positive suggest figure popular back deep.
+ENT0956,Robinson-Lowe Pvt Ltd,2.41,1735569.16,Closed,Medium,2025-01-18,542,Healthcare,Instead until why human yes ahead.
+ENT0957,Price-Austin Pvt Ltd,2.35,55070459.78,Closed,Low,2025-01-22,338,Energy,Local use table heavy along fast because speech.
+ENT0958,"Hill, Walters and Weber Pvt Ltd",3.67,12203272.59,Closed,High,2023-10-13,381,Retail,Scene read check scientist finish region amount.
+ENT0959,Roberts-Ross Pvt Ltd,3.79,53114397.33,Closed,Low,2023-10-05,380,Services,Remain very member you among reduce drive smile.
+ENT0960,"Hunter, Anderson and Hensley Pvt Ltd",1.6,63435622.06,Defaulted,High,2024-04-11,379,Healthcare,Always team join reduce kid.
+ENT0961,"Allen, Cruz and Knight Pvt Ltd",3.26,90454941.99,Defaulted,Medium,2024-01-17,780,Energy,Who list employee act size figure son.
+ENT0962,Zimmerman-Walsh Pvt Ltd,2.81,47454006.82,Defaulted,Low,2024-05-24,661,Healthcare,Within court throw civil mission country eat.
+ENT0963,Stone Inc Pvt Ltd,1.8,4497297.78,Defaulted,Medium,2024-09-26,877,Healthcare,Them measure if who.
+ENT0964,Arias-Murray Pvt Ltd,0.78,47842892.66,Active,Low,2023-06-17,598,Manufacturing,Perform discuss entire similar lot.
+ENT0965,Todd-Miranda Pvt Ltd,1.79,9168506.51,Defaulted,Low,2025-04-13,584,Healthcare,Congress arm son party where.
+ENT0966,"Rowland, Lee and Tran Pvt Ltd",1.1,28816221.22,Closed,Low,2024-02-08,414,Retail,Yeah example quickly mind imagine president board.
+ENT0967,Gray and Sons Pvt Ltd,4.6,74157756.12,Defaulted,Low,2025-03-31,479,Healthcare,Development send democratic face.
+ENT0968,Trujillo-Clark Pvt Ltd,4.02,24383392.2,Active,Medium,2024-06-17,333,Technology,Environment away play message its art.
+ENT0969,"Gonzales, Taylor and Hooper Pvt Ltd",4.93,96767217.74,Defaulted,High,2025-02-26,457,Energy,Authority control oil imagine several what.
+ENT0970,Harris PLC Pvt Ltd,3.89,41881839.78,Closed,Low,2024-06-09,750,Retail,Late drug cell without.
+ENT0971,"Robinson, Wells and Harris Pvt Ltd",1.45,73701749.98,Closed,Low,2024-06-26,570,Services,Writer ask idea near need trip star reduce.
+ENT0972,"Smith, Williams and Wright Pvt Ltd",0.74,46937477.88,Closed,Low,2024-05-08,845,Finance,Natural up child risk.
+ENT0973,"Morales, Lopez and Hernandez Pvt Ltd",2.21,70855172.65,Closed,Low,2023-07-18,843,Logistics,Shoulder candidate believe crime ball strategy key.
+ENT0974,"Robinson, Cochran and Pugh Pvt Ltd",0.55,92795030.08,Closed,Low,2024-02-28,623,Manufacturing,Treat inside job claim he four deal.
+ENT0975,Kelly-Hill Pvt Ltd,0.94,53598041.87,Closed,High,2023-11-09,742,Healthcare,Rise middle religious almost.
+ENT0976,Neal PLC Pvt Ltd,2.01,27441693.76,Active,Low,2024-07-19,898,Logistics,Force really place organization stand.
+ENT0977,Perez Inc Pvt Ltd,2.57,67853820.79,Active,Medium,2023-07-20,499,Technology,Throw world evidence suddenly possible sure coach.
+ENT0978,Edwards-Webster Pvt Ltd,3.55,99328269.85,Closed,Low,2024-09-06,308,Services,Big decade pick technology western rate second.
+ENT0979,"Scott, Brown and Camacho Pvt Ltd",0.55,10672177.19,Active,Medium,2024-07-01,659,Finance,Sometimes truth film process candidate rich time recently.
+ENT0980,Smith PLC Pvt Ltd,3.76,25937714.61,Active,Low,2024-06-26,394,Manufacturing,Yard response teacher where explain green.
+ENT0981,Parsons-Davis Pvt Ltd,4.72,66003946.34,Active,High,2024-06-23,424,Services,Purpose spring air when increase skin resource.
+ENT0982,Gomez-Kelly Pvt Ltd,0.89,60863892.65,Closed,Medium,2023-11-02,879,Retail,Catch west art life draw author.
+ENT0983,Green LLC Pvt Ltd,4.53,69869709.73,Closed,Low,2023-11-18,377,Energy,Nearly few participant.
+ENT0984,Garcia-Brown Pvt Ltd,4.65,28361972.65,Closed,Medium,2023-08-27,631,Healthcare,More bar finish tonight.
+ENT0985,Ross LLC Pvt Ltd,1.23,8325708.94,Active,Low,2024-01-09,640,Manufacturing,Appear talk significant art admit major watch.
+ENT0986,Vargas-Bell Pvt Ltd,1.66,81467285.52,Active,Low,2024-02-28,803,Finance,Child stock structure campaign major few person eat.
+ENT0987,Carpenter PLC Pvt Ltd,3.25,18665774.84,Closed,Low,2023-10-25,853,Logistics,Left individual article.
+ENT0988,"Tapia, Palmer and Krause Pvt Ltd",1.48,64690478.53,Closed,Medium,2023-06-04,405,Manufacturing,Pull beautiful a customer these successful.
+ENT0989,Howe-Ford Pvt Ltd,0.83,57563111.42,Closed,Medium,2023-09-13,319,Energy,Add star enough manager one finish street.
+ENT0990,Smith Ltd Pvt Ltd,1.17,64393191.66,Active,Medium,2023-08-21,572,Retail,Skill state space report even he general.
+ENT0991,Short-Murray Pvt Ltd,3.65,90557136.8,Defaulted,Low,2024-01-13,802,Energy,Building public carry southern coach green house.
+ENT0992,Cooper Ltd Pvt Ltd,2.46,84560866.21,Active,Low,2024-05-17,303,Logistics,Property usually seven around cut.
+ENT0993,"Thompson, Perry and Deleon Pvt Ltd",4.79,81979689.28,Closed,Low,2024-09-03,848,Technology,Training tell mission throw card toward.
+ENT0994,Gross-Hicks Pvt Ltd,2.0,30979979.57,Active,Medium,2024-04-08,392,Technology,Scientist ok culture leave image program.
+ENT0995,Johnson-Riggs Pvt Ltd,2.91,96131626.68,Active,Medium,2023-11-27,596,Finance,Reveal foreign want course somebody.
+ENT0996,Mckay PLC Pvt Ltd,1.29,4893787.08,Closed,Medium,2024-04-05,606,Logistics,Care upon instead common bad data.
+ENT0997,"Kennedy, Brock and Harris Pvt Ltd",4.53,63431088.69,Closed,Low,2024-05-09,748,Finance,Story consumer fine actually responsibility important.
+ENT0998,Richards Inc Pvt Ltd,1.13,20116179.17,Defaulted,High,2023-10-04,544,Energy,Travel board field industry begin part may.
+ENT0999,Short and Sons Pvt Ltd,2.25,79481178.01,Defaulted,Low,2024-10-21,846,Energy,Here now whom establish place.
+ENT1000,Ayers-Lynch Pvt Ltd,4.85,2625410.31,Closed,Low,2025-04-05,343,Logistics,Western heart fear right long bar Republican push.
